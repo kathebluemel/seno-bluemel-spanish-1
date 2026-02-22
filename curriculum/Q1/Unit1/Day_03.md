@@ -1,96 +1,80 @@
 # Quarter 1 | Unit 1 | Day 3
-## ¿Cómo te llamas? — Identity & Global Introductions
-### *Formal vs. Informal Registers & Naming Traditions*
+## ¿Cuántos años tienes? — Age and Numbers 0–20
+### *Quantifying Identity and the Verb Tener*
 *Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 3 of 171*
 
 ---
 
 ### 📌 Standards Leadership & Alignment
+**Frameworks:** *ACTFL, NCSSFL-ACTFL, AATSP, JNCL-NCLIS, & Missouri CLEs*
 
-**National Standards Alignment (Primary)**
-*Grounded in the pedagogical frameworks of **ACTFL, NCSSFL, AATSP, and JNCL-NCLIS**.*
-- **Communication – Interpersonal:** Exchange personal information including names and courtesies in simple conversations.
-- **Communication – Presentational:** State one's own name and ask for another's name in both formal and informal contexts.
-- **Cultures – Perspectives:** Understand naming conventions (double surnames) and how introductions function as a sign of respect across cultures.
-- **Comparisons – Language:** Identify the distinction between the informal (*tú*) and formal (*usted*) registers in introductions.
-
-**NCSSFL-ACTFL Can-Do Statements**
-> *I can tell someone my name and ask for theirs using the appropriate level of formality.*
-> *I can respond to an introduction with a culturally appropriate courtesy like "Mucho gusto" or "Igualmente."*
-> *I can explain why many people in Spanish-speaking cultures have two surnames.*
-
-**Missouri CLEs (Secondary Alignment)**
-- FL.1.A.1 – Engage in simple conversations on familiar topics.
-- FL.3.A.1 – Connect Spanish naming practices to social studies and history.
+| Domain | Focus & Standard Alignment |
+|---|---|
+| **Communication** | **Interpersonal:** Exchange information about age and phone numbers. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify numbers 0–20 in a variety of contexts. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** State personal age and basic numerical data. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
+| **Cultures** | **Perspectives:** Understand the cultural logic of "having" years (*Tener*) vs. "being" an age (*To be*). *[ACTFL 2.2 / NCSSFL-ACTFL CUL.P]* |
+| **Connections** | **Mathematics:** Utilizing target language for counting and simple arithmetic. *[ACTFL 3.1 / JNCL-NCLIS]* |
+| **Communities** | **Peer Connection:** Learning more about the personal demographics of the class community. *[ACTFL 5.1 / AATSP]* |
+| **Missouri CLEs** | **FL.1.A.2 / FL.4.A.1:** Using numbers; comparing grammatical structures (Tener vs. To be). |
 
 ---
 
-### 🎯 Lesson Objectives (UbD Backward Design)
+### 🎯 Learning Targets & Can-Do Statements
+> *“Numbers are the skeleton of conversation. Without them, you cannot share your birthday, your age, or your phone number.”*
 
-**Enduring Understanding:** Personal identity is the foundation of relationship. How we introduce ourselves—and how we honor others' names—reflects our level of global cultural awareness.
-
-**Essential Question:** How does the way I introduce myself change depending on whom I am speaking to?
-
----
-
-### 📚 Vocabulary Focus: Establishing Identity
-
-| Spanish | Register / Context | English |
-|---|---|---|
-| **¿Cómo te llamas?** | Informal (*tú*) | What is your name? |
-| **¿Cómo se llama usted?** | Formal (*usted*) | What is your name? |
-| **Me llamo…** | Universal | My name is… (I call myself) |
-| **Mucho gusto** | Universal | Nice to meet you |
-| **El gusto es mío** | Formal / Traditional | The pleasure is mine |
-| **Igualmente** | Universal | Likewise / Equally |
+* **Learning Target:** I can use numbers 0–20 to express my age and understand numerical information from others.
+* **Can-Do (Interpretive):** I can recognize numbers 0–20 when I hear them out of sequence.
+* **Can-Do (Interpersonal):** I can ask a classmate how old they are and respond correctly using the verb *Tener*.
+* **Can-Do (Presentational):** I can write a short introduction that includes my name, my feeling, and my age.
 
 ---
 
-### 🌍 Cultural Spotlight: The Power of the Surname
-
-Introduction rituals across the **21 Spanish-speaking countries** often involve more than just a first name.
-
-* **The Double Surname:** In most Hispanic cultures, individuals carry **two last names** (e.g., *García López*). The first is the paternal surname (from the father), and the second is the maternal surname (from the mother). This maintains a visible connection to both sides of the family tree.
-* **The "Vos" Variation:** In **Argentina, Uruguay,** and parts of Central America, you will hear *¿Cómo te llamás?* (with an accent on the 'a'). This is a regional variation that is a proud marker of identity.
-* **Spain vs. The Americas:** While *Mucho gusto* is universal, in **Spain**, you may hear *Encantado/a* (Enchanted/Delighted) more frequently during a first meeting.
+### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
 
 
----
-
-### 🕐 Lesson Timeline (50 Minutes)
-
-**Warm-Up: The Time-Based Greeting (5 min)**
-Teacher displays images of a sunrise, a midday sun, and a moon. Students must greet a partner with the correct time-based greeting (*Buenos días, etc.*).
-
-**Input: The "Who is Who?" CI Script (18 min)**
-Teacher models the difference between meeting a friend (Informal) and a principal/elder (Formal).
-- **Informal:** "¡Hola! ¿Cómo te llamas? — Me llamo Luis. — ¡Mucho gusto!"
-- **Formal:** "Buenos días, Señor Director. ¿Cómo se llama usted? — Me llamo Sr. Rodríguez. — El gusto es mío."
-- Teacher explains that *Me llamo* literally means "I call myself."
-
-**Activity: The Name Interview Chain (12 min)**
-Students stand in two lines facing each other. They practice the full exchange: Greeting → Name Ask → Name Answer → Courtesy. On the teacher's signal, one line rotates so everyone meets a new "global citizen."
-
-**Activity: "Mi Nombre Global" (8 min)**
-Students calculate what their "Spanish Double Surname" would be based on their parents' names. They write it on the back of their **Desk Passport**.
-
-**Exit Ticket: Formal vs. Informal (7 min)**
-On a slip of paper, students write the correct "Name Question" for:
-1. A new student in the cafeteria.
-2. The President of a Spanish-speaking country.
+| Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
+|:---:|---|---|---|---|
+| **10 min** | **Activador: El BINGO Rápido** | Students draw a 3x3 grid and fill it with random numbers 0–20. Teacher calls out numbers in Spanish. | Use this to check "Input Recognition." If students are slow to mark their cards, you know they haven't memorized the sounds yet. | **T:** "¡Catorce!" <br>**S:** (Marks 14) |
+| **10 min** | **Input: ¿Cuántos años tienes?** | Use the "Age of Celebrities" strategy. Show a picture of a young celebrity (e.g., Jenna Ortega) and an older one. Ask: *"¿Cuántos años tiene?"* | **Grammar Alert:** Use gestures to show "Having" age. Act as if you are holding something in your hands to emphasize *Tener*. | *"Él tiene diez años. Yo tengo catorce años."* |
+| **15 min** | **Task: La Entrevista de Cumpleaños** | Students move around the room. They must find 3 people with a different age than them and record: 1. Name 2. Age. | **Live-Grade:** Walk around and listen for the "gn" sound in *años*. Ensure they aren't saying "anos" (which has a very different meaning!). | **A:** "¿Cuántos años tienes?" <br>**B:** "Tengo quince años. ¿Y tú?" |
+| **10 min** | **Presentational: The Digital Profile** | Students draft a "Social Media Bio" (3 sentences): 1. Greeting 2. Name 3. Age. | Check for the tilde over the 'ñ' in *años*. This is a non-negotiable for accuracy and cultural respect. | *"¡Hola! Me llamo Sofia y tengo trece años."* |
+| **5 min** | **Reflexión: The Verb "Tener"** | Quick discussion: In English, we say "I *am* 15." In Spanish, we say "I *have* 15 years." Why the difference? | Frame it as: "In Spanish, age is something you have collected over time, like a treasure." | "I possess 15 years of experience in life!" |
 
 ---
 
-### 📺 Supplemental Resource Bank
+### 📊 ACTFL-Aligned Performance Rubric (4-Tier Formative)
 
-> 🎬 **Watch:** Educators and students may visit the [Seño Bluemel Que Chévere YouTube Channel](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for a video tutorial on Spanish naming conventions and the reflexive nature of the verb *llamarse*.
+| Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
+|---|---|---|---|---|
+| **Comprehensibility** | Pronunciation of numbers is flawless. Distinct 'ñ' in *años*. | Numbers are recognizable. Some English accent on 11–15. | Meaning is clear but numbers 6/7 or 16/17 are confused. | Cannot produce numbers 0–20 intelligibly. |
+| **Language Control** | Consistently uses *Tengo* correctly. Accurate use of *años*. | Uses *Tengo* correctly but may forget the 's' in *años*. | Uses "Soy [number]" instead of "Tengo [number]". | No attempt at the *Tener* structure. |
+| **Interpersonal Quality** | Interaction is fluid. Asks follow-up questions (*¿Y tú?*). | Participates in the interview and records data accurately. | Responds with single numbers instead of full sentences. | Refuses to interview peers; uses English. |
+| **Accuracy (Written)** | Correct spelling of numbers and 'ñ'. Proper punctuation. | Correct use of *Tengo*. Minor spelling errors in numbers. | Forgets the 'ñ' in *años*. | Written output is incomplete or mostly English. |
+
+---
+
+### 📘 Pedagogical Blueprint: How to Implement this Lesson
+> *A guide for managing the transition from vocabulary to syntax.*
+
+**1. The "Anos" vs "Años" Warning:**
+This is a "Classroom Management through Language" moment. Explain clearly that the tilde (~) changes the sound and the meaning entirely. It’s a great way to show that small details in Spanish carry huge weight.
+
+**2. Scaffolding Numbers 11–15:**
+These are the most difficult numbers for beginners. Spend extra time on *Once, Doce, Trece, Catorce, Quince*. Use a rhythmic chant or a clap to help them memorize the "ce" ending.
+
+**3. The Goal of the Interview:**
+The interview isn't just about numbers; it's about "Interpersonal Stamina." Can they keep a conversation going for 30 seconds without switching to English? Reward the effort of staying in the Target Language.
 
 ---
 
-### 📝 Scaffolding & Differentiation
-- **Scaffolding:** Provide a "Handshake Guide" visual showing the formal vs. informal dialogue side-by-side.
-- **Extension:** Challenge heritage speakers to share if their family uses specific titles of respect like *Don* or *Doña* before a name.
-- **Kinesthetic:** Use a "talking piece" (like a small flag) to indicate whose turn it is to introduce themselves.
+### 🚀 Differentiation & Enrichment
+
+* **Support (Struggling):** Provide a "Number Key" on the board that shows the numeral and the Spanish word side-by-side.
+* **Enrichment (Achieving):** Challenge students to ask for a "fake" phone number (*¿Cuál es tu número de teléfono?*) to practice numbers 0–9 in a different sequence.
 
 ---
+
+### 📺 Seño Bluemel Resource
+> 🎬 **Watch:** Numbers in Spanish require specific vowel placement to be understood. Review the "Vowel Sounds" section of this video to help with numbers like *Siete* vs. *Seis*: [**El Alfabeto en Español - Práctica Fonética**](https://www.youtube.com/watch?v=eRZ9cjugUfw).
+> 
+> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for number songs and the "Ten Little Pumpkins" (Diez calabazas) counting practice.
