@@ -1,96 +1,80 @@
 # Quarter 1 | Unit 1 | Day 1
-## ¡Bienvenidos al Mundo Hispanohablante! 
-### *Foundations of Global Identity & Greetings*
+## ¡Hola a todos! — First Encounters & Global Greetings
+### *Establishing Community and Phonetic Foundations*
 *Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 1 of 171*
 
 ---
 
 ### 📌 Standards Leadership & Alignment
+**Frameworks:** *ACTFL, NCSSFL-ACTFL, AATSP, JNCL-NCLIS, & Missouri CLEs*
 
-**National Standards Alignment (Primary)**
-*Grounded in the pedagogical frameworks of **ACTFL, NCSSFL, AATSP, and JNCL-NCLIS**.*
-- **Communication – Interpersonal:** Engage in basic greeting exchanges and name sharing.
-- **Communication – Interpretive:** Demonstrate understanding of high-frequency greetings through physical/gestural response.
-- **Cultures – Practices & Perspectives:** Recognize that greeting customs reflect the diverse cultural values of 21 Spanish-speaking countries and territories.
-- **Connections – Global Literacy:** Connect Spanish language learning to a vast, multicultural world spanning four continents.
-
-**NCSSFL-ACTFL Can-Do Statements**
-> *I can greet my teacher and classmates using basic Spanish greetings.*
-> *I can state my name in response to the question ¿Cómo te llamas?*
-> *I can identify that Spanish is a global language spoken across 21 countries and territories.*
-
-**Missouri CLEs (Secondary Alignment)**
-- I.1.1.A — Use target language greetings and introductions in simple interactions.
-- C.1.1.A — Identify basic cultural practices related to greetings.
-
----
-
-### 🎯 Lesson Objectives (UbD Backward Design)
-
-**Enduring Understanding:** Spanish is a living, global bridge. Knowing how to greet someone is the first step toward intercultural competence and connection with over 500 million speakers.
-
-**Essential Question:** How does the way we say "hello" reflect our identity and our respect for others' cultures?
-
-**Transfer Goal:** Students will begin building the linguistic and cultural foundations necessary for the Unit 1 "International Student Summit" IPA (Day 20).
-
----
-
-### 📚 Vocabulary Focus: The Global Greeting
-
-| Structure | Context |
+| Domain | Focus & Standard Alignment |
 |---|---|
-| **¡Hola! / ¡Bienvenidos!** | Universal Greeting / Welcome |
-| **Buenos días / Buenas tardes** | Time-based formal/informal |
-| **¿Cómo te llamas? / Me llamo...** | Establishing Identity |
-| **Mucho gusto / Igualmente** | Courtesies |
-| **Regional Variations:** | *¡Chévere!* (Caribbean/Colombia), *¡Guay!* (Spain), *¡Qué padre!* (Mexico), *¡Pura Vida!* (Costa Rica) |
+| **Communication** | **Interpersonal:** Use basic greetings and leave-takings in social situations. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify common greetings and introductions in audio/visual media. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** Introduce oneself using simple memorized phrases. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
+| **Cultures** | **Practices:** Understand the cultural significance of the "beso" vs. "apretón de manos" in greetings. *[ACTFL 2.1 / NCSSFL-ACTFL CUL.P]* |
+| **Connections** | **Social Literacy:** Connecting linguistic greetings to interpersonal relationship building. *[ACTFL 3.1 / JNCL-NCLIS]* |
+| **Communities** | **Global Citizenship:** Recognizing oneself as a new member of the global Spanish-speaking community. *[ACTFL 5.1 / AATSP]* |
+| **Missouri CLEs** | **FL.1.A.1 / FL.3.A.1:** Using greetings and introductions; connecting language to cultural practices. |
 
 ---
 
-### 🌍 Cultural Spotlight: 21 Countries, One Language
+### 🎯 Learning Targets & Can-Do Statements
+> *“A first greeting is the key that opens the door to 21 cultures.”*
 
-Spanish is a global powerhouse spoken in **Europe, Africa, North America, Central America, South America, and the Caribbean.**
-
-* **Diversity of Greeting:** In many Spanish-speaking cultures, greetings are physical and warm (kisses on the cheek or hugs), reflecting a cultural value of *personalismo* (personal connection). 
-* **Linguistic Identity:** While the core language is the same, each of the 21 countries has its own "flavor." For example, a student from **Equatorial Guinea (Africa)** might greet you differently than a student from **Argentina** or **Spain**. 
-* **Inclusivity Note:** This curriculum celebrates all 21 nations equally, ensuring students see the full "tapestry" of the Spanish-speaking world.
-
----
-
-### 🕐 Lesson Timeline (50 Minutes)
-
-**Warm-Up / Entry (5 min)**
-Teacher stands at the door, greeting each student with a gesture and a smile: *¡Hola! ¡Bienvenidos! Pasa, por favor.*
-
-**Input: The "Global Passport" CI Script (18 min)**
-Teacher uses a large world map to point out the 21 countries. 
-- "Spanish is NOT from one place. It is from Mexico, Spain, Equatorial Guinea, Argentina... 21 countries!"
-- Teacher introduces themselves as one "voice" in this world (e.g., "I am Seño Bluemel; my family is from Colombia, but we will learn about all 21 countries together!").
-- Practice *¿Cómo te llamas?* and *Me llamo...* using a "ball toss" or "hot potato" to keep the energy high.
-
-
-
-**Student Activity: El Pasaporte Inicial (15 min)**
-Students create a **Desk Passport** (Name Tag).
-- **Front:** *Me llamo [Name]* + colors/flags of any of the 21 countries they feel curious about.
-- **Back:** A "Greeting Menu" where they circle their favorite way to say hello today.
-
-**Cultural Comparison (7 min)**
-Think-Pair-Share: Compare "Midwest American" greeting norms (waves/space) with "Hispanic" greeting norms (hugs/kisses/warmth). Discuss how both are "correct" within their own cultural context.
-
-**Exit Ticket: The High-Five Goodbye (5 min)**
-Students say *Adiós* or *Hasta luego* to the teacher to "exit" the classroom.
+* **Learning Target:** I can use culturally appropriate greetings and introductions to establish a connection with others.
+* **Can-Do (Interpretive):** I can recognize when someone is greeting me and saying goodbye in Spanish.
+* **Can-Do (Interpersonal):** I can greet a peer, ask their name, and say goodbye using culturally appropriate gestures.
+* **Can-Do (Presentational):** I can state my name and a greeting in a recorded or written format.
 
 ---
 
-### 📺 Supplemental Resource Bank
+### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
-> 🎬 **Watch:** Educators may visit the [Seño Bluemel Que Chévere YouTube Channel](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for supplemental videos showcasing authentic greetings and cultural snapshots from across the Spanish-speaking world. 
+
+
+| Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
+|:---:|---|---|---|---|
+| **8 min** | **Activador: El Círculo de Saludos** | Students stand in a circle. Teacher models a greeting and a specific gesture (wave, handshake, or slight nod). Students repeat and pass it around the circle like a "wave." | Observe for physical comfort with gestures. Use "high energy" to lower the affective filter on day one. Ensure students are making eye contact. | **T:** "¡Hola!" (waves)<br>**C:** "¡Hola!" (waves) |
+| **12 min** | **Input: The Greeting Matrix (Interpretive)** | Use Comprehensible Input (CI) to show the difference between *Buenos días*, *Buenas tardes*, and *Buenas noches*. Use a sun/moon drawing on the board. | Use a clock visual. Emphasize that "Buenas tardes" starts after lunch in many cultures, not strictly at 12:00 PM. | *Show 2:00 PM on clock* → "¡Buenas tardes!" |
+| **15 min** | **Task: Speed Friending (Interpersonal)** | Students rotate in two lines. They have 30 seconds to greet, exchange names (*¿Cómo te llamas? / Me llamo...*), and say goodbye. | **Live-Grade:** Move with a clipboard. Check for eye contact and correct use of "Me llamo" (ensure they aren't saying 'My name is' in English). | **A:** "¡Hola! ¿Cómo te llamas?"<br>**B:** "Me llamo Luis. ¿Y tú?"<br>**A:** "Me llamo Ana. ¡Adiós!" |
+| **10 min** | **Presentational: The Desk Passport** | Students create a small card for their desk with a greeting, their name, and one "Mood Emoji" (prelude to Day 2 emotions). | Use this to walk around and practice name pronunciation. This becomes the teacher's "cheat sheet" for the first week. | **Card:** ¡Hola! Me llamo Carlos. (Emoji: 😄) |
+| **5 min** | **Reflexión: The Cultural Beso** | Brief discussion on the "beso" (cheek kiss) vs. the handshake. Ask: "Why do some cultures touch more during greetings than others?" | Frame this as "Cultural Logic" rather than "weirdness." Set the standard for cultural respect in the room. | "In Spain, it's two kisses; in Mexico, usually one." |
 
 ---
 
-### 📝 Scaffolding & Differentiation
-- **Scaffolding:** Provide a visual "Greeting Anchor Chart" with icons for Morning, Afternoon, and Night.
-- **Extension:** Heritage speakers are invited to share regional greetings used in their homes (e.g., *¿Qué onda?* or *¿Cómo andás?*) to validate their home language as an academic asset.
+### 📊 ACTFL-Aligned Performance Rubric (4-Tier Formative)
+
+| Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
+|---|---|---|---|---|
+| **Comprehensibility** | Pronunciation is clear; vowels (O, A) are crisp. Natural gestures used without hesitation. | Understood by those used to language learners. Gestures are appropriate. | Meaning is clear but relies on heavy English accent or phonetics. | Incomprehensible; uses English greetings or sounds exclusively. |
+| **Language Control** | Uses *Me llamo* and *¿Y tú?* correctly and fluidly within the interaction. | Uses *Me llamo* correctly with minimal hesitation or restarts. | Confuses *Me llamo* with *Mi llamo* or uses English syntax. | Cannot state name or use a greeting accurately without help. |
+| **Interpersonal Quality** | Maintains eye contact; reacts naturally with *Mucho gusto* or a smile. | Polite interaction; follows the script provided by the teacher. | Minimal interaction; looks at the floor or relies on the desk card. | Refuses to interact with peers or uses English exclusively. |
+| **Cultural Awareness** | Selects the correct greeting for the current time of day automatically. | Uses a greeting appropriate for the time of day with slight prompting. | Uses "Hola" regardless of time of day, context, or social setting. | No awareness of time-based greetings or cultural gestures. |
 
 ---
+
+### 📘 Pedagogical Blueprint: How to Implement this Lesson
+> *A guide for the first day of high-performance language learning.*
+
+**1. The "100% Target Language" Myth:**
+On Day 1, use 90% Spanish for greetings and basic commands, but use 10% English for the "Reflexión" to ensure the cultural safety and expectations of the room are established. The goal is "Comprehensible," not "Confusing."
+
+**2. Live-Grading on Day 1:**
+Do not give a grade for the gradebook today. Use the rubric to identify "The Quiet Ones." These are the students you will prioritize for a "High-Five" or extra greeting on Day 2 to build their confidence early.
+
+**3. Movement is Essential:**
+The "Speed Friending" activity is designed to break the ice physically. If students stay in their seats on Day 1, they will stay in their shells for the rest of the quarter. Movement equals engagement.
+
+---
+
+### 🚀 Differentiation & Enrichment
+
+* **Support (Struggling):** Provide a "Greeting Map" on the board with phonetics (e.g., O-la). Allow them to keep their desk card in hand during the speed friending.
+* **Enrichment (Achieving):** Challenge them to use *Mucho gusto* (Pleased to meet you) or ask *¿Cómo estás?* (How are you?) if they have prior Spanish exposure.
+
+---
+
+### 📺 Seño Bluemel Resource
+> 🎬 **Watch:** Use this specific video to master the foundational sounds of the Spanish alphabet, which are critical for pronouncing names and greetings correctly: [**El Alfabeto en Español - Práctica Fonética**](https://www.youtube.com/watch?v=eRZ9cjugUfw).
+> 
+> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for introductory greeting videos and "First Week" survival resources.
