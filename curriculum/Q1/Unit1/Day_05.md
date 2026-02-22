@@ -31,14 +31,13 @@
 ### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
 
-
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
 | **10 min** | **Activador: El Sospechoso** | Teacher describes a "suspect" (a student in the room). Students must point to the person being described. | Use "Input Flood." Repeat the adjectives frequently. Focus on *alto/bajo* and *rubio/moreno*. | **T:** "Es un chico. Es bajo. Es moreno." <br>**C:** (Points to the student) |
 | **12 min** | **Input: Gender Agreement (The 'O' and 'A' Rule)** | Use two characters (one male, one female). Show how the adjective changes: *Él es alto* vs. *Ella es alta*. | **Grammar Alert:** Use color-coding. Use blue for 'O' (masculine) and pink or red for 'A' (feminine) to help visual learners. | *"Paco es bajo. María es baja."* |
 | **15 min** | **Task: ¿Quién es quién? (Interpersonal)** | Pair work. Each student has a set of mystery faces. They must describe their "secret person" until the partner guesses correctly. | **Live-Grade:** Listen for the vowel switch. If a boy says "Yo soy alta," gently point to a male student and say "Alto." | **A:** "¿Cómo es tu persona?" <br>**B:** "Es una chica. Es rubia y alta." |
 | **8 min** | **Presentational: My Avatar** | Students draw a quick self-portrait and label it with three adjectives: *Yo soy...* | Check for consistency. The adjectives must match the student's gender identity. | *"Yo soy bajo, moreno y atlético."* |
-| **5 min** | **Reflexión: The Power of 'Ser'** | Discuss why we use *Ser* for height but *Estar* (from Day 2) for feelings. (Permanent vs. Temporary). | Keep it simple. Height is "who you are" (Identity), feelings are "how you are" (State). | "Soy alto (Fixed) vs Estoy feliz (Temporary)." |
+| **5 min** | **Reflexional: The Power of 'Ser'** | Discuss why we use *Ser* for height but *Estar* (from Day 2) for feelings. (Permanent vs. Temporary). | Keep it simple. Height is "who you are" (Identity), feelings are "how you are" (State). | "Soy alto (Fixed) vs Estoy feliz (Temporary)." |
 
 ---
 
@@ -54,7 +53,7 @@
 ---
 
 ### 📘 Pedagogical Blueprint: How to Implement this Lesson
-> *A guide for managing the introduction of Adjective Agreement.*
+> *A guide for managing the introduction of Adjective Agreement.
 
 **1. The "Default" Masculine:**
 Explain to students that in Spanish, dictionaries usually show the masculine form first. They must be "Language Architects" and change the ending to 'A' if they are describing a female.
@@ -76,7 +75,7 @@ Before Task 2, do a "Fishbowl" demo. Have one strong student come to the front a
 
 ### 📺 Supplemental Resource Bank
 
-> 🎥 **Featured Video for Today:** [**Discover the SECRET to Describing Physical Traits in Spanish**](https://www.youtube.com/watch?v=2j9LYjf69Z0)
+> 🎥 **Featured Video for Today:** [**Physical Descriptions in Spanish - Seño Bluemel**](https://www.youtube.com/watch?v=v7lQ0PqTqhM&t=272s)
 >
 > 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
 
