@@ -1,90 +1,85 @@
 # Quarter 1 | Unit 1 | Day 8
-## Soy de… y Estoy… — Navigating Identity vs. State
-### *The Philosophical Distinction of Ser and Estar*
+## Mi Horario — School Subjects & Schedules
+### *Navigating the Daily Routine and Personal Preferences*
 *Unit 1 — Identidad y Comunidad Global | Week 2 | Quarter 1 | Day 8 of 171*
 
 ---
 
 ### 📌 Standards Leadership & Alignment
+**Frameworks:** *ACTFL, NCSSFL-ACTFL, AATSP, JNCL-NCLIS, & Missouri CLEs*
 
-**National Standards Alignment (Primary)**
-*Grounded in the frameworks of **ACTFL, NCSSFL, AATSP, and JNCL-NCLIS**.*
-- **Communication – Interpersonal:** Sustain a multi-turn conversation synthesizing origin, name, and emotional state.
-- **Communication – Presentational:** Introduce a peer to the community using third-person descriptors (*Es de / Está*).
-- **Cultures – Perspectives:** Analyze how language reflects cultural values regarding permanent identity versus temporary experiences.
-- **Comparisons – Language:** Examine the conceptual difference between *Ser* (essence) and *Estar* (condition), a distinction absent in English.
-
-**NCSSFL-ACTFL Can-Do Statements**
-> *I can conduct a full introduction sequence: greeting, name exchange, origin, and well-being.*
-> *I can introduce a classmate using the correct third-person forms: "Es de..." and "Está...".*
-> *I can explain the conceptual difference between permanent identity and temporary states in Spanish.*
-
-**Missouri CLEs (Secondary Alignment)**
-- FL.1.A.3 — Present basic information about another person to an audience.
-- FL.4.A.1 — Identify unique grammatical features of the target language.
+| Domain | Focus & Standard Alignment |
+|---|---|
+| **Communication** | **Interpersonal:** Exchange information about school schedules and likes/dislikes. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify school subjects and ordinal numbers in a spoken schedule. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** Present a basic school schedule with personal opinions. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
+| **Cultures** | **Perspectives:** Compare a typical "Horario" in a Spanish-speaking country with a U.S. schedule (e.g., block scheduling vs. split shifts). *[ACTFL 2.2 / NCSSFL-ACTFL CUL.P]* |
+| **Connections** | **Cross-Curricular:** Using the target language to discuss other academic disciplines (Math, Science, Art). *[ACTFL 3.1 / JNCL-NCLIS]* |
+| **Communities** | **Classroom Identity:** Sharing daily academic experiences to find common ground with peers. *[ACTFL 5.1 / AATSP]* |
+| **Missouri CLEs** | **FL.1.A.1 / FL.1.A.3:** Using vocabulary related to the school environment and expressing preferences. |
 
 ---
 
-### 🎯 Lesson Objectives (UbD Backward Design)
+### 🎯 Learning Targets & Can-Do Statements
+> *“Your schedule is a map of your day. Today, we learn to describe that map and share what we enjoy.”*
 
-**Enduring Understanding:** Spanish is a precise language that distinguishes between who we *are* (our essence) and how we *feel* (our current state). Understanding this "Dual To-Be" system is essential for global communication.
-
-**Essential Question:** How does choosing the right verb change the meaning of what I say about myself and others?
-
----
-
-### 📚 Vocabulary Synthesis: The Synthesis of Being
-
-Today we introduce no new vocabulary; instead, we focus on **Syntactic Precision**.
-
-
-
-| Concept | Verb Type | Linguistic Formula | Example |
-|---|---|---|---|
-| **Identity / Origin** | **SER** (Permanent) | *Soy de... / Es de...* | *Soy de Missouri.* |
-| **State / Feeling** | **ESTAR** (Temporary) | *Estoy... / Está...* | *Estoy excelente.* |
+* **Learning Target:** I can name my school subjects and express which classes I like and dislike.
+* **Can-Do (Interpretive):** I can recognize school subjects and ordinal numbers (1st–8th) in Spanish.
+* **Can-Do (Interpersonal):** I can ask a classmate "¿Qué clases tienes?" and understand their response.
+* **Can-Do (Presentational):** I can create a visual representation of my schedule and label it in Spanish.
 
 ---
 
-### 🌍 Cultural Spotlight: The Precision of "Being"
+### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
-* **The Cuban Rhythm:** In **Cuba**, casual speech often softens the *s* in *estás*, making it sound like *¿Cómo 'tá?*. This is a regional phonetic trait, but the underlying distinction between origin (*soy cubano*) and state (*estoy bien*) remains fundamental.
-* **The Mexican Introduction:** In **Mexico**, moving from *Usted* to *Tú* signals a shift in *confianza* (trust). However, regardless of formality, using *Ser* for your hometown shows that your origin is an unchangeable part of your soul.
-* **The Colombian Identity:** In **Colombia**, mentioning your specific city (*Soy de Medellín*) is common. Because you "are" from there (Ser), it implies your regional traditions are part of your permanent identity.
+
+
+| Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
+|:---:|---|---|---|---|
+| **10 min** | **Activador: El Horario Misterioso** | Teacher describes a schedule: *"Primero, tengo arte. Segundo, tengo ciencias..."* Students must draw the icons for each class in order. | Use **Ordinal Numbers** (Primero, Segundo, Tercero). This provides a natural way to review numbers while learning subjects. | **T:** "Tercero, tengo matemáticas." <br>**S:** (Draws a plus sign/calculator) |
+| **12 min** | **Input: ¿Te gusta o no?** | Use a "Thumbs Up/Down" activity. Show icons for subjects. Ask: *"¿Te gusta el arte?"* Students respond physically and then with *"Me gusta"* or *"No me gusta"*. | **Grammar Alert:** Introduce *Me gusta* as a "feeling" (from Day 2). Ensure they don't say "Yo gusto." | *"A mí me gusta la historia. No me gusta el inglés."* |
+| **15 min** | **Task: La Entrevista Escolar** | Students move around to find peers who share at least two classes with them. They must ask: 1. *¿Qué clase tienes?* 2. *¿Te gusta?* | **Live-Grade:** Listen for the pronunciation of "Ciencias" (soft C) and "Matemáticas" (stress on the 'a'). | **A:** "¿Qué clase tienes tercero?" <br>**B:** "Tengo banda. Me gusta mucho." |
+| **8 min** | **Presentational: Mi Día Ideal** | Students write 3 sentences describing their favorite part of the day. | Encourage the use of adjectives from Day 6 (e.g., *"La clase de arte es divertida"*). | *"Primero, tengo arte. Me gusta mucho porque es divertido."* |
+| **5 min** | **Reflexión: Global Schools** | Quick comparison: In many Spanish-speaking countries, students stay in one room and teachers move. How does that change "Identidad"? | Discussion on community: Staying with the same group of peers all day builds a different social bond. | "In Spain, your classmates are like your second family." |
 
 ---
 
-### 🕐 Lesson Timeline (50 Minutes)
+### 📊 ACTFL-Aligned Performance Rubric (4-Tier Formative)
 
-**Warm-Up: The 3-Second Challenge (7 min)**
-Rapid-fire oral review. Teacher prompts: "Say your name," "Ask where I'm from," "Say you are nervous." Students must respond instantly to build **spontaneous output**.
+| Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
+|---|---|---|---|---|
+| **Comprehensibility** | Pronunciation is clear and fluid. Correct stress on multi-syllable subjects. | Understood by someone used to learners. | Meaning is clear but relies on English phonetics for "Ciencias" or "Geografía." | Incomprehensible; uses English subject names. |
+| **Language Control** | Uses *Me gusta/No me gusta* and *Tengo* with 100% accuracy. | Consistently uses *Me gusta*. Minor errors in ordinal numbers. | Uses "Yo gusta" or "Soy [Class]" instead of "Tengo [Class]". | Cannot form a preference or state a class. |
+| **Interpersonal Quality** | Interaction is fluid. Adds details like "Me gusta mucho" or "Es difícil." | Successfully completes the interview task in the target language. | Relies on single-word answers (e.g., just saying "Arte"). | Refuses to interact; speaks only English. |
+| **Vocabulary Range** | Uses 8+ school subjects and ordinal numbers correctly. | Uses 5-6 common school subjects accurately. | Relies only on cognates like "Música" or "Arte." | Cannot name school subjects in Spanish. |
 
-**Input: The "Solid vs. Dotted" Circle CI Script (12 min)**
-- Teacher draws a **Solid Circle** for **SER**. "This is your origin. It is permanent. *Yo soy de Colombia.* It doesn't change tomorrow."
-- Teacher draws a **Dotted Circle** for **ESTAR**. "This is your mood. It is temporary. *Estoy cansado.* Tomorrow? *Estoy fantástico.* It changes!"
-- Model the shift from 1st person (*Soy/Estoy*) to 3rd person (*Es/Está*).
+---
 
-**Activity: The Essence vs. Condition Sort (8 min)**
-Students categorize phrases into "Essence" (Permanent) or "Condition" (Temporary). 
-*Examples: Me llamo Juan (Essence), Estoy mal (Condition), Soy de Perú (Essence).*
+### 📘 Pedagogical Blueprint: How to Implement this Lesson
+> *A guide for managing the transition from personal traits to daily routine.*
 
-**Main Activity: The Global Interview & Intro (18 min)**
-Students interview a partner to create an **Identity Profile**. 
-- **Task:** Introduce your partner to a small group.
-- **Formula:** *"Les presento a [Nombre]. Es de [País/Ciudad] y hoy está [Emoción]."*
+**1. The "Me gusta" Logic:**
+Remind students that *Me gusta* literally means "It is pleasing to me." This is why we don't say "Yo gusto." If they struggle, have them imagine the class "giving" them a feeling.
 
-**Exit Ticket: The Verb Check (5 min)**
-Write one sentence using *Soy* and one using *Estoy*. Explain why you chose each verb based on the "Solid vs. Dotted" circle concept.
+**2. Ordinal Numbers (1st-5th):**
+Focus heavily on the first five: *Primero, Segundo, Tercero, Cuarto, Quinto*. These are the most common in a school day. Connect *Cuarto* to "Quarter" and *Segundo* to "Second" to help them remember.
+
+**3. Handling "Almuerzo" and "Recreo":**
+Include these as "subjects." For many students, these are the most important parts of the identity map. It's also a great cultural hook to talk about *Siesta* or long lunch breaks in other countries.
+
+---
+
+### 🚀 Differentiation & Enrichment
+
+* **Support (Struggling):** Provide a visual schedule template with icons and the Spanish words underneath for reference during the interview.
+* **Enrichment (Achieving):** Challenge students to explain *why* they like a class using adjectives (e.g., *"Me gusta la ciencia porque es interesante"*).
 
 ---
 
 ### 📺 Supplemental Resource Bank
 
-> 🎬 **Watch:** Educators and students may visit the [Seño Bluemel Que Chévere YouTube Channel](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for a dedicated masterclass on **Ser vs. Estar**. This video is a student-favorite for clarifying this complex topic!
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the vocabulary and themes presented in these lessons.
 
 ---
 
-### 📝 Scaffolding & Differentiation
-- **Scaffolding:** Keep the "Solid vs. Dotted" visual on the board throughout the interview process.
-- **Extension:** Research a famous Hispanic figure and write a 4-sentence introduction using *Es de* and *Está* based on a current event (e.g., "Lionel Messi is from Argentina and is happy because he won").
-- **IPA Connection:** This activity is the direct rehearsal for the Presentational Mode of the Day 10 IPA.
+### 🔐 Intellectual Property & Usage Notice
+**© 2024-2026 Seño Bluemel, M.S. All Rights Reserved.**
+*This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
