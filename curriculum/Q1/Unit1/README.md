@@ -18,6 +18,22 @@ In this foundational unit, students begin their journey by exploring the concept
 
 ---
 
+## 📝 Summative Assessment: The Unit 1 IPA
+**The Integrated Performance Assessment (IPA)** evaluates students on their ability to use the language in a functional, real-world context rather than a grammar test.
+
+| Mode | Task Description | Target Proficiency |
+|---|---|---|
+| **Interpretive** | **The Pen-Pal Profile:** Students read a short profile of a student from a Spanish-speaking country and answer comprehension questions about their name, age, origin, and school schedule. | Novice-Low / Mid |
+| **Interpersonal** | **Meet & Greet:** A 2-minute unscripted conversation with a peer or teacher. Students must exchange names, origins, and ask about each other's school day. | Novice-Mid |
+| **Presentational** | **Digital Portfolio/Poster:** Students create a "Who Am I?" visual (video or poster) describing themselves, their personality, and 3 items they have in their school bag. | Novice-Mid |
+
+### 📊 Rubrics & Evaluation
+All assessments in this unit are graded using **ACTFL-aligned Proficiency Rubrics**. 
+* **Focus:** Comprehensibility, Language Control, and Vocabulary Usage.
+* **Goal:** Moving students from "Word Level" (Novice-Low) to "Sentence Level" (Novice-Mid).
+
+---
+
 ## 🗓️ Daily Pacing & Lesson Plans
 
 | Day | Topic | Primary Goal |
