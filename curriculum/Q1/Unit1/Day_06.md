@@ -1,94 +1,80 @@
 # Quarter 1 | Unit 1 | Day 6
-## ¿De dónde eres? — Origin, Identity & Geography
-### *Navigating the Global Map of Spanish*
+## ¿Cómo eres tú? — Personality Traits
+### *Inner Identity and the Verb Ser*
 *Unit 1 — Identidad y Comunidad Global | Week 2 | Quarter 1 | Day 6 of 171*
 
 ---
 
 ### 📌 Standards Leadership & Alignment
+**Frameworks:** *ACTFL, NCSSFL-ACTFL, AATSP, JNCL-NCLIS, & Missouri CLEs*
 
-**National Standards Alignment (Primary)**
-*Grounded in the frameworks of **ACTFL, NCSSFL, AATSP, and JNCL-NCLIS**.*
-- **Communication – Interpersonal:** Ask and answer questions about origin and national identity.
-- **Communication – Interpretive:** Identify country names and origin markers in spoken and written input.
-- **Cultures – Perspectives:** Recognize that national origin is a multi-layered identity marker (Regional vs. National vs. Global).
-- **Comparisons – Language:** Compare how origin is expressed in Spanish (*ser* + *de*) versus English syntax.
-- **Connections – Global Literacy:** Apply geographic knowledge to locate 21 Spanish-speaking nations and territories.
-
-**NCSSFL-ACTFL Can-Do Statements**
-> *I can state my origin using the structure "Soy de...".*
-> *I can ask someone about their origin using "¿De dónde eres?" and "¿De dónde es usted?".*
-> *I can locate several Spanish-speaking countries on a global map.*
-
-**Missouri CLEs (Secondary Alignment)**
-- FL.1.A.1 — Engage in simple conversations regarding personal background.
-- FL.2.A.1 — Identify geographic information about Spanish-speaking countries.
+| Domain | Focus & Standard Alignment |
+|---|---|
+| **Communication** | **Interpersonal:** Exchange character traits and personality descriptions. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify personality traits in various character profiles. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** Describe personal character and the character of others. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
+| **Cultures** | **Perspectives:** Understanding values and personality types across different cultures. *[ACTFL 2.2 / NCSSFL-ACTFL CUL.P]* |
+| **Connections** | **Psychology/SEL:** Identifying and naming internal character traits in the target language. *[ACTFL 3.1 / JNCL-NCLIS]* |
+| **Communities** | **Peer Connection:** Deepening classroom community by sharing internal identity. *[ACTFL 5.1 / AATSP]* |
+| **Missouri CLEs** | **FL.1.A.1 / FL.4.A.2:** Using adjectives; distinguishing between internal and external traits. |
 
 ---
 
-### 🎯 Lesson Objectives (UbD Backward Design)
+### 🎯 Learning Targets & Can-Do Statements
+> *“Physical appearance is the cover; personality is the book. Today we learn to read the book.”*
 
-**Enduring Understanding:** Origin is more than a location; it is a narrative of heritage. In the Spanish-speaking world, "Where are you from?" is the beginning of a deep cultural exchange.
-
-**Essential Question:** How does my origin contribute to my identity within a global community?
-
----
-
-### 📚 Vocabulary Focus: The Language of Origin
-
-| Structure | Context | English |
-|---|---|---|
-| **¿De dónde eres?** | Informal (*tú*) | Where are you from? |
-| **¿De dónde es usted?** | Formal (*usted*) | Where are you from? |
-| **Soy de...** | Personal Identity | I am from... |
-| **Es de...** | Third-person | He/She is from... |
-| **El país / La ciudad** | Geography | The country / The city |
-
-**Regional Literacy (High-Frequency):**
-México, Colombia, España, Guinea Ecuatorial, Argentina, Puerto Rico, Estados Unidos.
+* **Learning Target:** I can describe my personality and the character traits of others using the verb *Ser*.
+* **Can-Do (Interpretive):** I can identify personality traits in a spoken description of a famous character.
+* **Can-Do (Interpersonal):** I can ask a peer about their personality and find common traits.
+* **Can-Do (Presentational):** I can write a short paragraph describing my "inner self" using 3-4 adjectives.
 
 ---
 
-### 🌍 Cultural Spotlight: Layers of Origin
+### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
-* **Regional Pride:** In **Colombia**, regional identity (*Costeño, Paisa, Rolo*) is often as strong as national identity. This mirrors the "Midwest vs. Coast" identities in the U.S.
-* **Territorial Complexity:** **Puerto Rico** is a U.S. territory; inhabitants are U.S. citizens but maintain a distinct, vibrant Spanish-Caribbean national identity.
-* **The African Connection:** **Equatorial Guinea** is the only Spanish-speaking country in Africa, representing a unique synthesis of African and Hispanic identity.
-* **Heritage Language:** Many Spanish speakers in the **U.S.** identify as "Spanish-speaking" even if their families have lived in the states for generations—identity is linguistic as well as geographic.
+| Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
+|:---:|---|---|---|---|
+| **10 min** | **Activador: El Espejo de Clase** | Teacher shows photos of famous movie characters (e.g., Shrek, Mirabel). Students shout personality adjectives that fit. | Focus on "Cognates" first (*inteligente, paciente, sociable*) to build immediate confidence. | **T:** (Shows Donkey from Shrek) <br>**C:** "¡Sociable! ¡Gracioso!" |
+| **12 min** | **Input: The Adjective Spectrum** | Introduce adjectives in pairs of opposites (*perezoso* vs. *trabajador*). Model using people students know (teachers, athletes). | **Grammar Alert:** Introduce adjectives that end in '-e' or '-ista' (e.g., *paciente, optimista*) which do not change for gender. | *"Yo soy inteligente. Él es perezoso. Ella es trabajadora."* |
+| **15 min** | **Task: Citas Rápidas de Identidad** | Students move in a "speed dating" format. They must share two traits and find someone with at least one matching trait. | **Live-Grade:** Watch for the feminine form of *-dor* becoming *-dora*. Listen for adjective agreement for *-o/-a* words. | **A:** "Yo soy paciente. ¿Y tú?" <br>**B:** "Yo soy impaciente pero soy inteligente." |
+| **8 min** | **Presentational: The Identity Shield** | Students draw a shield with 4 quadrants: 2 physical traits (Review) and 2 personality traits (New). | This reinforces the "Total Identity." Use these for a "Guess Who" game on Day 7. | **Shield:** Alto, Moreno, Simpático, Atlético. |
+| **5 min** | **Reflexión: Internal vs. External** | Discussion: Why is it easier to describe someone physically than by their personality? | Connect this to "Identity." Our internal traits often define our community roles more than our height. | "Ser can describe what we look like AND who we are inside." |
 
 
 
 ---
 
-### 🕐 Lesson Timeline (50 Minutes)
+### 📊 ACTFL-Aligned Performance Rubric (4-Tier Formative)
 
-**Warm-Up: Global Roll Call (5 min)**
-Teacher calls out 5 different countries. Students respond with a greeting they think fits that region (e.g., "Argentina" -> "¡Buenas!", "Mexico" -> "¡Qué onda!").
-
-**Input: The "Origin Story" CI Script (18 min)**
-- Teacher uses a world map to model origin. "Yo soy de Colombia. [Point to map]. I am FROM Colombia."
-- Explain the **Ser + De** formula. *Ser* (to be) + *De* (from).
-- Practice *¿De dónde eres?* and *Soy de...* with students, focusing on their real cities/states. 
-
-**Guided Practice: "The Human Map" (12 min)**
-Teacher designates areas of the classroom as different continents. Students move to the area of a country the teacher names and shout: *¡Soy de [País]!*
-
-**Pair Practice: The Global Interview (10 min)**
-Partners practice a 6-line exchange: Greeting -> Name -> Origin -> Courtesy -> Farewell.
-*Encourage students to use a "Mystery Origin" from the 21 countries.*
-
-**Exit Ticket: Identity Check (5 min)**
-Students write: 1. Their real origin (*Soy de...*) 2. One Spanish-speaking country they are curious about and why.
+| Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
+|---|---|---|---|---|
+| **Comprehensibility** | Pronunciation is crisp. Correct stress on multi-syllable adjectives. | Understood by someone accustomed to learners. | Meaning is clear but relies on English-coded vowel sounds. | Incomprehensible; uses English adjectives. |
+| **Language Control** | Accurate gender agreement for *-o, -a, -dor, -dora*. | Mostly correct gender agreement. Consistent use of *Ser*. | Forgets to change *-dor* to *-dora* or uses masculine for everyone. | Does not use *Ser* or any gendered endings. |
+| **Interpersonal Quality** | Interaction is fluid. Uses *Yo también* to find commonalities. | Participates actively and follows the speed-dating protocol. | Relies on one-word answers or simple lists. | Refuses to interact; speaks only English. |
+| **Vocabulary Range** | Uses 6+ personality adjectives, including non-cognates. | Uses 4 basic personality adjectives accurately. | Relies only on cognates like *inteligente* or *sociable*. | Cannot identify personality traits in Spanish. |
 
 ---
 
-### 📺 Supplemental Resource Bank
+### 📘 Pedagogical Blueprint: How to Implement this Lesson
+> *A guide for transitioning from "Surface" to "Character" identity.*
 
-> 🎬 **Watch:** Educators and students may visit the [Seño Bluemel Que Chévere YouTube Channel](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for a video on the 21 Spanish-speaking countries. This resource helps students hear the diverse accents and regional pride mentioned in today's lesson.
+**1. Leveraging Cognates:**
+Begin with adjectives like *optimista, pesimista, inteligente, and paciente*. Because they look like English, the "Cognitive Load" is lower, allowing students to focus on the sentence structure of *Yo soy*.
+
+**2. The *-dor* to *-dora* transition:**
+This is a specific phonetic and grammatical shift. Spend 2 minutes doing a "Choral Repetition" of *Trabajador / Trabajadora*.
+
+**3. The "Identity Shield" as Assessment:**
+Look at the shields. If a student wrote "Yo soy inteligente" but "Ella es inteligente," they have correctly identified that '-e' adjectives are gender-neutral. This is a high-level "Meets" or "Exceeds" indicator.
 
 ---
 
-### 📝 Scaffolding & Differentiation
-- **Scaffolding:** Provide a list of all 21 countries with phonetic pronunciations.
-- **Extension:** Students can research the "Demonym" (the word for a person from a place, e.g., *mexicano, colombiano*) for their chosen country.
-- **Heritage Speakers:** Encourage students to share the specific city or "barrio" their family is from to add depth to the geography discussion.
+### 🚀 Differentiation & Enrichment
+
+* **Support (Struggling):** Provide a "Word Bank" categorized by "Like Me" and "Not Like Me."
+* **Enrichment (Achieving):** Challenge students to use the word *pero* (but) to show complexity (e.g., *"Soy perezoso pero inteligente"*).
+
+---
+
+### 📺 Seño Bluemel Resource
+> 🎬 **Watch:** [Link to your specific video if provided; otherwise this section remains blank per instructions].
+> 
+> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for additional videos and resources to support your learning.
