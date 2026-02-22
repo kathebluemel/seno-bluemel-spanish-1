@@ -35,8 +35,8 @@
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
 | **10 min** | **Activador: El BINGO Rápido** | Students draw a 3x3 grid and fill it with random numbers 0–20. Teacher calls out numbers in Spanish. | Use this to check "Input Recognition." If students are slow to mark their cards, you know they haven't memorized the sounds yet. | **T:** "¡Catorce!" <br>**S:** (Marks 14) |
-| **10 min** | **Input: ¿Cuántos años tienes?** | Use the "Age of Celebrities" strategy. Show a picture of a young celebrity (e.g., Jenna Ortega) and an older one. Ask: *"¿Cuántos años tiene?"* | **Grammar Alert:** Use gestures to show "Having" age. Act as if you are holding something in your hands to emphasize *Tener*. | *"Él tiene diez años. Yo tengo catorce años."* |
-| **15 min** | **Task: La Entrevista de Cumpleaños** | Students move around the room. They must find 3 people with a different age than them and record: 1. Name 2. Age. | **Live-Grade:** Walk around and listen for the "gn" sound in *años*. Ensure they aren't saying "anos" (which has a very different meaning!). | **A:** "¿Cuántos años tienes?" <br>**B:** "Tengo quince años. ¿Y tú?" |
+| **10 min** | **Input: ¿Cuántos años tienes?** | Use the "Age of Celebrities" strategy. Show a picture of a young celebrity and an older one. Ask: *"¿Cuántos años tiene?"* | **Grammar Alert:** Use gestures to show "Having" age. Act as if you are holding something in your hands to emphasize *Tener*. | *"Él tiene diez años. Yo tengo catorce años."* |
+| **15 min** | **Task: La Entrevista de Cumpleaños** | Students move around the room. They must find 3 people with a different age than them and record: 1. Name 2. Age. | **Live-Grade:** Walk around and listen for the "gn" sound in *años*. Ensure they aren't saying "anos." | **A:** "¿Cuántos años tienes?" <br>**B:** "Tengo quince años. ¿Y tú?" |
 | **10 min** | **Presentational: The Digital Profile** | Students draft a "Social Media Bio" (3 sentences): 1. Greeting 2. Name 3. Age. | Check for the tilde over the 'ñ' in *años*. This is a non-negotiable for accuracy and cultural respect. | *"¡Hola! Me llamo Sofia y tengo trece años."* |
 | **5 min** | **Reflexión: The Verb "Tener"** | Quick discussion: In English, we say "I *am* 15." In Spanish, we say "I *have* 15 years." Why the difference? | Frame it as: "In Spanish, age is something you have collected over time, like a treasure." | "I possess 15 years of experience in life!" |
 
@@ -75,6 +75,6 @@ The interview isn't just about numbers; it's about "Interpersonal Stamina." Can 
 ---
 
 ### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** Numbers in Spanish require specific vowel placement to be understood. Review the "Vowel Sounds" section of this video to help with numbers like *Siete* vs. *Seis*: [**El Alfabeto en Español - Práctica Fonética**](https://www.youtube.com/watch?v=eRZ9cjugUfw).
+> 🎬 **Watch:** Use this specific video for the correct pronunciation and practice of numbers in Spanish: [**Spanish Numbers 0-20 — Seño Bluemel**](https://www.youtube.com/watch?v=uky50nG5VRo).
 > 
-> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for number songs and the "Ten Little Pumpkins" (Diez calabazas) counting practice.
+> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for number songs and additional counting practice.
