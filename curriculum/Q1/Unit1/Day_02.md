@@ -69,12 +69,12 @@ Carry a roster. Mark a (+) for students using full sentences and a (/) for those
 
 ### 📺 Supplemental Resource Bank
 
-> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
->
 > 🎥 **Featured Video for Today:** [**Spanish Greetings and Feelings - Practice with Seño Bluemel**](https://www.youtube.com/watch?v=uEYlUHii3aM)
+>
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
 
 ---
 
 ### 🔐 Intellectual Property & Usage Notice
-**© 2024-2026 Seño Bluemel, M.S. All Rights Reserved.**
+**© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
 *This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
