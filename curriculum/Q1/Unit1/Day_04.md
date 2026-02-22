@@ -41,7 +41,7 @@
 | **10 min** | **Input: El Verbo Ser (Origen)** | Model the question *"¿De dónde eres?"* and the response *"Yo soy de..."* Use flags of different countries to provide visual cues. | **Grammar Alert:** Differentiate between *Estar* (Day 2 emotions) and *Ser* (Day 4 origin). Use the acronym "DOCTOR" (Origin) vs "PLACE" (Emotions). | *"Yo soy de los Estados Unidos. Shakira es de Colombia."* |
 | **15 min** | **Task: Pasaporte de Clase (Interpersonal)** | Students receive a "blank passport." They must "travel" around the room, asking peers where they are from (can be real or assigned "secret" origins). | **Live-Grade:** Listen for the preposition **"de"**. Students often omit it (e.g., "Yo soy Missouri"). Model the "link" between soy and origin. | **A:** "¿De dónde eres?" <br>**B:** "Soy de México. ¿Y tú?" |
 | **10 min** | **Presentational: Mapa de Identidad** | Students color a map of a country they are interested in and write: *"Me llamo [Nombre], tengo [Edad] años y soy de [País]."* | This is a great artifact for a classroom wall display. It visually reinforces the diversity discussed in class. | *"Me llamo Alex y soy de España."* |
-| **5 min** | **Reflexión: Who is a "Spanish-Speaker"?** | Discussion: If someone is from the US but speaks Spanish, are they "Hispanic"? Introduce the concept of heritage speakers. | This validates the heritage speakers in your room and establishes a inclusive community. | "You don't have to be from a Spanish-speaking country to speak Spanish." |
+| **5 min** | **Reflexión: Who is a "Spanish-Speaker"?** | Discussion: If someone is from the US but speaks Spanish, are they "Hispanic"? Introduce the concept of heritage speakers. | This validates the heritage speakers in your room and establishes an inclusive community. | "You don't have to be from a Spanish-speaking country to speak Spanish." |
 
 ---
 
@@ -77,7 +77,12 @@ This is often the hardest origin for US students to say. Practice the "s" sounds
 
 ---
 
-### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** [Link to your specific video if provided; otherwise this section remains blank or is removed per instructions].
-> 
-> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for additional videos and resources to support this lesson.
+### 📺 Supplemental Resource Bank
+
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+
+---
+
+### 🔐 Intellectual Property & Usage Notice
+**© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
+*This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
