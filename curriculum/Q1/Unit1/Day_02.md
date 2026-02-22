@@ -74,7 +74,12 @@ Carry a roster. Mark a (+) for students using full sentences and a (/) for those
 
 ---
 
-### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** Proper pronunciation of emotions starts with mastering your vowels. Review this video to ensure your "Estoy" sounds authentic: [**El Alfabeto en Español - Práctica Fonética**](https://www.youtube.com/watch?v=eRZ9cjugUfw).
-> 
-> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for "Daily Check-in" songs and emotion-based CI stories.
+### 📺 Supplemental Resource Bank
+
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+
+---
+
+### 🔐 Intellectual Property & Usage Notice
+**© 2024-2026 Seño Bluemel, M.S. All Rights Reserved.**
+*This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
