@@ -28,21 +28,17 @@
 
 ---
 
-### 📋 Activity Procedures & Teacher Guidance
+### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
 
 
-#### **Task 1: The Registrar's Data Entry (Interpretive)**
-* **Procedure:** Teacher plays "Registrar." Read 5 student entries. Spell each name twice. 
-* **Teacher Tip:** Focus on **phonetic interference** (e.g., *H* being silent, *E* sounding like English *A*). Use names like *Heredia, Guerrero, or Vizcaíno*.
-
-#### **Task 2: The Supply Closet (Interpersonal)**
-* **Procedure:** Partner A asks for supplies; Partner B verifies spelling before "distributing" them.
-* **The Exchange:** *"¿Me das dos cuadernos?"* $\rightarrow$ *"¿Cómo se escribe 'cuaderno'?"* $\rightarrow$ *"ce-u-a-de-e-ere-ene-o."*
-
-#### **Task 3: The Phonetic Desk Map (Presentational)**
-* **Procedure:** Draw desk area. Label 5 items (un/una). Write the phonetic letter names underneath.
-* **Example:** **UN LÁPIZ** $\rightarrow$ *u - ene | ele - á (con acento) - pe - i - zeta*
+| Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
+|:---:|---|---|---|---|
+| **5 min** | **Activador: El Voleibol de Letras** | Rapid-fire "Next Letter" drill. Teacher calls a letter; the class shouts the subsequent letter. Focus on vowel transitions (A-E-I). | Keep the tempo high. Do not stop for errors; simply repeat the correct letter and move on to maintain "flow." | **T:** "¡F!"<br>**C:** "¡G!"<br>**T:** "¡P!"<br>**C:** "¡Q!" |
+| **12 min** | **Task 1: The Registrar (Interpretive)** | Students act as data entry clerks. Teacher "calls in" 5 new student registrations. Teacher says the name once, then spells it letter-by-letter. | Use "trap" letters like **H** (silent), **I** (sounds like E), and **E** (sounds like A). Emphasize the *doble apellido* structure. | *"Estudiante 1: Jiménez. Se escribe: jota, i, eme, é (con acento), ene, e, zeta."* |
+| **18 min** | **Task 2: The Supply Closet (Interpersonal)** | Pair work. Partner A (Clerk) has a visual shopping list of icons. Partner B (Manager) has a blank inventory log. B must verify spelling before "releasing" supplies. | **Live-Grade:** Walk with your rubric. Listen for the "eee" sound for **I**. Ensure students say *"Gracias/De nada"* to meet cultural social markers. | **A:** "¿Me das dos carpetas?"<br>**B:** "¿Cómo se escribe?"<br>**A:** "ce-a-ere-pe-e-te-a."<br>**B:** "Aquí tienes." |
+| **10 min** | **Task 3: The Phonetic Map (Presentational)** | Students sketch their immediate desk area and label 5 items using **Un/Una**. Below the label, they write the *names* of the letters used. | This bridges the gap between sound and written symbol. Check that they aren't just writing the word, but the letter names (e.g., 'ele-a' vs 'la'). | **Label:** Un bolígrafo.<br>**Phonetic:** u-ene | be-o-ele-í-ge-erre-a-efe-o. |
+| **5 min** | **Reflexión: The Exit Poll** | Conduct a quick hands-up survey. "Which letter is the 'Sneakiest'?" (Most different from English). Use this to inform tomorrow's warm-up. | Use this data for differentiation. If many struggle with **G/J**, plan a 2-minute "minimal pair" drill for the start of Day 21. | "Raise your hand if **'E'** still tricks you into thinking it's **'A'**." |
 
 ---
 
@@ -57,23 +53,6 @@
 
 ---
 
-### 🕐 Lesson Timeline (50 Minutes)
-
-1.  **Activador (0–5 min):** **Alphabet Volley.** Rapid-fire letter naming to build automaticity.
-2.  **Task 1 (5–17 min):** **The Registrar.** Interpretive spelling and numerical data entry.
-3.  **Task 2 (17–32 min):** **The Supply Closet.** Interpersonal role-play focused on verification.
-4.  **Task 3 (32–45 min):** **The Phonetic Map.** Bridging the gap between sound and written symbol.
-5.  **Reflexión (45–50 min):** **The "Tricky Letter" Poll.** Gather data for Week 5 warm-ups.
-
----
-
-### 🚀 Differentiation & Enrichment
-
-* **Support (Struggling):** Provide a desk-tent with "English-sound" approximations (e.g., I = "eee"). 
-* **Enrichment (Achieving):** Add "administrative errors" (e.g., wrong spelling) for the student to identify and correct during the role-play.
-
----
-
 ### 📘 Pedagogical Blueprint: How to Implement this IPA
 > *A guide for teachers on using "Performance-Based Diagnostics."*
 
@@ -84,13 +63,19 @@ No. This is a **diagnostic performance day**. Students demonstrate their skills 
 
 **2. How to "Live-Grade":**
 * **Task 1:** Collect the papers at the end of the 12 minutes. This is your "hard data" for listening comprehension.
-* **Task 2:** This is the most important part for the teacher. **Do not sit at your desk.** Walk around with a clipboard and the rubric. Spend 60 seconds listening to one pair, mark their level (1, 2, 3, or 4), and move on. You should be able to "live-grade" the whole class in 15 minutes.
+* **Task 2:** This is the most important part for the teacher. **Do not sit at your desk.** Walk around with a clipboard and the rubric. Spend 60 seconds listening to one pair, mark their level (1, 2, 3, or 4), and move on. 
 * **Task 3:** Collect these visual maps. They serve as "Portfolio Artifacts" that show the student's ability to bridge sounds to written spelling.
 
-**3. Why use a Formative Rubric?**
-Since this is Week 4, the data you collect today tells you what to fix in Week 5. If Task 1 results are low, you know the students haven't mastered vowel sounds yet, and you should delay the next topic until they do.
+---
+
+### 🚀 Differentiation & Enrichment
+
+* **Support (Struggling):** Provide a desk-tent with "English-sound" approximations (e.g., I = "eee"). 
+* **Enrichment (Achieving):** Add "administrative errors" (e.g., wrong spelling) for the student to identify and correct during the role-play.
 
 ---
 
 ### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** Visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) for the **"Alphabet & Classroom Objects"** review. Use this specific video for the correct phonetic pronunciation of the Spanish alphabet: [El Alfabeto en Español](https://www.youtube.com/watch?v=eRZ9cjugUfw).
+> 🎬 **Watch:** Use this specific video for the correct phonetic pronunciation and practice of the Spanish alphabet: [**El Alfabeto en Español - Práctica Fonética**](https://www.youtube.com/watch?v=eRZ9cjugUfw).
+> 
+> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for the "Alphabet & Classroom Objects" review and other cultural resources for Unit 2.
