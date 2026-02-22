@@ -30,15 +30,15 @@
 
 ### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
+
+
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
 | **10 min** | **Activador: El Espejo de Clase** | Teacher shows photos of famous movie characters (e.g., Shrek, Mirabel). Students shout personality adjectives that fit. | Focus on "Cognates" first (*inteligente, paciente, sociable*) to build immediate confidence. | **T:** (Shows Donkey from Shrek) <br>**C:** "¡Sociable! ¡Gracioso!" |
-| **12 min** | **Input: The Adjective Spectrum** | Introduce adjectives in pairs of opposites (*perezoso* vs. *trabajador*). Model using people students know (teachers, athletes). | **Grammar Alert:** Introduce adjectives that end in '-e' or '-ista' (e.g., *paciente, optimista*) which do not change for gender. | *"Yo soy inteligente. Él es perezoso. Ella es trabajadora."* |
-| **15 min** | **Task: Citas Rápidas de Identidad** | Students move in a "speed dating" format. They must share two traits and find someone with at least one matching trait. | **Live-Grade:** Watch for the feminine form of *-dor* becoming *-dora*. Listen for adjective agreement for *-o/-a* words. | **A:** "Yo soy paciente. ¿Y tú?" <br>**B:** "Yo soy impaciente pero soy inteligente." |
+| **12 min** | **Input: The Adjective Spectrum** | Introduce adjectives in pairs of opposites (*perezoso vs. trabajador*). Model using people students know (teachers, athletes). | **Grammar Alert:** Introduce adjectives that end in '-e' or '-ista' (e.g., *paciente, optimista*) which do not change for gender. | *"Yo soy inteligente. Él es perezoso. Ella es trabajadora."* |
+| **15 min** | **Task: Citas Rápidas de Identidad** | Students move in a "speed dating" format. They must share two traits and find someone with at least one matching trait. | **Live-Grade:** Watch for the feminine form of *-dor* becoming *-dora*. Listen for adjective agreement for *-o/-a* words. | **A:** "¿Cómo eres tú?" <br>**B:** "Yo soy paciente. ¿Y tú?" <br>**A:** "Yo soy impaciente pero soy inteligente." |
 | **8 min** | **Presentational: The Identity Shield** | Students draw a shield with 4 quadrants: 2 physical traits (Review) and 2 personality traits (New). | This reinforces the "Total Identity." Use these for a "Guess Who" game on Day 7. | **Shield:** Alto, Moreno, Simpático, Atlético. |
 | **5 min** | **Reflexión: Internal vs. External** | Discussion: Why is it easier to describe someone physically than by their personality? | Connect this to "Identity." Our internal traits often define our community roles more than our height. | "Ser can describe what we look like AND who we are inside." |
-
-
 
 ---
 
@@ -56,12 +56,10 @@
 ### 📘 Pedagogical Blueprint: How to Implement this Lesson
 > *A guide for transitioning from "Surface" to "Character" identity.*
 
-
-
 **1. Leveraging Cognates:**
-Begin with adjectives like *optimista, pesimista, inteligente, and paciente*. Because they look like English, the "Cognitive Load" is lower, allowing students to focus on the sentence structure of *Yo soy*.
+Begin with adjectives like *optimista, pesimista, inteligente,* and *paciente*. Because they look like English, the "Cognitive Load" is lower, allowing students to focus on the sentence structure of *Yo soy*.
 
-**2. The *-dor* to *-dora* transition:**
+**2. The -dor to -dora transition:**
 This is a specific phonetic and grammatical shift. Spend 2 minutes doing a "Choral Repetition" of *Trabajador / Trabajadora*.
 
 **3. The "Identity Shield" as Assessment:**
@@ -76,7 +74,14 @@ Look at the shields. If a student wrote "Yo soy inteligente" but "Ella es inteli
 
 ---
 
-### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** Use this specific video to learn how to describe personality and character traits in Spanish: [**Personality Traits in Spanish — Seño Bluemel**](https://www.youtube.com/watch?v=v7lQ0PqTqhM&t=219s).
-> 
-> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for additional videos and resources to support your learning.
+### 📺 Supplemental Resource Bank
+
+> 🎥 **Featured Video for Today:** [**Personality Traits in Spanish — Seño Bluemel**](https://www.youtube.com/watch?v=v7lQ0PqTqhM)
+>
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+
+---
+
+### 🔐 Intellectual Property & Usage Notice
+**© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
+*This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
