@@ -1,7 +1,7 @@
-# Quarter 1 | Unit 1 | Day 4
-## ¿De dónde eres? — Origin and Identity
-### *Mapping the Spanish-Speaking World and the Verb Ser*
-*Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 4 of 171*
+# Quarter 1 | Unit 1 | Day 3
+## ¿Cuántos años tienes? — Age and Numbers 0–20
+### *Quantifying Identity and the Verb Tener*
+*Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 3 of 171*
 
 ---
 
@@ -10,21 +10,21 @@
 
 | Domain | Focus & Standard Alignment |
 |---|---|
-| **Communication** | **Interpersonal:** Exchange information about place of origin. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify Spanish-speaking countries and capitals on a map. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** Present information about where one is from. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
-| **Cultures** | **Perspectives:** Recognize the vast diversity of the 21 Spanish-speaking countries. *[ACTFL 2.2 / NCSSFL-ACTFL CUL.P]* |
-| **Connections** | **Geography:** Integrating world geography and map-reading skills into language acquisition. *[ACTFL 3.1 / JNCL-NCLIS]* |
-| **Communities** | **Global Awareness:** Locating oneself within a global context of Spanish speakers. *[ACTFL 5.1 / AATSP]* |
-| **Missouri CLEs** | **FL.1.A.1 / FL.3.A.1:** Using "Ser" for origin; identifying Hispanic countries. |
+| **Communication** | **Interpersonal:** Exchange information about age and phone numbers. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify numbers 0–20 in a variety of contexts. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** State personal age and basic numerical data. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
+| **Cultures** | **Perspectives:** Understand the cultural logic of "having" years (*Tener*) vs. "being" an age (*To be*). *[ACTFL 2.2 / NCSSFL-ACTFL CUL.P]* |
+| **Connections** | **Mathematics:** Utilizing target language for counting and simple arithmetic. *[ACTFL 3.1 / JNCL-NCLIS]* |
+| **Communities** | **Peer Connection:** Learning more about the personal demographics of the class community. *[ACTFL 5.1 / AATSP]* |
+| **Missouri CLEs** | **FL.1.A.2 / FL.4.A.1:** Using numbers; comparing grammatical structures (Tener vs. To be). |
 
 ---
 
 ### 🎯 Learning Targets & Can-Do Statements
-> *“Language is a map of a culture. It tells you where its people come from and where they are going.”*
+> *“Numbers are the skeleton of conversation. Without them, you cannot share your birthday, your age, or your phone number.”*
 
-* **Learning Target:** I can express where I am from and identify the locations of Spanish-speaking countries.
-* **Can-Do (Interpretive):** I can locate at least 5 Spanish-speaking countries on a map when I hear their names.
-* **Can-Do (Interpersonal):** I can ask a classmate where they are from and respond using the structure *"Yo soy de..."*
-* **Can-Do (Presentational):** I can state my name, age, and origin in a short introductory statement.
+* **Learning Target:** I can use numbers 0–20 to express my age and understand numerical information from others.
+* **Can-Do (Interpretive):** I can recognize numbers 0–20 when I hear them out of sequence.
+* **Can-Do (Interpersonal):** I can ask a classmate how old they are and respond correctly using the verb *Tener*.
+* **Can-Do (Presentational):** I can write a short introduction that includes my name, my feeling, and my age.
 
 ---
 
@@ -32,16 +32,13 @@
 
 
 
-[Image of a map of the 21 Spanish-speaking countries with labels]
-
-
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
-| **10 min** | **Activador: ¿Dónde está...?** | Teacher projects a world map. Students use a laser pointer or come to the board to find countries called out in Spanish. | Use this to establish a "Global Perspective." Ensure students realize Spanish isn't just spoken in Spain and Mexico. | **T:** "Busca Colombia." <br>**S:** (Points to Colombia) |
-| **10 min** | **Input: El Verbo Ser (Origen)** | Model the question *"¿De dónde eres?"* and the response *"Yo soy de..."* Use flags of different countries to provide visual cues. | **Grammar Alert:** Differentiate between *Estar* (Day 2 emotions) and *Ser* (Day 4 origin). Use the acronym "DOCTOR" (Origin) vs "PLACE" (Emotions). | *"Yo soy de los Estados Unidos. Shakira es de Colombia."* |
-| **15 min** | **Task: Pasaporte de Clase (Interpersonal)** | Students receive a "blank passport." They must "travel" around the room, asking peers where they are from (can be real or assigned "secret" origins). | **Live-Grade:** Listen for the preposition **"de"**. Students often omit it (e.g., "Yo soy Missouri"). Model the "link" between soy and origin. | **A:** "¿De dónde eres?" <br>**B:** "Soy de México. ¿Y tú?" |
-| **10 min** | **Presentational: Mapa de Identidad** | Students color a map of a country they are interested in and write: *"Me llamo [Nombre], tengo [Edad] años y soy de [País]."* | This is a great artifact for a classroom wall display. It visually reinforces the diversity discussed in class. | *"Me llamo Alex y soy de España."* |
-| **5 min** | **Reflexión: Who is a "Spanish-Speaker"?** | Discussion: If someone is from the US but speaks Spanish, are they "Hispanic"? Introduce the concept of heritage speakers. | This validates the heritage speakers in your room and establishes a inclusive community. | "You don't have to be from a Spanish-speaking country to speak Spanish." |
+| **10 min** | **Activador: El BINGO Rápido** | Students draw a 3x3 grid and fill it with random numbers 0–20. Teacher calls out numbers in Spanish. | Use this to check "Input Recognition." If students are slow to mark their cards, you know they haven't memorized the sounds yet. | **T:** "¡Catorce!" <br>**S:** (Marks 14) |
+| **10 min** | **Input: ¿Cuántos años tienes?** | Use the "Age of Celebrities" strategy. Show images of celebrities and ask: *"¿Cuántos años tiene?"* | **Grammar Alert:** Use gestures to show "Having" age. Act as if you are holding something in your hands to emphasize *Tener*. | *"Él tiene diez años. Yo tengo catorce años."* |
+| **15 min** | **Task: La Entrevista de Cumpleaños** | Students move around the room. They must find 3 people with a different age than them and record: 1. Name 2. Age. | **Live-Grade:** Walk around and listen for the "gn" sound in *años*. Ensure they aren't saying "anos" (incorrect meaning). | **A:** "¿Cuántos años tienes?" <br>**B:** "Tengo quince años. ¿Y tú?" |
+| **10 min** | **Presentational: The Digital Profile** | Students draft a "Social Media Bio" (3 sentences): 1. Greeting 2. Name 3. Age. | Check for the tilde over the 'ñ' in *años*. This is a non-negotiable for accuracy and cultural respect. | *"¡Hola! Me llamo Sofia y tengo trece años."* |
+| **5 min** | **Reflexión: The Verb "Tener"** | Quick discussion: In English, we say "I *am* 15." In Spanish, we say "I *have* 15 years." Why the difference? | Frame it as: "In Spanish, age is something you have collected over time, like a treasure." | "I possess 15 years of experience in life!" |
 
 ---
 
@@ -49,35 +46,37 @@
 
 | Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
 |---|---|---|---|---|
-| **Comprehensibility** | Clear pronunciation. Proper stress on *Soy* and country names. | Understood by someone accustomed to learners. | Heavy English accent makes country names hard to recognize. | Incomprehensible; uses English country names only. |
-| **Language Control** | Consistently uses *Soy de* correctly with no omission of 'de'. | Uses *Soy de* correctly but might hesitate before the origin. | Uses "Soy [Origin]" without the preposition "de". | Confuses *Soy* with *Estoy* or *Me llamo*. |
-| **Interpersonal Quality** | Interaction is fluid and polite. Uses *Mucho gusto*. | Successfully exchanges origin data with 3+ peers. | Relies on single-word answers (just the country name). | Refuses to interact or uses only English. |
-| **Geographic Literacy** | Can identify 10+ countries on a map without labels. | Can identify 5-7 countries on a map. | Can only identify Mexico and Spain. | Cannot locate any Spanish-speaking countries on a map. |
+| **Comprehensibility** | Pronunciation of numbers is flawless. Distinct 'ñ' in *años*. | Numbers are recognizable. Some English accent on 11–15. | Meaning is clear but numbers 6/7 or 16/17 are confused. | Cannot produce numbers 0–20 intelligibly. |
+| **Language Control** | Consistently uses *Tengo* correctly. Accurate use of *años*. | Uses *Tengo* correctly but may forget the 's' in *años*. | Uses "Soy [number]" instead of "Tengo [number]". | No attempt at the *Tener* structure. |
+| **Interpersonal Quality** | Interaction is fluid. Asks follow-up questions (*¿Y tú?*). | Participates in the interview and records data accurately. | Responds with single numbers instead of full sentences. | Refuses to interview peers; uses English. |
+| **Accuracy (Written)** | Correct spelling of numbers and 'ñ'. Proper punctuation. | Correct use of *Tengo*. Minor spelling errors in numbers. | Forgets the 'ñ' in *años*. | Written output is incomplete or mostly English. |
 
 ---
 
 ### 📘 Pedagogical Blueprint: How to Implement this Lesson
-> *A guide for managing the transition from "State of Being" to "Fixed Identity."*
+> *A guide for managing the transition from vocabulary to syntax.*
 
-**1. Ser vs. Estar (The First Great Divide):**
-Don't get bogged down in deep grammar yet. Simply tell students: "How you feel is *Estar*; who you are/where you're from is *Ser*." Use different hand signals for each to provide a kinesthetic anchor.
 
-**2. The "De" Factor:**
-In English, we can say "I am American." In Spanish, the most common way for beginners is "I am *from* [Place]." Stress that "de" is the bridge to their home.
 
-**3. Pronunciation of "Estados Unidos":**
-This is often the hardest origin for US students to say. Practice the "s" sounds and the "u" (oo) sound. Have them chant it: *Es-ta-dos U-ni-dos*.
+**1. The "Anos" vs "Años" Warning:**
+Explain clearly that the tilde (~) changes the sound and the meaning entirely. It’s a great way to show that small details in Spanish carry huge weight.
+
+**2. Scaffolding Numbers 11–15:**
+These are the most difficult numbers for beginners. Spend extra time on *Once, Doce, Trece, Catorce, Quince*. Use a rhythmic chant or a clap to help them memorize the "ce" ending.
+
+**3. The Goal of the Interview:**
+The interview isn't just about numbers; it's about "Interpersonal Stamina." Can they keep a conversation going for 30 seconds without switching to English? Reward the effort of staying in the Target Language.
 
 ---
 
 ### 🚀 Differentiation & Enrichment
 
-* **Support (Struggling):** Provide a list of country names in Spanish with their English equivalents and flag icons.
-* **Enrichment (Achieving):** Challenge students to learn the capital of the country they chose for their "Identity Map."
+* **Support (Struggling):** Provide a "Number Key" on the board that shows the numeral and the Spanish word side-by-side.
+* **Enrichment (Achieving):** Challenge students to ask for a "fake" phone number (*¿Cuál es tu número de teléfono?*) to practice numbers 0–9 in a different sequence.
 
 ---
 
 ### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** [Link to your specific video if provided; otherwise this section remains blank or is removed per instructions].
+> 🎬 **Watch:** Use this specific video for the correct pronunciation and practice of numbers in Spanish: [**Spanish Numbers 0-20 — Seño Bluemel**](https://www.youtube.com/watch?v=uky50nG5VRo).
 > 
-> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for additional videos and resources to support this lesson.
+> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for more videos and resources to support your learning.
