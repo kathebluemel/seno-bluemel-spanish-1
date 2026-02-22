@@ -75,6 +75,6 @@ Look at the shields. If a student wrote "Yo soy inteligente" but "Ella es inteli
 ---
 
 ### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** [Link to your specific video if provided; otherwise this section remains blank per instructions].
+> 🎬 **Watch:** [[Link to your specific video if provided; otherwise this section remains blank per instructions](https://www.youtube.com/watch?v=v7lQ0PqTqhM&t=219s)].
 > 
 > 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for additional videos and resources to support your learning.
