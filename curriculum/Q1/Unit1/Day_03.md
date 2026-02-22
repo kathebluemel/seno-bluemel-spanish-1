@@ -1,7 +1,7 @@
-# Quarter 1 | Unit 1 | Day 3
+# Quarter 1 | Unit 1 | Day 7
 ## ¿Cuántos años tienes? — Age and Numbers 0–20
 ### *Quantifying Identity and the Verb Tener*
-*Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 3 of 171*
+*Unit 1 — Identidad y Comunidad Global | Week 2 | Quarter 1 | Day 7 of 171*
 
 ---
 
@@ -56,8 +56,6 @@
 ### 📘 Pedagogical Blueprint: How to Implement this Lesson
 > *A guide for managing the transition from vocabulary to syntax.*
 
-
-
 **1. The "Anos" vs "Años" Warning:**
 Explain clearly that the tilde (~) changes the sound and the meaning entirely. It’s a great way to show that small details in Spanish carry huge weight.
 
@@ -76,7 +74,14 @@ The interview isn't just about numbers; it's about "Interpersonal Stamina." Can 
 
 ---
 
-### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** Use this specific video for the correct pronunciation and practice of numbers in Spanish: [**Spanish Numbers 0-20 — Seño Bluemel**](https://www.youtube.com/watch?v=uky50nG5VRo).
-> 
-> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for more videos and resources to support your learning.
+### 📺 Supplemental Resource Bank
+
+> 🎥 **Featured Video for Today:** [**Spanish Numbers 0-20 — Seño Bluemel**](https://www.youtube.com/watch?v=uky50nG5VRo)
+>
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+
+---
+
+### 🔐 Intellectual Property & Usage Notice
+**© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
+*This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
