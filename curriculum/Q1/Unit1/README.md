@@ -1,46 +1,43 @@
-# 📂 Unit 1: Identidad y Comunidad Global
-**Duration:** Days 1–20 | **Quarter:** 1 of 4 | **Level:** Novice-Low
+# Unit 1: Identidad y Comunidad Global
+**Duration:** 3-4 Weeks | **Focus:** Establishing Identity and Classroom Community
+
+## Unit Overview
+In this foundational unit, students begin their journey by exploring the concept of identity. We move beyond simple greetings to help students define themselves within the context of their new Spanish-speaking community. By the end of this unit, students will be able to introduce themselves, share their origins, describe their physical and personality traits, and navigate the daily routine of a classroom—all while staying primarily in the target language.
 
 ---
 
-## 🌟 Unit Vision
-This foundational unit moves beyond rote memorization to establish a **communicative ecosystem**. Grounded in **Backward Design**, students develop the ability to navigate initial social interactions while deconstructing cultural stereotypes. The unit shifts the focus from "Spanish as a subject" to **Spanish as a global tool for connection**, representing all 21 Spanish-speaking countries and territories from Day 1.
+## 🗓️ Daily Pacing & Lesson Plans
 
-## 🔑 Essential Questions
-* **Intercultural:** How do greetings and personal space vary across the 21 Spanish-speaking countries, and what does this reveal about cultural values?
-* **Linguistic:** How can I use high-frequency structures and cognates to communicate my identity without perfect grammar?
-* **Global:** Why is being "bilingual" or "multilingual" an asset in the 21st-century global workforce?
-
-## 📊 Standards Leadership (Primary Alignment)
-This unit is designed to meet the rigorous frameworks of **ACTFL, NCSSFL, AATSP, and JNCL-NCLIS**:
-
-* **Interpersonal Communication (ACTFL 1.1):** Students interact and negotiate meaning in spoken and signed conversations to share information, reactions, feelings, and opinions regarding identity.
-* **Interpretive Communication (ACTFL 1.2):** Students understand, interpret, and analyze what is heard, read, or viewed on a variety of topics (Global Map, Identity Passports).
-* **Presentational Communication (ACTFL 1.3):** Students present information, concepts, and ideas to inform, explain, persuade, and narrate on topics of personal identity.
-* **Intercultural Competence (NCSSFL):** I can identify some typical products and practices related to greetings and social interactions to help me understand perspectives in my own and other cultures.
-* **Local Alignment:** Missouri CLEs (I.1.1.A, C.1.1.A) are integrated as secondary performance indicators.
+| Day | Topic | Primary Goal |
+| :--- | :--- | :--- |
+| [Day 1](Day_01.md) | ¡Bienvenidos! | Establishing the 90% Target Language environment. |
+| [Day 2](Day_02.md) | ¿Cómo te llamas? | Mastering names and the cultural significance of "Llamarse." |
+| [Day 3](Day_03.md) | ¿De dónde eres? | Exploring origins and the 21 Spanish-speaking countries. |
+| [Day 4](Day_04.md) | Saludos y Despedidas | Navigating formal vs. informal social interactions. |
+| [Day 5](Day_05.md) | La Identidad Física | Describing physical traits and gender agreement basics. |
+| [Day 6](Day_06.md) | La Personalidad | Defining our character using "Ser" and adjectives. |
+| [Day 7](Day_07.md) | La Identidad Numérica | Mastering age, numbers 0-31, and birthdays. |
+| [Day 8](Day_08.md) | Mi Horario | Discussing school schedules and academic preferences. |
+| [Day 9](Day_09.md) | Los Útiles Escolares | Identifying classroom materials and survival needs. |
+| [Day 10](Day_10.md) | ¡Sobrevive en Clase! | Using commands and survival phrases for immersion. |
 
 ---
 
-## 🗺️ Pacing Guide (Weeks 1–4)
-
-### **Week 1: Global Foundations**
-* **Focus:** Greetings, Names, and the "Global Map" Hook. 
-* **Culture:** Visualizing the 21 countries; identifying Spanish in the US and abroad.
-
-### **Week 2: Personal Identity**
-* **Focus:** Origin (¿De dónde eres?) and Basic Feelings.
-* **Culture:** Deep dive into diverse Hispanic naming traditions and regional "warmth" vs. "space."
-
-### **Week 3: Numbers & The Human Experience**
-* **Focus:** Numbers (0-31), Calendars, and Birthdays.
-* **Culture:** Comparing how different cultures celebrate milestones; date-writing conventions (DD/MM/YYYY).
-
-### **Week 4: Synthesis & IPA**
-* **Focus:** Review and Integrated Performance Assessment.
-* **Assessment:** The "International Student Summit" simulation.
+## 🎯 Unit Learning Targets
+* I can introduce myself and others in a variety of social settings.
+* I can describe where I am from and identify Spanish-speaking countries on a map.
+* I can provide a detailed description of my personality and appearance.
+* I can state my age and birthday using the correct linguistic logic (*Tener*).
+* I can function within a Spanish-only classroom using survival phrases.
 
 ---
 
-## 📺 Supplemental Resources
-Teachers may utilize the **Seño Bluemel Que Chévere** YouTube channel for supplemental audio-visual input to support the CI scripts in this unit.
+## 📺 Supplemental Resource Bank
+
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the vocabulary and themes presented in these lessons.
+
+---
+
+## 🔐 Intellectual Property & Usage Notice
+**© 2024-2026 Seño Bluemel, M.S. All Rights Reserved.**
+*Permitted for individual classroom use. Redistribution or digital reproduction is strictly prohibited.*
