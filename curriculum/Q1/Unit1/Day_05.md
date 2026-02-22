@@ -30,6 +30,8 @@
 
 ### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
+
+
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
 | **10 min** | **Activador: El Sospechoso** | Teacher describes a "suspect" (a student in the room). Students must point to the person being described. | Use "Input Flood." Repeat the adjectives frequently. Focus on *alto/bajo* and *rubio/moreno*. | **T:** "Es un chico. Es bajo. Es moreno." <br>**C:** (Points to the student) |
@@ -37,8 +39,6 @@
 | **15 min** | **Task: ¿Quién es quién? (Interpersonal)** | Pair work. Each student has a set of mystery faces. They must describe their "secret person" until the partner guesses correctly. | **Live-Grade:** Listen for the vowel switch. If a boy says "Yo soy alta," gently point to a male student and say "Alto." | **A:** "¿Cómo es tu persona?" <br>**B:** "Es una chica. Es rubia y alta." |
 | **8 min** | **Presentational: My Avatar** | Students draw a quick self-portrait and label it with three adjectives: *Yo soy...* | Check for consistency. The adjectives must match the student's gender identity. | *"Yo soy bajo, moreno y atlético."* |
 | **5 min** | **Reflexión: The Power of 'Ser'** | Discuss why we use *Ser* for height but *Estar* (from Day 2) for feelings. (Permanent vs. Temporary). | Keep it simple. Height is "who you are" (Identity), feelings are "how you are" (State). | "Soy alto (Fixed) vs Estoy feliz (Temporary)." |
-
-
 
 ---
 
@@ -70,11 +70,18 @@ Before Task 2, do a "Fishbowl" demo. Have one strong student come to the front a
 ### 🚀 Differentiation & Enrichment
 
 * **Support (Struggling):** Provide an "Agreement Cheat Sheet" (Boy = -o / Girl = -a) taped to their desks.
-* **Enrichment (Achieving):** Introduce adjectives that don't change for gender (e.g., *grande, fuerte*) to challenge their understanding of the rule.
+* **Enrichment (Achieving):** Challenge students to add "muy" or "un poco" to their descriptions (*Soy un poco bajo*).
 
 ---
 
-### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** Use this specific video to master the vocabulary and grammar for physical descriptions in Spanish: [**Discover the SECRET to Describing Physical Traits in Spanish**](https://www.youtube.com/watch?v=2j9LYjf69Z0).
-> 
-> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for additional videos and resources to support your learning.
+### 📺 Supplemental Resource Bank
+
+> 🎥 **Featured Video for Today:** [**Discover the SECRET to Describing Physical Traits in Spanish**](https://www.youtube.com/watch?v=2j9LYjf69Z0)
+>
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+
+---
+
+### 🔐 Intellectual Property & Usage Notice
+**© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
+*This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
