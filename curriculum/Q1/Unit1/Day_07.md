@@ -1,138 +1,93 @@
 # Quarter 1 | Unit 1 | Day 7
-## ¿Cómo estás? — Feelings & Emotions in the Spanish-Speaking World
-*Unit 1 — ¡Hola, Mundo! | Week 2 | Quarter 1 | Day 7 of 171*
+## La Identidad Numérica — Age, Numbers & Birthdays
+### *The Mechanics of Telling Time and Age in a Global Context*
+*Unit 1 — Identidad y Comunidad Global | Week 2 | Quarter 1 | Day 7 of 171*
 
 ---
 
-### 📌 Standards & Objectives
+### 📌 Standards Leadership & Alignment
 
-**ACTFL World-Readiness Standards (Primary)**
-- **Communication – Interpersonal:** Ask and answer how someone is feeling using a range of emotional vocabulary.
-- **Communication – Interpretive:** Identify emotional states from spoken input, images, and facial expressions.
-- **Cultures – Perspectives:** Recognize that expressing emotion openly varies in degree and form across Spanish-speaking cultures.
-- **Comparisons – Language:** Compare emotional expression in Spanish vs. English — noticing that Spanish has more granular vocabulary for well-being.
+**National Standards Alignment (Primary)**
+*Grounded in the frameworks of **ACTFL, NCSSFL, AATSP, and JNCL-NCLIS**.*
+- **Communication – Interpersonal:** Exchange biographical information including age and birth dates.
+- **Communication – Interpretive:** Recognize and decode numbers (0-31) and months of the year in spoken and written Spanish.
+- **Cultures – Practices:** Analyze the cultural significance of birthdays and "coming of age" milestones across the Hispanic world.
+- **Comparisons – Language:** Compare the linguistic structure of age (Spanish *Tener* vs. English *To Be*).
 
 **NCSSFL-ACTFL Can-Do Statements**
-> *I can say how I am feeling using words beyond* bien *and* mal.
-> *I can ask someone how they feel and understand their response.*
-> *I can recognize that emotional expression is culturally influenced.*
+> *I can count from 0 to 31 in Spanish to discuss dates and ages.*
+> *I can state my age using the correct structure "Tengo... años."*
+> *I can identify my birthday month and day in Spanish.*
 
-**Missouri CLEs (Secondary)**
-- FL.1.A.1 — Use target language to express personal states and feelings in simple interactions.
-- FL.2.A.1 — Identify cultural perspectives on emotional expression in Spanish-speaking communities.
+**Missouri CLEs (Secondary Alignment)**
+- FL.1.A.1 — Engage in simple conversations regarding personal biographical data.
+- FL.4.A.1 — Contrast the grammatical structure of age across languages.
 
 ---
 
 ### 🎯 Lesson Objectives (UbD Backward Design)
 
-**Enduring Understanding:** Language gives us words for feelings — and the words a culture chooses reveal what it values. Spanish has rich, specific ways of expressing emotional states that go far beyond "fine."
+**Enduring Understanding:** Numbers are the "data of identity." In Spanish, we don't "are" an age; we "have" years. This linguistic shift reflects a different perspective on life and time.
 
-**Essential Question:** Why does it matter that you have more than one word for "okay"?
-
-**Transfer Goal (toward Day 10 IPA):** Students will respond to *¿Cómo estás?* with a nuanced emotional response and ask a follow-up question in the Week 2 simulated Meet & Greet.
+**Essential Question:** How does the way we express our age and our milestones define our place in a community?
 
 ---
 
-### 📚 Vocabulary Focus
+### 📚 Vocabulary Focus: Numerical Identity
 
-| Spanish | English | Level |
+| Spanish | Category | English |
 |---|---|---|
-| Muy bien | Very well | Positive |
-| Bien | Good / Fine | Positive |
-| Bastante bien | Pretty good / Quite well | Positive |
-| Regular | So-so / Okay | Neutral |
-| Más o menos | More or less | Neutral |
-| Cansado/a | Tired | Negative |
-| Ocupado/a | Busy | Negative |
-| Mal | Bad | Negative |
-| Muy mal | Very bad | Negative |
-| Enfermo/a | Sick | Negative |
-| Contento/a | Happy / Content | Positive |
-| Emocionado/a | Excited | Positive |
-| Nervioso/a | Nervous | Negative |
+| **¿Cuántos años tienes?** | Question | How old are you? (How many years do you have?) |
+| **Tengo... años** | Response | I am... years old (I have... years) |
+| **¿Cuándo es tu cumple?** | Informal | When is your birthday? |
+| **Números 0–31** | Logic | Counting / Calendar Days |
+| **Meses del Año** | **Cognates** | Enero, Febrero, Marzo, Abril, Mayo... |
 
-**Grammar Note (input-only, no production required today):**
-Adjectives in Spanish match gender: *cansado* (masculine) / *cansada* (feminine). Students notice this today — they don't need to master it yet.
+
 
 ---
 
-### 🌍 Cultural Spotlight: How Do Spanish Speakers Talk About Feelings?
+### 🌍 Cultural Spotlight: The Milestone of Age
 
-**Colombia 🇨🇴** — Colombians are known for warmth and emotional expressiveness. *¿Cómo amaneció?* ("How did you wake up?" — literally "How did you dawn?") is a common greeting among adults, especially in Bogotá and Medellín, that goes deeper than just "How are you?" It signals genuine care for the other person's state.
+Age is celebrated with unique intensity across the **21 Spanish-speaking countries**:
 
-**Mexico 🇲🇽** — Mexican Spanish has the colorful expression *estar de bajón* (to be in a slump/feeling down) or *estar en las nubes* (to have your head in the clouds — distracted). Emotional states in Mexican informal speech are often expressed metaphorically.
-
-**Puerto Rico 🇵🇷** — In Puerto Rican Spanish, *¡Wepa!* is an exclamation of excitement or joy — an expression of being *emocionado/a* that has no single English equivalent. It's cultural vocabulary for a specific kind of happy energy.
-
-**Argentina 🇦🇷** — Argentines are known for their rich emotional vocabulary, partly influenced by a strong psychoanalytic culture (Argentina has one of the highest rates of therapists per capita in the world). Talking about *how* you feel — in detail — is socially normal and valued.
-
-**Classroom Connection:** Ask students — in English, when someone says "How are you?", do they actually want to know? In many Spanish-speaking cultures, the question carries more genuine weight. This is a cultural perspective shift worth sitting with.
+* **La Quinceañera:** In **Mexico, Central America, and the Caribbean**, the 15th birthday is a major "rite of passage" for young women, symbolizing the transition from childhood to the community.
+* **Birthday Rituals:** In many countries, the "Happy Birthday" song is followed by regional traditions, such as the *Mordida* in Mexico (face in the cake!) or the singing of *Las Mañanitas*.
+* **The Date Format:** In almost every Spanish-speaking country, the date is written **Day/Month/Year**. This is a vital "Global Literacy" skill for traveling or filling out documents abroad.
 
 ---
 
 ### 🕐 Lesson Timeline (50 Minutes)
 
-**Warm-Up / Activador (5 min)**
-Teacher greets 5 students using full Week 1 + Day 6 sequence: greeting → name → origin. Students respond. Fast and energetic.
+**Warm-Up: The "Number Pulse" (5 min)**
+Teacher leads a rhythmic "call and response" counting 0-20. Use a clap on the "multiples of 5" to keep the energy high and the brain engaged.
 
-**Input: Teacher-Led CI Script (20 min)**
+**Input: The "I Have Years" CI Script (18 min)**
+- Teacher models age: "I am not 30 years old. I *have* 30 years. [Mime holding something]. I have them in my pocket! *Tengo treinta años.*"
+- Practice asking students *¿Cuántos años tienes?* and guiding them to use the number wall.
+- Introduce the **Months of the Year**. Highlight that they are cognates—students already know them!
 
-> *[Walk in looking exhausted — drag your feet, yawn, rub your eyes.]*
->
-> "Buenos días, clase. [Pause. Yawn dramatically.] ¿Cómo estoy yo hoy? Cómo — how — estoy — I am. How am I today? Hmm. Estoy... cansada. [Sag your shoulders.] Cansada. Tired. Can-sa-da. I am tired. Estoy cansada."
->
-> *[Write on board: Estoy + ___]*
->
-> "Estoy. I am — right now, in this moment. Estoy cansada. Estoy bien. Estoy mal. Estoy emocionada. ESTOY. Watch my face — my cara — and guess the feeling."
->
-> *[Act out: big smile → students guess* contento/a. *Sneezing, shivering → students guess* enfermo/a. *Running in place → students guess* ocupado/a.]*
->
-> "¡Muy bien! Now — ¿cómo ESTÁS tú? [Point to student.] Tú — you. How are YOU? Tell me: Estoy ___. What's your word today? Think about it."
->
-> *[Take 3–4 student responses. Write their words on the board.]*
->
-> "Look at this board. [Gesture at the list.] Every person — different. Some are bien. Some are cansados. Someone is nervioso — nervous — maybe because it's Spanish class! [Laugh warmly.] That's okay. Nervioso is a real feeling. We have a word for it."
->
-> *[Now model the full exchange.]*
->
-> "¿Cómo estás? — Estoy bastante bien, gracias. ¿Y tú? — Regular. — ¿Por qué? — Estoy cansado. — ¡Ay, lo siento! — That means: I'm sorry to hear that."
->
-> *[Introduce the cultural layer.]*
->
-> "In Colombia — especially in Medellín — someone might ask you: ¿Cómo amaneció? How did you DAWN? How did you wake up? It's beautiful, right? Not just 'how are you' — but 'how did your day begin?' That's calidez. Warmth. They actually want to know."
->
-> *[Pull out a flag image for Puerto Rico.]*
->
-> "And in Puerto Rico — if you feel GREAT — if you're emocionado — you might say: ¡WEPA! [Pump your fist.] Wepa. It's joy. It's excitement. It doesn't translate. It's a cultural word. Puerto Rican energy. ¡WEPA!"
->
-> *[Students say it with you. Laughing is good.]*
->
-> "And in Argentina — they LOVE to talk about feelings. In detail. Argentina has more therapists per person than almost any country in the world. Talking about *how* you feel is completely normal. Respetable. Respected."
+**Activity: The Birthday Line-Up (12 min)**
+Students must organize themselves in a long line around the room in order of their birthday (January to December). **The Catch:** They can only speak Spanish. They must ask: *¿Cuándo es tu cumple?* and respond *Es el [número] de [mes].*
 
-**Guided Practice: Emotion Charades (10 min)**
-Students draw a vocabulary card from a stack (cansado/a, contento/a, nervioso/a, etc.). They act out the emotion — no words — while their partner guesses using *Estás ___*. Switch roles. Teacher calls time every 60 seconds.
+**Interactive Practice: Digital Bingo (10 min)**
+A quick game of "Cumpleaños Bingo." Teacher calls out dates (e.g., *el doce de octubre*). Students mark their cards. This reinforces listening for both numbers and months simultaneously.
 
-**Partner Dialogue Practice (10 min)**
-Full 6–8 line dialogue combining Week 1 and Week 2 vocabulary:
-- Greeting → Name → Origin → *¿Cómo estás?* → Emotional response → *¿Por qué?* → One-word reason → Farewell
-
-Students write the dialogue first, then perform it.
-
-**Exit Ticket (5 min)**
-On a notecard: Write *Estoy ___* with your honest feeling today. Then write one thing that surprised you about how another Spanish-speaking culture expresses emotion.
+**Exit Ticket: The Identity Tag (5 min)**
+Students write a 3-sentence profile:
+1. *Me llamo [Nombre].*
+2. *Tengo [Edad] años.*
+3. *Mi cumple es el [Día] de [Mes].*
 
 ---
 
-### 📺 Seño Bluemel Resource
+### 📺 Supplemental Resource Bank
 
-> 🎬 **Watch:** Visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) for a video on emotional vocabulary in Spanish — including how adjective gender agreement works for *cansado/cansada*. A great preview of a grammar concept you'll master later in the course!
-
----
-
-### 📝 Scaffolding & Differentiation Notes
-
-- **Scaffolding:** Provide an emotion picture card set — images of faces + Spanish label — for students who need visual anchors.
-- **Extension:** Students write a 5-sentence paragraph about a fictional day in the life of someone from Puerto Rico, using at least 4 emotion words.
-- **Grammar Preview:** For students ready for more, note that *estoy* uses the verb *estar* — a special verb for temporary states. This is a seed for Unit 2 deep work.
+> 🎬 **Watch:** Educators and students may visit the [Seño Bluemel Que Chévere YouTube Channel](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for a video on "The Correct Way to State Your Age." This is essential for un-learning the common mistake of saying "Soy... años."
 
 ---
+
+### 📝 Scaffolding & Differentiation
+- **Scaffolding:** Provide a "Number Logic" sheet showing the patterns for 16-19 (*dieci-* + number) and 21-29 (*veinti-* + number).
+- **Extension:** Students can research a specific birthday tradition from one of the 21 countries (e.g., *La Piñata* in Mexico or *El Tirón de Orejas* in Spain).
+- **Visual Learners:** Color-code the months by season to help students associate *Marzo* with spring and *Octubre* with autumn.
