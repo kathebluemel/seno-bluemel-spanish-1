@@ -19,18 +19,16 @@ In this foundational unit, students begin their journey by exploring the concept
 ---
 
 ## 📝 Summative Assessment: The Unit 1 IPA
-**The Integrated Performance Assessment (IPA)** evaluates students on their ability to use the language in a functional, real-world context rather than a grammar test.
+**The Integrated Performance Assessment (IPA)** evaluates students on their ability to use the language in functional, real-world contexts.
 
 | Mode | Task Description | Target Proficiency |
 |---|---|---|
-| **Interpretive** | **The Pen-Pal Profile:** Students read a short profile of a student from a Spanish-speaking country and answer comprehension questions about their name, age, origin, and school schedule. | Novice-Low / Mid |
-| **Interpersonal** | **Meet & Greet:** A 2-minute unscripted conversation with a peer or teacher. Students must exchange names, origins, and ask about each other's school day. | Novice-Mid |
-| **Presentational** | **Digital Portfolio/Poster:** Students create a "Who Am I?" visual (video or poster) describing themselves, their personality, and 3 items they have in their school bag. | Novice-Mid |
+| **Interpretive** | **The Pen-Pal Profile:** Students extract key identity data from a target-language text. | Novice-Low / Mid |
+| **Interpersonal** | **Meet & Greet:** An unscripted conversation exchanging personal info and school schedules. | Novice-Mid |
+| **Presentational** | **Digital Portfolio:** A "Who Am I?" visual presentation of identity traits and school life. | Novice-Mid |
 
-### 📊 Rubrics & Evaluation
-All assessments in this unit are graded using **ACTFL-aligned Proficiency Rubrics**. 
-* **Focus:** Comprehensibility, Language Control, and Vocabulary Usage.
-* **Goal:** Moving students from "Word Level" (Novice-Low) to "Sentence Level" (Novice-Mid).
+### 📊 Assessment Philosophy
+All lessons within this unit include **embedded formative rubrics**. These rubrics prioritize **comprehensibility** and **functional ability** over grammatical perfection, aligning with ACTFL proficiency tiers to move students from Novice-Low toward Novice-Mid.
 
 ---
 
