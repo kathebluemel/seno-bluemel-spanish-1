@@ -1,155 +1,90 @@
 # Quarter 1 | Unit 1 | Day 13
-## Los Meses del Año y Las Fechas — Months & the Date Format Difference
-*Unit 1 — ¡Hola, Mundo! | Week 3 | Quarter 1 | Day 13 of 171*
+## Los Meses y El Formato Global de la Fecha
+### *Linguistic Etymology and the Logic of DD/MM/YYYY*
+*Unit 1 — Identidad y Comunidad Global | Week 3 | Quarter 1 | Day 13 of 171*
 
 ---
 
-### 📌 Standards & Objectives
+### 📌 Standards Leadership & Alignment
 
-**ACTFL World-Readiness Standards (Primary)**
-- **Communication – Interpersonal:** Ask and state full dates including month, day, and year in spoken exchanges.
-- **Communication – Interpretive:** Read and decode dates written in Spanish-speaking world format (DD/MM/YYYY) and convert them accurately.
-- **Communication – Presentational:** Write today's full date in Spanish format and state it aloud.
-- **Cultures – Practices & Perspectives:** Understand that date formatting conventions differ globally and that misreading a date can cause real-world miscommunication.
-- **Comparisons – Language:** Compare the English MM/DD/YYYY format with the Spanish-speaking world's DD/MM/YYYY format and explain why they differ.
+**National Standards Alignment (Primary)**
+*Grounded in the frameworks of **ACTFL, NCSSFL, AATSP, and JNCL-NCLIS**.*
+- **Communication – Interpersonal:** Exchange full date information, including birthdays and cultural holidays.
+- **Communication – Interpretive:** Decode numerical dates written in the Global Format (DD/MM/YYYY).
+- **Cultures – Perspectives:** Analyze how different cultural perceptions of "Time Order" (Smallest-to-Largest) influence global documentation.
+- **Comparisons – Language:** Evaluate the Latin roots of the months and compare the date formatting "logic" of English vs. Spanish.
 
 **NCSSFL-ACTFL Can-Do Statements**
-> *I can name all twelve months of the year in Spanish.*
-> *I can write and say a complete date using the Spanish-speaking world's format.*
-> *I can explain why* 05/07 *means different things in the U.S. vs. Spain or Latin America.*
+> *I can name the twelve months and identify their shared Latin roots with English.*
+> *I can write a date in the "Day/Month/Year" format used by the Spanish-speaking world.*
+> *I can identify my birthday and significant national holidays using the formula "el [número] de [mes]."*
 
-**Missouri CLEs (Secondary)**
-- FL.1.A.1 — Use target language to communicate full date information.
-- FL.2.A.1 — Identify cultural conventions related to date formatting across Spanish-speaking countries.
-- FL.4.A.1 — Compare date conventions in Spanish vs. English and analyze potential for miscommunication.
+**Missouri CLEs (Secondary Alignment)**
+- FL.2.A.1 — Identify cultural conventions related to date formatting.
+- FL.4.A.1 — Analyze potential for miscommunication caused by differing date conventions.
 
 ---
 
 ### 🎯 Lesson Objectives (UbD Backward Design)
 
-**Enduring Understanding:** Something as simple as writing a date can be misread across cultures — and that misreading has real consequences. Cultural awareness protects communication.
+**Enduring Understanding:** Cultural literacy is a protective skill. Misreading a date on a visa, a contract, or a medical form can have massive consequences. In Spanish, we move logically from the smallest unit (day) to the largest (year).
 
-**Essential Question:** Could writing a date the "American way" cause a problem in a Spanish-speaking country?
-
-**Transfer Goal (toward Day 15 IPA):** Students will state their full birthday date (*Mi cumpleaños es el [number] de [month]*) using Spanish date format conventions.
+**Essential Question:** How can a simple slash (/) between numbers change the meaning of time?
 
 ---
 
-### 📚 Vocabulary Focus
+### 📚 Vocabulary Focus: The Logic of the Months
 
-**The Twelve Months:**
 
-| Spanish | English | Cognate Note |
+
+| Spanish | Linguistic Origin | English Cognate |
 |---|---|---|
-| enero | January | — |
-| febrero | February | *February / febrero* — shared Latin root |
-| marzo | March | *Mars / Marte / marzo* — the war god's month |
-| abril | April | — |
-| mayo | May | *Maia* — Roman goddess |
-| junio | June | *Juno* — Roman goddess |
-| julio | July | *Julius* Caesar's month |
-| agosto | August | *Augustus* Caesar's month |
-| septiembre | September | *septem* — seven (originally the 7th month) |
-| octubre | October | *octo* — eight |
-| noviembre | November | *novem* — nine |
-| diciembre | December | *decem* — ten |
+| **Enero / Febrero** | Janus / Februa | January / February |
+| **Marzo / Abril / Mayo** | Mars / Aphrodite / Maia | March / April / May |
+| **Junio / Julio / Agosto** | Juno / Julius / Augustus | June / July / August |
+| **Septiembre - Diciembre** | Septem (7) to Decem (10) | September - December |
 
-**Key Structures:**
-| Spanish | English |
-|---|---|
-| ¿Cuál es la fecha de hoy? | What is today's date? |
-| Hoy es el ___ de ___. | Today is the ___ of ___. |
-| ¿Cuándo es tu cumpleaños? | When is your birthday? |
-| Mi cumpleaños es el ___ de ___. | My birthday is the ___ of ___. |
-| el primero de ___ | the first of ___ (special: use *primero*, not *uno*) |
-
-**Date Format Rule:**
-> 🇺🇸 **United States:** Month / Day / Year → **07/05/2025** = July 5th
-> 🌎 **Spanish-speaking world:** Day / Month / Year → **05/07/2025** = July 5th
-> ⚠️ **Same numbers. Completely different dates if misread.**
+**The Date Formula:**
+* **Structure:** *el [número] de [mes]* (e.g., *el cinco de mayo*)
+* **The Exception:** We say **el primero** (the first) instead of "el uno" for the 1st of any month.
 
 ---
 
-### 🌍 Cultural Spotlight: When Dates Aren't Just Numbers
+### 🌍 Cultural Spotlight: The Global Date Conflict
 
-**The Date Format Gap — A Real-World Consequence:**
-When a Colombian business partner sends a contract dated **10/03/2025**, they mean **March 10th**. An American reader assumes **October 3rd**. Seven months of difference — on a legal document. This is not a hypothetical problem. It happens in immigration paperwork, medical records, travel visas, and international business every day. Teaching students to read DD/MM/YYYY is an act of genuine cultural and practical literacy.
-
-**Equatorial Guinea 🇬🇶** — Equatorial Guinea celebrates its **National Independence Day on October 12** (*el doce de octubre*) — written in Spanish format as **12/10**. An American reader might assume December 10th. Written out in full — *el doce de octubre* — the confusion disappears entirely. This is why Spanish speakers often write dates in words for important documents.
-
-**Peru 🇵🇪** — Peru's **Independence Day is July 28** (*el veintiocho de julio, 1821*) — a date every Peruvian child memorizes. Written numerically: **28/07/1821**. The month *julio* is named for Julius Caesar — a Roman emperor whose calendar reforms still shape how we measure time today. Peru's independence date connects ancient Rome, Spanish colonialism, and South American liberation in a single number.
-
-**Bolivia 🇧🇴** — Bolivia actually celebrates **two independence days**: August 6 (*el seis de agosto*) as the date of independence in 1825, and later regional commemorations. A date like 06/08 written numerically would be read as June 8th in the U.S. but August 6th in Bolivia — the actual holiday date. Context and convention matter enormously.
-
-**Colombia 🇨🇴** — Colombia's Independence Day is **July 20** (*el veinte de julio*). Written as 20/07. An American might read this as the 20th month — which doesn't exist — and realize something is wrong. This confusion is how many students first notice the format difference organically.
+* **The Visa Error:** Imagine a travel visa that expires on **10/03/2026**. An American traveler thinks they have until October. In Colombia or Spain, that visa expired on **March 10th**. Cultural awareness prevents legal trouble.
+* **Equatorial Guinea 🇬🇶:** Their Independence Day is **12/10** (*el doce de octubre*). This day is a double celebration of national birth and Hispanic heritage.
+* **Colombia 🇨🇴:** Independence is celebrated on **20/07** (*el veinte de julio*). Because there is no 20th month, this is often the moment American students realize the numbers are swapped!
 
 ---
 
 ### 🕐 Lesson Timeline (50 Minutes)
 
-**Warm-Up / Activador: The Mystery Date (5 min)**
-Write **06/08** on the board. Ask: *"What date is this? Be specific — give me a month and a day."* Take answers. Students will likely say June 8th. Then reveal: *"In Bolivia, this is their Independence Day — August 6th. Same numbers. Different meaning. That's what we're learning today."*
+**Warm-Up: The Mystery Appointment (5 min)**
+Teacher displays a doctor's appointment card: **"Cita Médica: 04/09."** Ask: *"If you are in Madrid, when do you go to the doctor?"* (September 4th). *"If you are in St. Louis?"* (April 9th). Discuss the impact of this 5-month difference.
 
-**Input: Teacher-Led CI Script (18 min)**
+**Input: The "Small-Medium-Large" Script (18 min)**
+- Teacher uses a Russian nesting doll or different sized boxes to show logic. "In the U.S., we put the month first. In Spanish, we go in order: **Day (Small) -> Month (Medium) -> Year (Large).** It is logical!"
+- Pronunciation practice for the 12 months. Focus on **Enero** (the outlier) and the **"pt"** in *Septiembre*.
 
-> *[Point to the calendar on the wall — or a projected calendar.]*
->
-> "Los meses del año. The months of the year. Doce meses — twelve months. Watch — many of these you already know. They're COGNATES."
->
-> *[Point and say each month — students repeat. Go slow and deliberate on pronunciation.]*
->
-> "Enero. Febrero. Marzo. Abril. Mayo. Junio. Julio. Agosto. Septiembre. Octubre. Noviembre. Diciembre."
->
-> *[Now the etymology hook — students perk up with this.]*
->
-> "¿Septiembre? Septem — SEVEN in Latin. Originally, septiembre WAS the seventh month. Then the Romans added January and February at the beginning and bumped everything. Octubre — octo — EIGHT. Noviembre — novem — NINE. Diciembre — decem — TEN. Spanish kept the Latin names. English did too! September. October. November. December. Same roots."
->
-> *[Write julio and agosto on the board.]*
->
-> "Julio — JULIO CÉSAR. Julius Caesar. He was so powerful they named a MONTH after him. July. Julio. Agosto — AUGUSTO. Emperor Augustus. August. Agosto. These emperors have been in your calendar for 2,000 years."
->
-> *[Now the date format — use the mystery date from the warm-up.]*
->
-> "Okay — la fecha. The date. In the United States, we say MONTH first. July fifth — 7/5. Month, day. ¿Sí? But in Spanish — in Colombia, in Peru, in Bolivia, in Spain, in Equatorial Guinea — we say the DAY first. El cinco de julio — the fifth of July — written as 5/7. Day. Month."
->
-> *[Write side by side on board:]*
-> *🇺🇸 07/05 = July 5th*
-> *🌎 07/05 = May 7th*
->
-> "SAME NUMBERS. Different countries. Different meaning. If I send you a letter and write 10/03 — and you're American — you read October 3rd. If I'm Colombian, I wrote March 10th. ¿Problema? Yes. BIG problem."
->
-> *[Introduce the full date structure.]*
->
-> "In Spanish — we say it the logical way: [hold up fingers] — el [day] de [month]. El cinco de julio. El veinte de enero. El primero de marzo — PRIMERO — not uno — for the FIRST day of a month. Primero. Special rule."
->
-> *[Practice together.]*
->
-> "Hoy es el ___ de ___. [Fill in today's real date.] ¿Cuándo es tu cumpleaños? Mi cumpleaños es el ___ de ___. That's your sentence for this week. Mi cumpleaños es el ___ de ___."
+**Activity: The Human Calendar (12 min)**
+Students are given a famous date (e.g., 25/12, 04/07, 31/10). They must find their "Month Group" in the room by calling out: *¿Quién es de diciembre? ¿Quién es de julio?*
 
-**Guided Practice: Date Detectives (12 min)**
+**Interactive Practice: Birthday Bingo (10 min)**
+Students fill a 3x3 grid with dates (e.g., 12/01, 15/05). Teacher calls out dates in full Spanish: *"El quince de mayo."* Students must find the numerical match on their board.
 
-*Activity 1 — Decode the Date (6 min):* Students receive a card with 6 dates written numerically (e.g., 15/04, 28/07, 01/11). They write out each date in full Spanish format (*el quince de abril, el veintiocho de julio, el primero de noviembre*).
-
-*Activity 2 — Holiday Match (6 min):* Students match 5 famous Spanish-speaking-world dates (independence days, cultural holidays) to the correct country using clues from today's cultural spotlight. Written in full Spanish date format.
-
-**Partner Practice: Birthday Exchange (8 min)**
-Partners ask each other: *¿Cuándo es tu cumpleaños? — Mi cumpleaños es el ___ de ___.* Each writes their partner's birthday in full Spanish format. Then: compare — are any birthdays in the same month? Same week?
-
-**Exit Ticket (4 min)**
-Students write today's full date in two formats: (1) American format in English and (2) Spanish-speaking world format in full Spanish words (*el ___ de ___, 20___*). Then answer: *¿Por qué importa el formato de la fecha?* (Why does date format matter?) — one sentence in English is fine.
+**Exit Ticket: My Profile Update (5 min)**
+Students write their name, their country (from Week 2), their age (from Day 11), and their birthday using the formula: *Mi cumpleaños es el [número] de [mes].*
 
 ---
 
-### 📺 Seño Bluemel Resource
+### 📺 Supplemental Resource Bank
 
-> 🎬 **Watch:** Visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) for a video on months of the year and date expressions — including a deep dive on the date format difference and how to avoid real-world miscommunication when writing dates in Spanish!
-
----
-
-### 📝 Scaffolding & Differentiation Notes
-
-- **Scaffolding:** Provide a month reference card with the Spanish month, English equivalent, and the cognate/etymology note. Students keep this in their Week 3 folder.
-- **Extension:** Students research one national holiday from a Spanish-speaking country not covered today, write the full date in Spanish format, and explain what the holiday celebrates.
-- **Real-World Literacy:** Emphasize to students that the date format difference is *not* a trivia fact — it is a practical life skill for anyone who interacts with Spanish-speaking colleagues, neighbors, or institutions.
+> 🎬 **Watch:** Educators and students may visit the [Seño Bluemel Que Chévere YouTube Channel](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for a video on "The Real-World Risks of Date Formatting." This video clarifies the "Primero" rule and provides a rhythmic way to memorize the months!
 
 ---
+
+### 📝 Scaffolding & Differentiation
+- **Scaffolding:** Provide a visual "Day-Month-Year" arrow on the board as a permanent reference.
+- **Extension:** Research "El Grito de Dolores" (Mexico) or "El Dieciocho" (Chile) and write the date in the global format.
+- **Heritage Speakers:** Discuss how they write dates at home versus at school—do they find themselves "switching" between formats?
