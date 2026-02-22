@@ -1,25 +1,26 @@
 # Quarter 1 | Unit 1 | Day 12
-## Los Números 16–31 y Los Días de la Semana
-*Unit 1 — ¡Hola, Mundo! | Week 3 | Quarter 1 | Day 12 of 171*
+## El Calendario y los Números 16–31
+### *Celestial Etymology and the Monday-Start Paradigm*
+*Unit 1 — Identidad y Comunidad Global | Week 3 | Quarter 1 | Day 12 of 171*
 
 ---
 
-### 📌 Standards & Objectives
+### 📌 Standards Leadership & Alignment
 
-**ACTFL World-Readiness Standards (Primary)**
-- **Communication – Interpersonal:** Use numbers 16–31 and days of the week in spoken exchanges about dates and schedules.
-- **Communication – Interpretive:** Identify days of the week and numbers in written and spoken context.
-- **Communication – Presentational:** State today's date and a future date using *hoy es* and *mañana es.*
-- **Cultures – Practices & Perspectives:** Recognize that the Spanish-speaking world begins the calendar week on **Monday**, not Sunday, reflecting a different cultural orientation toward time and work-life structure.
-- **Comparisons – Language:** Compare how days of the week are organized in Spanish vs. English calendars.
+**National Standards Alignment (Primary)**
+*Grounded in the frameworks of **ACTFL, NCSSFL, AATSP, and JNCL-NCLIS**.*
+- **Communication – Interpersonal:** Use numbers 16–31 and days of the week to discuss schedules and dates.
+- **Communication – Interpretive:** Identify the spelling shifts in compound numbers (16–29) vs. separate numbers (31+).
+- **Cultures – Practices:** Analyze the **Monday-Start** calendar convention and its impact on the cultural perception of the "Weekend."
+- **Comparisons – Language:** Discover the planetary roots (*Etymology*) of the days of the week and compare them to English/Norse origins.
+- **Connections – Science:** Link Spanish vocabulary to the solar system (Luna, Marte, Mercurio, Júpiter, Venus).
 
 **NCSSFL-ACTFL Can-Do Statements**
-> *I can say and recognize numbers 16–31 in Spanish.*
-> *I can name the days of the week and identify today's day.*
-> *I can say what day it is using* hoy es ___.
+> *I can count from 16–31 and identify the written pattern for compound numbers.*
+> *I can name the days of the week and explain why they are named after planets.*
+> *I can identify "Lunes" as the start of the week in a Spanish-speaking context.*
 
-**Missouri CLEs (Secondary)**
-- FL.1.A.1 — Use target language to communicate about time and schedules.
+**Missouri CLEs (Secondary Alignment)**
 - FL.2.A.1 — Identify cultural differences in how time and the calendar week are structured.
 - FL.4.A.1 — Compare calendar conventions between Spanish-speaking cultures and the U.S.
 
@@ -27,132 +28,70 @@
 
 ### 🎯 Lesson Objectives (UbD Backward Design)
 
-**Enduring Understanding:** How a culture organizes its calendar — which day starts the week, which days are sacred, which numbers matter — reveals its values and history.
+**Enduring Understanding:** A calendar is more than a tool; it is a cultural map. From the planetary names of the days to the Monday start, how we track time reflects our history and our connection to the cosmos.
 
-**Essential Question:** Does it matter which day you call "the first day of the week"?
-
-**Transfer Goal (toward Day 15 IPA):** Students will use days of the week and numbers 16–31 to state and ask about birthdays in a full date expression: *Mi cumpleaños es el [number] de [month].*
+**Essential Question:** How does the organization of a calendar influence a culture's rhythm of life?
 
 ---
 
-### 📚 Vocabulary Focus
+### 📚 Vocabulary Focus: The Celestial Week & Number Logic
 
-**Numbers 16–31:**
+**The Celestial Days:**
 
-| Number | Spanish | Pattern Note |
+
+| Spanish | Celestial Root | English Hook |
 |---|---|---|
-| 16 | dieciséis | diez + y + seis (written as one word) |
-| 17 | diecisiete | diez + y + siete |
-| 18 | dieciocho | diez + y + ocho |
-| 19 | diecinueve | diez + y + nueve |
-| 20 | veinte | new root — memorize |
-| 21 | veintiuno | veinte + y + uno (written as one word) |
-| 22 | veintidós | veinte + y + dos |
-| 23 | veintitrés | veinte + y + tres |
-| 24 | veinticuatro | veinte + y + cuatro |
-| 25 | veinticinco | veinte + y + cinco |
-| 26 | veintiséis | veinte + y + seis |
-| 27 | veintisiete | veinte + y + siete |
-| 28 | veintiocho | veinte + y + ocho |
-| 29 | veintinueve | veinte + y + nueve |
-| 30 | treinta | new root — memorize |
-| 31 | treinta y uno | treinta + y + uno (written as THREE words) |
+| **Lunes** | Luna (Moon) | **Mon**-day |
+| **Martes** | Marte (Mars) | Mars-day |
+| **Miércoles** | Mercurio (Mercury) | Mercury-day |
+| **Jueves** | Júpiter (Jupiter) | Jupiter-day |
+| **Viernes** | Venus (Venus) | Venus-day |
+| **Sábado** | Sabbath (Rest) | Saturday |
+| **Domingo** | Dominus (Lord) | Sun-day |
 
-**Pattern Alert:** 16–29 are compound words (one word). 31+ are separate words with *y* (and). This is a natural pattern students can decode.
-
-**Days of the Week:**
-
-| Spanish | English | Root/Memory Hook |
-|---|---|---|
-| lunes | Monday | *luna* — moon — Moon-day |
-| martes | Tuesday | *Marte* — Mars — Mars-day |
-| miércoles | Wednesday | *Mercurio* — Mercury |
-| jueves | Thursday | *Júpiter* — Jupiter |
-| viernes | Friday | *Venus* — Venus |
-| sábado | Saturday | from *Sabbath* (Hebrew roots) |
-| domingo | Sunday | *Dios/Dominus* — Lord's Day |
-
-**New Structures:**
-| Spanish | English |
-|---|---|
-| Hoy es ___ | Today is ___ |
-| Mañana es ___ | Tomorrow is ___ |
-| ¿Qué día es hoy? | What day is today? |
-| el fin de semana | the weekend |
-| entre semana | during the week (weekdays) |
+**Number Logic (16–31):**
+* **16–19:** Smash together (*Diez + y + seis = Dieciséis*). Note the accent on 16!
+* **21–29:** Smash together (*Veinte + y + uno = Veintiuno*). 
+* **31+:** Keep them separate (*Treinta y uno*).
 
 ---
 
-### 🌍 Cultural Spotlight: The Week Starts on Monday
+### 🌍 Cultural Spotlight: The Rhythm of the Week
 
-**The Calendar Difference:** In the United States, most calendars show **Sunday** as the first day of the week. In the Spanish-speaking world — and across most of Europe and Latin America — the week officially begins on **Monday** (*lunes*). This is not just a formatting choice; it reflects the cultural and religious framework in which the weekend (*sábado y domingo*) is seen as the rest period that *closes* the week, not opens it.
-
-**Equatorial Guinea 🇬🇶** — As the only Spanish-speaking country in Africa, Equatorial Guinea's calendar culture blends Spanish Catholic tradition (Sunday as *Día del Señor* — the Lord's Day) with Fang and Bubi indigenous time-keeping practices. The country celebrates its **Independence Day on October 12** — *el doce de octubre* — which coincidentally shares the date with *El Día de la Hispanidad* observed across the Spanish-speaking world.
-
-**Peru 🇵🇪** — In the Andean regions of Peru, the Quechua-speaking communities traditionally organized time around agricultural cycles — planting and harvest seasons — rather than a 7-day week. The Spanish colonial calendar was imposed but blended with indigenous time concepts. Today, Peruvian markets and festivals still follow both the Gregorian calendar and ancestral seasonal rhythms.
-
-**Bolivia 🇧🇴** — Bolivia has **two capital cities** — Sucre (constitutional) and La Paz (seat of government) — and two official time zones. *¿Qué día es hoy?* can feel like a different question depending on which part of the country, which community, and which cultural tradition you're in. Time in Bolivia is layered.
-
-**Missouri Connection 🇺🇸** — Ask students: "Does your phone or planner start the week on Sunday or Monday? Did you ever notice?" Many students haven't. This micro-observation opens a larger conversation about how culture shapes even the smallest daily structures.
+* **Monday First:** In the 21 Spanish-speaking countries, calendars begin on **Lunes**. The "Weekend" (*el fin de semana*) is seen as a cohesive unit of rest that concludes the week, rather than splitting it.
+* **Equatorial Guinea 🇬🇶:** This African nation celebrates its independence on **October 12** (*el doce de octubre*). Knowing the numbers 1-31 is essential for understanding their national history.
+* **The Andean Calendar (Peru/Bolivia):** While the 7-day week is standard, many indigenous communities still track time via agricultural "seasons" of planting and harvest, creating a layered experience of time.
 
 ---
 
 ### 🕐 Lesson Timeline (50 Minutes)
 
-**Warm-Up / Activador: 0–15 Speed Review (5 min)**
-Teacher points to students randomly and calls a number in English. Students say it in Spanish within 3 seconds. Then reverse — teacher says Spanish, students write the numeral. Quick, no-notes diagnostic.
+**Warm-Up: The Planet Match (5 min)**
+Teacher writes the planets (Luna, Marte, Mercurio, Júpiter, Venus) on the board. Students must guess which Spanish days of the week match each planet.
 
-**Input: Teacher-Led CI Script (18 min)**
+**Input: The "Smash or Separate" Number Script (18 min)**
+- Teacher models the spelling of 16-29. "These are fast! We smash them into one word: *Diecisiete! Veintidós!*"
+- Contrast with 31. "This is too big to smash. We use three words: *Treinta y uno.*"
+- Introduce the phrases: **Hoy es...** (Today is) and **Mañana es...** (Tomorrow is).
 
-> *[Write a large number 20 on the board.]*
->
-> "Veinte. VEIN-te. Twenty. Veinte. This is a new word — new root. Not diez-something. VEINTE. Repeat — veinte."
->
-> *[Students repeat. Now start building.]*
->
-> "Veinte y uno — veintiuno. [Write it as one word.] See? Veinte + y + uno = veintiuno. One word. Veintidós. Veintitrés. The pattern continues — all the way to veintinueve. Twenty-nine. Then — TREINTA. [Write 30.] Treinta. New root again. Thirty."
->
-> *[Write 31 on the board as: treinta y uno — three separate words.]*
->
-> "Treinta y uno — THREE words. Why? Because 31 is too long to smash together. Thirty-one. Treinta. Y. Uno. ¿Lógico? Logical? Sí. Spanish has patterns. Find the patterns and Spanish becomes easy."
->
-> *[Now pivot to days of the week — point to a wall calendar or draw one on the board.]*
->
-> "Now — los días de la semana. The days of the WEEK. Semana — week. La semana. Watch the calendar — [point to the Monday column] — En español, la semana COMIENZA — begins — el LUNES. Monday. Not Sunday. LUNES."
->
-> *[Point dramatically at any Sunday column.]*
->
-> "Sunday — domingo — is the LAST day. El último día. In the Spanish-speaking world, domingo closes the week. It's the day of rest — el Día del Señor — the Lord's Day. And then? Lunes. Monday. Fresh start. Nueva semana."
->
-> *[Now teach the planet memory hook — point to the sky.]*
->
-> "These day names are NOT random. Look. LUNES — luna — la LUNA — the MOON. Moon-day. Monday. Same idea! MARTES — Marte — the planet MARS. In English — Tuesday comes from Tiw, the Norse god of war. Same planet, different mythology. MIÉRCOLES — Mercurio — Mercury. JUEVES — Júpiter — Jupiter. VIERNES — Venus. ¿Increíble, verdad? The planets are in your week."
->
-> *[Students are usually genuinely surprised. Let it land.]*
->
-> "And today — hoy — ¿qué día es HOY? [Point to calendar.] Hoy es [day]. And mañana — tomorrow — mañana es [next day]. ¿Y el fin de semana? The WEEKEND — sábado y domingo — comes at the END. El FIN de semana. The END of the week."
+**Activity: The Human Calendar (12 min)**
+Students are given cards with days (Lunes-Domingo) or numbers (1-31). They must organize themselves into a "Spanish Week" (Starting with Lunes) and a "Calendar Month," calling out their number/day as they find their spot.
 
-**Guided Practice: Calendar Activities (13 min)**
+**Interactive Practice: Planetary Bingo (10 min)**
+A quick bingo game using days of the week and numbers 16-31. Teacher calls out "The day of Mars" (Martes) or "Three words: 31" (Treinta y uno).
 
-*Activity 1 — Days Chain (5 min):* Students sit in a circle. First student says *lunes.* Next says *martes.* Continue around the room. Second round: go backward. Third round: teacher calls a day — next student must say the following day without looking at notes.
-
-*Activity 2 — Number + Day Combo (8 min):* Teacher displays 8 dates written as numbers (e.g., "el 21 — martes"). Students practice saying the full phrase: *El veintiuno es martes.* Then students write 5 dates of their own (upcoming school events, their birthday week) using the structures *Hoy es… / El ___ es…*
-
-**Exit Ticket (4 min)**
-Students write: (1) Today's date in Spanish (*Hoy es [day].* + the number of today's date). (2) Three consecutive days starting from today. (3) The number 27 and 31 written out in Spanish letters.
+**Exit Ticket: The Date Check (5 min)**
+Write today's day and date in Spanish. Write tomorrow's day and date. Example: *Hoy es martes, el veintidós. Mañana es miércoles, el veintitrés.*
 
 ---
 
-### 📺 Seño Bluemel Resource
+### 📺 Supplemental Resource Bank
 
-> 🎬 **Watch:** Visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) for a days-of-the-week song or video — hearing the days in a rhythmic pattern dramatically accelerates memorization. Also look for any content on Latin American calendar traditions or holidays!
-
----
-
-### 📝 Scaffolding & Differentiation Notes
-
-- **Scaffolding:** Provide a printed week calendar with days in Spanish. Let students label it and keep it in their notebook as a reference anchor through Week 3.
-- **Extension:** Students research what day of the week a major Spanish-speaking country's national holiday falls on this year and write: *El Día de la Independencia de [país] es el ___ de ___ . Este año es [día de la semana].*
-- **IPA Connection:** Days of the week and numbers 16–31 are both essential for stating birthday dates in the Day 15 IPA.
+> 🎬 **Watch:** Educators and students may visit the [Seño Bluemel Que Chévere YouTube Channel](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for a video on the "Spelling Secrets of 16-31" and a fun mnemonic song for the days of the week. Perfect for perfecting that "Dieciséis" accent!
 
 ---
+
+### 📝 Scaffolding & Differentiation
+- **Scaffolding:** Provide a "Planetary Cheat Sheet" for the days of the week.
+- **Extension:** Students can look up the "Saint's Day" (*El Santo*) for their birthday—a common tradition in Spain and Latin America where people celebrate the saint associated with their birth date.
+- **Linguistic Logic:** Point out that in Spanish, days of the week and months are **not capitalized** (lunes, martes) unless they start a sentence. This is a key "Comparison" point with English!
