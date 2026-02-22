@@ -56,6 +56,8 @@
 ### 📘 Pedagogical Blueprint: How to Implement this Lesson
 > *A guide for transitioning from "Surface" to "Character" identity.*
 
+
+
 **1. Leveraging Cognates:**
 Begin with adjectives like *optimista, pesimista, inteligente, and paciente*. Because they look like English, the "Cognitive Load" is lower, allowing students to focus on the sentence structure of *Yo soy*.
 
@@ -75,6 +77,6 @@ Look at the shields. If a student wrote "Yo soy inteligente" but "Ella es inteli
 ---
 
 ### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** [[Link to your specific video if provided; otherwise this section remains blank per instructions](https://www.youtube.com/watch?v=v7lQ0PqTqhM&t=219s)].
+> 🎬 **Watch:** Use this specific video to learn how to describe personality and character traits in Spanish: [**Personality Traits in Spanish — Seño Bluemel**](https://www.youtube.com/watch?v=v7lQ0PqTqhM&t=219s).
 > 
 > 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for additional videos and resources to support your learning.
