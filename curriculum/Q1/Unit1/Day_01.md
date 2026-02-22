@@ -1,6 +1,6 @@
 # Quarter 1 | Unit 1 | Day 1
-## ¡Hola a todos! — First Encounters & Global Greetings
-### *Establishing Community and Phonetic Foundations*
+## ¡Bienvenidos! — Welcome & First Impressions
+### *Setting the Stage for a 90% Target Language Environment*
 *Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 1 of 171*
 
 ---
@@ -10,35 +10,33 @@
 
 | Domain | Focus & Standard Alignment |
 |---|---|
-| **Communication** | **Interpersonal:** Use basic greetings and leave-takings in social situations. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify common greetings and introductions in audio/visual media. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** Introduce oneself using simple memorized phrases. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
-| **Cultures** | **Practices:** Understand the cultural significance of the "beso" vs. "apretón de manos" in greetings. *[ACTFL 2.1 / NCSSFL-ACTFL CUL.P]* |
-| **Connections** | **Social Literacy:** Connecting linguistic greetings to interpersonal relationship building. *[ACTFL 3.1 / JNCL-NCLIS]* |
-| **Communities** | **Global Citizenship:** Recognizing oneself as a new member of the global Spanish-speaking community. *[ACTFL 5.1 / AATSP]* |
-| **Missouri CLEs** | **FL.1.A.1 / FL.3.A.1:** Using greetings and introductions; connecting language to cultural practices. |
+| **Communication** | **Interpretive:** Understand high-frequency cognates and non-verbal cues during a first-day immersion experience. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* |
+| **Cultures** | **Perspectives:** Recognizing that the classroom is a microcosm of the global Spanish-speaking community. *[ACTFL 2.1]* |
+| **Connections** | **Language Skills:** Using prior knowledge of English to decode Spanish cognates. *[ACTFL 3.1]* |
+| **Communities** | **Classroom Culture:** Establishing the norms and expectations for a proficiency-based learning environment. *[ACTFL 5.1]* |
+| **Missouri CLEs** | **FL.1.A.1 / FL.1.B.1:** Comprehending basic greetings and following simple classroom procedures. |
 
 ---
 
 ### 🎯 Learning Targets & Can-Do Statements
-> *“A first greeting is the key that opens the door to 21 cultures.”*
+> *“Today is about comfort, not perfection. We are building a space where we learn by doing, not just by translating.”*
 
-* **Learning Target:** I can use culturally appropriate greetings and introductions to establish a connection with others.
-* **Can-Do (Interpretive):** I can recognize when someone is greeting me and saying goodbye in Spanish.
-* **Can-Do (Interpersonal):** I can greet a peer, ask their name, and say goodbye using culturally appropriate gestures.
-* **Can-Do (Presentational):** I can state my name and a greeting in a recorded or written format.
+* **Learning Target:** I can understand the basic expectations of a 90% Spanish classroom through context and cognates.
+* **Can-Do (Interpretive):** I can identify at least 5 cognates (words that look/sound like English) used in today's lesson.
+* **Can-Do (Interpretive):** I can respond to basic non-verbal cues from the teacher (standing, sitting, listening).
+* **Can-Do (Presentational):** I can state one goal I have for my Spanish journey this year.
 
 ---
 
 ### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
-
-
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
-| **8 min** | **Activador: El Círculo de Saludos** | Students stand in a circle. Teacher models a greeting and a specific gesture (wave, handshake, or slight nod). Students repeat and pass it around the circle like a "wave." | Observe for physical comfort with gestures. Use "high energy" to lower the affective filter on day one. Ensure students are making eye contact. | **T:** "¡Hola!" (waves)<br>**C:** "¡Hola!" (waves) |
-| **12 min** | **Input: The Greeting Matrix (Interpretive)** | Use Comprehensible Input (CI) to show the difference between *Buenos días*, *Buenas tardes*, and *Buenas noches*. Use a sun/moon drawing on the board. | Use a clock visual. Emphasize that "Buenas tardes" starts after lunch in many cultures, not strictly at 12:00 PM. | *Show 2:00 PM on clock* → "¡Buenas tardes!" |
-| **15 min** | **Task: Speed Friending (Interpersonal)** | Students rotate in two lines. They have 30 seconds to greet, exchange names (*¿Cómo te llamas? / Me llamo...*), and say goodbye. | **Live-Grade:** Move with a clipboard. Check for eye contact and correct use of "Me llamo" (ensure they aren't saying 'My name is' in English). | **A:** "¡Hola! ¿Cómo te llamas?"<br>**B:** "Me llamo Luis. ¿Y tú?"<br>**A:** "Me llamo Ana. ¡Adiós!" |
-| **10 min** | **Presentational: The Desk Passport** | Students create a small card for their desk with a greeting, their name, and one "Mood Emoji" (prelude to Day 2 emotions). | Use this to walk around and practice name pronunciation. This becomes the teacher's "cheat sheet" for the first week. | **Card:** ¡Hola! Me llamo Carlos. (Emoji: 😄) |
-| **5 min** | **Reflexión: The Cultural Beso** | Brief discussion on the "beso" (cheek kiss) vs. the handshake. Ask: "Why do some cultures touch more during greetings than others?" | Frame this as "Cultural Logic" rather than "weirdness." Set the standard for cultural respect in the room. | "In Spain, it's two kisses; in Mexico, usually one." |
+| **10 min** | **Input: El Monólogo Cognado** | Teacher speaks 100% Spanish for 5 minutes. Use heavy gestures and cognates (*clase, fantástico, inteligente, música*). | Do not break character. Use your "teacher voice" and physical acting to show that they *can* understand without English. | "¡Bienvenidos a la clase de español! La clase es fantástica." |
+| **12 min** | **Task: La Cacería de Cognados** | Students look at a projected text in Spanish and highlight words they think they recognize based on English. | This builds "Linguistic Confidence." It proves to them that they already know some Spanish. | *Doctor, Animal, Familia, Radio, Chocolate.* |
+| **15 min** | **Interaction: El Mapa Global** | Show a map of the 21 countries. Point and say: *"Aquí se habla español."* Students place a sticker on a country they find interesting. | Connect the language to the world immediately. It’s not just a subject; it’s a global passport. | "En Colombia, se habla español. En España, se habla español." |
+| **8 min** | **Discussion: El Contrato de 90%** | (Switch to English briefly) Explain the 90% target language goal. Discuss why we use context and gestures instead of dictionaries. | Be transparent. Students need to know *why* we don't translate everything—it builds their "acquisition" muscle. | "We learn Spanish like we learned our first language: through context." |
+| **5 min** | **Reflexión: Salida (Exit Ticket)** | Students write one Spanish word they learned today and one thing they are excited about. | Collect these to gauge the initial "vibe" and comfort level of the class. | "I learned 'Hola' and I am excited to travel one day." |
 
 ---
 
@@ -46,35 +44,37 @@
 
 | Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
 |---|---|---|---|---|
-| **Comprehensibility** | Pronunciation is clear; vowels (O, A) are crisp. Natural gestures used without hesitation. | Understood by those used to language learners. Gestures are appropriate. | Meaning is clear but relies on heavy English accent or phonetics. | Incomprehensible; uses English greetings or sounds exclusively. |
-| **Language Control** | Uses *Me llamo* and *¿Y tú?* correctly and fluidly within the interaction. | Uses *Me llamo* correctly with minimal hesitation or restarts. | Confuses *Me llamo* with *Mi llamo* or uses English syntax. | Cannot state name or use a greeting accurately without help. |
-| **Interpersonal Quality** | Maintains eye contact; reacts naturally with *Mucho gusto* or a smile. | Polite interaction; follows the script provided by the teacher. | Minimal interaction; looks at the floor or relies on the desk card. | Refuses to interact with peers or uses English exclusively. |
-| **Cultural Awareness** | Selects the correct greeting for the current time of day automatically. | Uses a greeting appropriate for the time of day with slight prompting. | Uses "Hola" regardless of time of day, context, or social setting. | No awareness of time-based greetings or cultural gestures. |
+| **Interpretive Awareness** | Identifies 10+ cognates and follows all physical cues without hesitation. | Identifies 5-7 cognates and follows most cues. | Identifies 2-3 cognates; relies heavily on watching peers for cues. | Cannot identify cognates; appears lost during immersion. |
+| **Engagement** | Actively participates in non-verbal responses and shows high enthusiasm. | Participates when prompted and follows class flow. | Minimal participation; looks for English translations constantly. | Disengaged or disruptive during the target language monologue. |
 
 ---
 
 ### 📘 Pedagogical Blueprint: How to Implement this Lesson
-> *A guide for the first day of high-performance language learning.*
 
-**1. The "100% Target Language" Myth:**
-On Day 1, use 90% Spanish for greetings and basic commands, but use 10% English for the "Reflexión" to ensure the cultural safety and expectations of the room are established. The goal is "Comprehensible," not "Confusing."
+**1. The Power of Gestures:**
+On Day 1, your body is your best dictionary. Over-exaggerate your movements. If you say "escuchen," cup your ear. If you say "clase," sweep your arms across the room.
 
-**2. Live-Grading on Day 1:**
-Do not give a grade for the gradebook today. Use the rubric to identify "The Quiet Ones." These are the students you will prioritize for a "High-Five" or extra greeting on Day 2 to build their confidence early.
+**2. Cognates are Your Bridge:**
+Lean heavily on words like *estudiante, profesor, excelente, atención*. This lowers the Affective Filter (anxiety) and makes students feel successful on their very first day.
 
-**3. Movement is Essential:**
-The "Speed Friending" activity is designed to break the ice physically. If students stay in their seats on Day 1, they will stay in their shells for the rest of the quarter. Movement equals engagement.
+**3. Establishing the "Safe Space":**
+Make it clear that mistakes are expected. A proficiency-based classroom is a "low-stakes, high-engagement" environment.
 
 ---
 
 ### 🚀 Differentiation & Enrichment
 
-* **Support (Struggling):** Provide a "Greeting Map" on the board with phonetics (e.g., O-la). Allow them to keep their desk card in hand during the speed friending.
-* **Enrichment (Achieving):** Challenge them to use *Mucho gusto* (Pleased to meet you) or ask *¿Cómo estás?* (How are you?) if they have prior Spanish exposure.
+* **Support (Struggling):** Provide a "Cognate Cheat Sheet" with pictures for students who feel overwhelmed by the initial immersion.
+* **Enrichment (Achieving):** Challenge students to find "False Cognates" (words that look the same but mean something else, like *embarazada*).
 
 ---
 
-### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** Use this specific video to master the foundational sounds of the Spanish alphabet, which are critical for pronouncing names and greetings correctly: [**El Alfabeto en Español - Práctica Fonética**](https://www.youtube.com/watch?v=eRZ9cjugUfw).
-> 
-> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for introductory greeting videos and "First Week" survival resources.
+### 📺 Supplemental Resource Bank
+
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the vocabulary and themes presented in these lessons.
+
+---
+
+### 🔐 Intellectual Property & Usage Notice
+**© 2024-2026 Seño Bluemel, M.S. All Rights Reserved.**
+*This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
