@@ -74,5 +74,23 @@
 
 ---
 
+### 📘 Pedagogical Blueprint: How to Implement this IPA
+> *A guide for teachers on using "Performance-Based Diagnostics."*
+
+
+
+**1. Is this a Test?**
+No. This is a **diagnostic performance day**. Students demonstrate their skills in real-time. The entire 50-minute period *is* the assessment. There is no "final quiz" at the end because the activities *are* the evidence.
+
+**2. How to "Live-Grade":**
+* **Task 1:** Collect the papers at the end of the 12 minutes. This is your "hard data" for listening comprehension.
+* **Task 2:** This is the most important part for the teacher. **Do not sit at your desk.** Walk around with a clipboard and the rubric. Spend 60 seconds listening to one pair, mark their level (1, 2, 3, or 4), and move on. You should be able to "live-grade" the whole class in 15 minutes.
+* **Task 3:** Collect these visual maps. They serve as "Portfolio Artifacts" that show the student's ability to bridge sounds to written spelling.
+
+**3. Why use a Formative Rubric?**
+Since this is Week 4, the data you collect today tells you what to fix in Week 5. If Task 1 results are low, you know the students haven't mastered vowel sounds yet, and you should delay the next topic until they do.
+
+---
+
 ### 📺 Seño Bluemel Resource
 > 🎬 **Watch:** Visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) for the **"Alphabet & Classroom Objects"** review.
