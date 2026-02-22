@@ -1,4 +1,16 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: Seño Bluemel, M.S. Curriculum & Instruction
-description: Championing Global Proficiency and Cultural Inclusivity
-show_edit_on_github: false
+title: "Unit 1: Identidad y Comunidad Global"
+description: "Seño Bluemel, M.S. Curriculum & Instruction | Championing Global Proficiency and Cultural Inclusivity"
+
+# This removes the "View on GitHub" button and replaces it
+github:
+  is_project_page: false
+
+# Customizing the header button to link to your YouTube
+header_pages:
+  - name: "Seño Bluemel"
+    url: "https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber"
+
+# These lines disable the default GitHub footer text
+show_downloads: false
+google_analytics:
