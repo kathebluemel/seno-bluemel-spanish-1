@@ -30,15 +30,15 @@
 
 ### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
+
+
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
 | **5 min** | **Activador: The Number Pulse** | Rhythmic "call and response" counting 0-31. Use a clap on multiples of 5. | High energy is key here. It builds "Phonetic Muscle Memory" for the tricky 11-15 sequence. | **T:** "¡Cinco!" (Clap) <br>**C:** "¡Diez!" (Clap) |
 | **18 min** | **Input: The "I Have Years" CI Script** | Model age: "I am not 30. I *have* 30 years. [Mime holding them]. *Tengo treinta años.*" Introduce months as cognates. | **Grammar Alert:** Strictly enforce *Tener*. Use your video link below to show students why "Soy... años" is a logic error. | *"Yo tengo catorce años. Mi cumple es el tres de mayo."* |
 | **12 min** | **Task: The Birthday Line-Up (Interpersonal)** | Students must form a line around the room in order of birthday (Jan-Dec). **No English allowed.** | **Live-Grade:** Watch for the date format. Ensure they say *"el [número] de [mes]"* and not the English order. | **A:** "¿Cuándo es tu cumple?" <br>**B:** "Es el doce de octubre." |
 | **10 min** | **Interactive: Cumpleaños Bingo** | Teacher calls out random dates (e.g., *el siete de agosto*). Students mark 3x3 grids. | This tests "Simultaneous Processing"—recognizing a number and a month at the same time. | **T:** "El veinte de enero." <br>**S:** (Marks 1/20) |
-| **5 min** | **Reflexión: Global Date Formats** | Discuss the **Day/Month/Year** format. Why is this important for travel or legal documents? | Reinforce that 05/02 is February 5th in the Spanish-speaking world, not May 2nd. | "International literacy prevents missing your flight!" |
-
-
+| **5 min** | **Reflexión: Global Date Formats** | Discuss the Day/Month/Year format. Why is this important for travel or legal documents? | Reinforce that 05/02 is February 5th in the Spanish-speaking world, not May 2nd. | "International literacy prevents missing your flight!" |
 
 ---
 
@@ -69,11 +69,19 @@ This is your "Chaos Management" check. If the line is accurate at the end of 12 
 
 ### 🚀 Differentiation & Enrichment
 
-* **Support (Struggling):** Provide a "Date Formula" card: *Es el [Number] de [Month].* * **Enrichment (Achieving):** Introduce the cultural milestone of the *Quinceañera* and ask them to calculate how many years until (or since) their own 15th birthday.
+* **Support (Struggling):** Provide a "Date Formula" card: *Es el [Number] de [Month].*
+* **Enrichment (Achieving):** Introduce the cultural milestone of the *Quinceañera* and ask them to calculate how many years until (or since) their own 15th birthday.
 
 ---
 
-### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** Use this specific video to master the pronunciation of numbers and ensure you are stating your age correctly using *Tener*: [**Spanish Numbers 0-20 & Age — Seño Bluemel**](https://www.youtube.com/watch?v=uky50nG5VRo).
-> 
-> 🌐 **Explore:** Visit the [**Seño Bluemel: ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for additional resources on months, dates, and cultural milestones.
+### 📺 Supplemental Resource Bank
+
+> 🎥 **Featured Video for Today:** [**Spanish Numbers 0-20 & Age — Seño Bluemel**](https://www.youtube.com/watch?v=uky50nG5VRo)
+>
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+
+---
+
+### 🔐 Intellectual Property & Usage Notice
+**© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
+*This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
