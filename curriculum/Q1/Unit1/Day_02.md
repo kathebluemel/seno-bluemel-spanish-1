@@ -67,16 +67,11 @@ Carry a roster. Mark a (+) for students using full sentences and a (/) for those
 
 ---
 
-### 🚀 Differentiation & Enrichment
-
-* **Support (Struggling):** Provide a "Sentence Starter" on the board: *Yo estoy _________.* Keep the visual mood meter visible at all times.
-* **Enrichment (Achieving):** Challenge students to add *porque* (because) to their answer (e.g., *"Estoy cansado porque es lunes"*).
-
----
-
 ### 📺 Supplemental Resource Bank
 
 > 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+>
+> 🎥 **Featured Video for Today:** [**Spanish Greetings and Feelings - Practice with Seño Bluemel**](https://www.youtube.com/watch?v=uEYlUHii3aM)
 
 ---
 
