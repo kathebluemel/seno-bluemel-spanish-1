@@ -54,4 +54,15 @@ Each daily markdown file (Day_XX.md) is organized for clarity and national stand
 ## 👩‍🏫 About the Author
 Seño Bluemel is a native of Barranquilla, Colombia, with a Bachelor of Science in Secondary Education and a Master of Science in Curriculum & Instruction. She holds a Missouri Teaching Certificate in Spanish (Grades K-12) and has completed 25+ additional Graduate Credits in Curriculum Leadership & Instructional Practices. She is dedicated to bridging the gap between high-level educational theory and joyful, authentic classroom practice.
 
+---
+
+## 🔐 Intellectual Property & Usage Notice
+**© 2024-2026 Seño Bluemel, M.S. All Rights Reserved.**
+
+This curriculum, including all lesson plans, unique instructional frameworks, and custom site layouts, is the intellectual property of the author. 
+* **Permitted Use:** Individual educators may use these materials for direct classroom instruction with their students.
+* **Prohibited Use:** No part of this repository may be reproduced, redistributed, or sold in any digital or physical format (including but not limited to Teachers Pay Teachers or personal websites) without express written consent from the author. 
+* **Layout Notice:** The specific instructional design and formatting utilized in this repository are proprietary and may not be "cloned" or used to build competing curriculum products.
+
+---
 *¡Que chévere aprender español!* 🇨🇴✨
