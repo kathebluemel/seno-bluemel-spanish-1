@@ -1,128 +1,84 @@
 # Quarter 1 | Unit 1 | Day 5
 ## Formative IPA: Greetings in a Global Context
 ### *Integrated Performance Assessment — Simulated International Exchange*
+*Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 5 of 171*
 
 ---
 
-### 📌 Standards & Objectives
+### 📌 Standards Leadership & Alignment
 
-**ACTFL World-Readiness Standards (Primary)**
+**National Standards Alignment (Primary)**
+*Grounded in the pedagogical frameworks of **ACTFL, NCSSFL, AATSP, and JNCL-NCLIS**.*
 - **Communication – Interpersonal:** Engage in a spoken exchange of greetings and personal information with an unfamiliar person.
-- **Communication – Interpretive:** Identify key information (name, country, greeting style) from a short listening or reading passage.
-- **Communication – Presentational:** Present a brief self-introduction to an audience.
-- **Cultures – Practices & Perspectives:** Demonstrate awareness that greeting customs and language vary by region.
-- **Comparisons – Language:** Apply understanding of formal vs. informal register and regional vocabulary variation.
+- **Communication – Interpretive:** Identify key biographical information and register clues from a short text.
+- **Communication – Presentational:** Deliver a formal self-introduction for a specific audience.
+- **Cultures – Practices:** Demonstrate awareness that greeting customs and language vary significantly across the 21 Spanish-speaking countries.
+- **Comparisons – Language:** Apply understanding of formal vs. informal register and regional vocabulary variation (*Voseo*).
 
 **NCSSFL-ACTFL Can-Do Statements**
-> *I can greet someone using language appropriate to the time of day and social context.*
-> *I can introduce myself, ask for someone's name, and respond to their introduction.*
-> *I can recognize when someone is using formal or informal Spanish and respond in kind.*
-> *I can identify where a speaker might be from based on vocabulary clues.*
+> *I can greet someone using language appropriate to the social context and country of origin.*
+> *I can recognize linguistic markers that indicate whether a person is using formal or informal Spanish.*
+> *I can identify a speaker's country of origin based on vocabulary clues.*
 
-**Missouri CLEs (Secondary)**
+**Missouri CLEs (Secondary Alignment)**
 - FL.1.A.1 – Engage in simple conversations on familiar topics.
-- FL.1.A.3 – Present basic personal information to an audience.
 - FL.2.A.1 – Identify practices and products of target cultures.
 
 ---
 
 ### 🎯 IPA Design Overview (UbD — Stage 1 Transfer)
 
-**Enduring Understanding:** Effective communication requires not just vocabulary, but cultural awareness and the flexibility to adapt language to context.
+**Enduring Understanding:** Global competence requires the flexibility to adapt language to the human being in front of you. 
 
-**Essential Question:** When you meet someone from a different part of the Spanish-speaking world, what do you need to know — and *do* — to connect with them respectfully?
-
-**Performance Tasks Today:**
-1. **Interpretive Task** — Read or listen to a short text about a visitor.
-2. **Interpersonal Task** — Live role-play interaction with the teacher or a partner acting as the "global visitor."
-3. **Presentational Task** — Brief written or spoken self-introduction to the "class abroad."
+**Essential Question:** How do I adjust my communication to show respect to a visitor from a different Spanish-speaking culture?
 
 ---
 
 ### 🌍 IPA Scenario: *¡Bienvenidos al Intercambio Internacional!*
 
-**Student Prompt (read aloud and/or posted on board):**
-
-> Your school is hosting an international student exchange. Three students from different Spanish-speaking countries will visit your classroom today. You will meet ONE of them. You don't know yet which country they're from, so you'll need to listen carefully and adapt.
->
-> Your goal: Greet them appropriately, exchange names, find out how they're doing, and say goodbye — all in Spanish.
+**Student Prompt:**
+> Your school is hosting an international student summit. Three students from different countries will visit today. You will meet ONE of them. You must listen for clues to determine their origin and whether to use a formal or informal register.
 
 ---
 
 ### 📋 IPA Task 1: Interpretive (10 minutes)
 
-**Text (provided to students as a handout or on screen):**
+**Reading Passage:**
+*"Hola. Me llamo Valentina Morales Reyes. Soy de Buenos Aires, Argentina. Buenos días, ¿cómo están todos? En mi país, los amigos dicen 'buenas' o '¿cómo andás?' — es muy normal. Me gusta mucho conocerlos."*
 
----
-
-*Hola. Me llamo Valentina Morales Reyes. Soy de Buenos Aires, Argentina. Buenos días, ¿cómo están todos? En mi país, los amigos dicen "buenas" o "¿cómo andás?" — es muy normal. Me gusta mucho conocerlos.*
-
----
-
-**Interpretive Task Questions:**
-
-1. What is the visitor's full name? What do you notice about it?
-2. Where is she from?
-3. She uses *¿cómo andás?* — is this formal or informal? How do you know?
-4. Circle any words in the passage that you recognize from this week. How many can you find?
-5. Based on what we've learned, would you use *tú* or a *vos*-style greeting when you meet her? Why?
-
-**Teacher Note:** *Andás* is the *vos* form of *andar* — students don't need to produce this form, but recognizing it as informal and Argentine ties directly to Days 2–4. Award full credit for any reasonable explanation showing cultural awareness.
+**Interpretive Questions:**
+1. Identify the visitor's full name and explain the naming convention used.
+2. Where is the visitor from?
+3. Based on the phrase *¿cómo andás?*, is this an informal or formal interaction?
+4. **Linguistic Clue:** What specific word identifies this as "Argentine" Spanish?
 
 ---
 
 ### 📋 IPA Task 2: Interpersonal (15 minutes)
 
-**Format:** Student pairs, or student + teacher. The "visitor" is played by either the teacher or a prepared partner using a role card.
+**The Interaction:** Student meets the "Visitor" (Teacher or Role-play Partner). 
 
-**Visitor Role Cards (teacher selects one per pair):**
+| Visitor Card | Origin | Target Register / Key Phrase |
+|---|---|---|
+| **Card A: Valentina** | Argentina 🇦🇷 | Informal (*Vos*) / *¿Cómo te llamás?* |
+| **Card B: Don Ernesto** | Colombia 🇨🇴 | Formal (*Usted*) / *Mucho gusto, caballero/señorita.* |
+| **Card C: Camila** | Mexico 🇲🇽 | Informal (*Tú*) / *¡Qué onda!* |
 
-> **Card A — Valentina, Argentina 🇦🇷**
-> Use: *¿Y vos, cómo te llamás?* / *¡Buenas!* / *Mucho gusto, igualmente.*
-> Expect: Informal register. Warm and fast-paced.
 
-> **Card B — Don Ernesto, Colombia 🇨🇴**
-> Use: *Buenos días. ¿Cómo se llama usted?* / *Mucho gusto. El gusto es mío.*
-> Expect: Formal register. Use *usted*. Note: He may use *usted* even if you're young — this is Colombian warmth.
-
-> **Card C — Camila, Mexico 🇲🇽**
-> Use: *¡Hola! ¿Qué onda? ¿Cómo te llamas?* / *Chao, ¡hasta luego!*
-> Expect: Informal, casual. Fast. Friendly.
-
-**Student Must Accomplish (scored on IPA Rubric):**
-- ✅ Use an appropriate time-based greeting
-- ✅ Exchange names (ask and share)
-- ✅ Ask how they're doing and respond
-- ✅ Match the register (formal or informal) of the visitor
-- ✅ Say a culturally appropriate goodbye
 
 ---
 
 ### 📋 IPA Task 3: Presentational (10 minutes)
 
-**Written or Spoken Prompt:**
-
-> Imagine you are writing a short message to be read aloud at the opening of the International Exchange Assembly. In 4–6 sentences in Spanish, introduce yourself to the visiting students and welcome them. Use formal language — this is a school event.
-
-**Sentence Frame Support (for scaffolded learners):**
-
-```
-Buenos ___. Me llamo ___. Soy de ___. 
-Mucho gusto. Bienvenidos a nuestra escuela.
-¿Cómo ___ usted?
-```
+**Writing Prompt:** Write a 4-6 sentence formal welcome message to be read at the opening of the International Summit.
+- **Goal:** Introduce yourself, state your origin, and offer a professional welcome.
+- **Standard:** Use the *Usted* register and a formal farewell like *Que le vaya bien*.
 
 ---
 
 ### 📊 IPA Formative Rubric
 
-| Criterion | Exceeds (4) | Meets (3) | Approaching (2) | Beginning (1) |
-|---|---|---|---|---|
-| **Interpretive Accuracy** | All 5 questions answered with cultural reasoning | 4/5 correct, some reasoning | 3/5 correct | 1-2 correct |
-| **Interpersonal Communication** | Full exchange, correct register, natural flow | Full exchange, register mostly correct | Partial exchange, some register errors | Minimal exchange |
-| **Register Awareness** | Independently identifies and sustains correct register | Sustains with occasional prompts | Attempts but inconsistent | Little awareness shown |
-| **Cultural Accuracy** | Connects language choices to specific countries | General awareness shown | Some awareness | No connections made |
-| **Presentational Writing** | 5-6 sentences, accurate, formal, clear | 4 sentences, mostly accurate | 3 sentences, partial accuracy | 1-2 sentences |
+*Teacher utilizes the 4-point "Mastery Scale" to assess Interpretive Accuracy, Register Awareness, Cultural Responsiveness, and Interpersonal Fluency.*
 
 ---
 
@@ -130,34 +86,20 @@ Mucho gusto. Bienvenidos a nuestra escuela.
 
 | Time | Activity |
 |---|---|
-| 0–5 min | Warm-up: Teacher greets class in all three registers (Argentine, Colombian, Mexican) — students identify the country |
-| 5–15 min | IPA Task 1: Interpretive reading + questions (individual) |
-| 15–30 min | IPA Task 2: Interpersonal role-play (pairs or teacher-led) |
-| 30–40 min | IPA Task 3: Presentational writing |
-| 40–47 min | Optional sharing: 2-3 volunteers read their presentational intro aloud |
-| 47–50 min | Teacher debrief: What did we learn this week? What surprised you? |
+| 0–5 min | Warm-up: Identify the country based on the teacher's greeting accent. |
+| 5–15 min | IPA Task 1: Interpretive Reading. |
+| 15–30 min | IPA Task 2: Interpersonal Role-play. |
+| 30–40 min | IPA Task 3: Presentational Writing. |
+| 40–50 min | Week 1 Debrief: What surprised you about the "Global Greeting"? |
 
 ---
 
-### 🌟 Week 1 Debrief Questions (Closing Discussion)
+### 📺 Supplemental Resource Bank
 
-- What was one greeting custom from a Spanish-speaking country that surprised you?
-- Why do you think it matters to know *where* someone is from when you're speaking Spanish?
-- What is one thing you want to get better at before Unit 2?
+> 🎬 **Watch:** Educators and students may visit the [Seño Bluemel Que Chévere YouTube Channel](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) for a "Week 1 Review" video. This is an excellent tool for students to reflect on their interpersonal performance today!
 
 ---
 
-### 📺 Seño Bluemel Resource
-
-> 🎬 **Watch:** After your IPA, visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) to review this week's content — look for videos on greetings, *vos*, and regional Spanish to reinforce what you demonstrated today. Great for self-study and IPA reflection!
-
----
-
-### 📝 Teacher Notes: Scoring & Next Steps
-
-- This is a **formative** IPA — use results to identify students who need re-teaching on register or cultural context before Unit 2.
-- Students who demonstrate strong cultural reasoning (connecting language choices to specific countries) are ready for accelerated content in Unit 2.
-- Collect presentational writing samples as the first piece in the Unit 1 portfolio.
-- **Unit 2 Preview:** Numbers, age, and where you're from — students will expand their interpersonal interaction capacity.
-
----
+### 📝 Teacher Notes: Scoring & Portfolio
+- This formative IPA provides the baseline for the **Unit 1 Identity Portfolio**. 
+- Identify students struggling with the *Tú/Usted* distinction for targeted small-group support in Week 2.
