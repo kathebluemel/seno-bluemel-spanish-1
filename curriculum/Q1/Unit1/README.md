@@ -6,6 +6,18 @@ In this foundational unit, students begin their journey by exploring the concept
 
 ---
 
+## 📌 Unit Standards Alignment
+*This unit is designed to meet the following national and state benchmarks for Novice learners:*
+
+| Framework | Core Alignment for Unit 1 |
+|---|---|
+| **ACTFL Communication** | **Interpersonal (1.1):** Exchanging greetings and personal info. <br> **Interpretive (1.2):** Understanding classroom commands and basic descriptions. <br> **Presentational (1.3):** Describing self and academic routine. |
+| **ACTFL Cultures** | **2.1 & 2.2:** Investigating naming conventions and school cultures across the Spanish-speaking world. |
+| **NCSSFL-ACTFL** | **Can-Do Statements:** Focused on "I can introduce myself" and "I can state my age/origin." |
+| **Missouri CLEs** | **FL.1.A.1, FL.1.A.2, FL.1.A.3:** Targeted practice in listening, speaking, and following instructions in the target language. |
+
+---
+
 ## 🗓️ Daily Pacing & Lesson Plans
 
 | Day | Topic | Primary Goal |
