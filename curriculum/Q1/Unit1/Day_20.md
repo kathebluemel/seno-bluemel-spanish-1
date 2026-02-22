@@ -93,4 +93,4 @@ Since this is Week 4, the data you collect today tells you what to fix in Week 5
 ---
 
 ### 📺 Seño Bluemel Resource
-> 🎬 **Watch:** Visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) for the **"Alphabet & Classroom Objects"** review.
+> 🎬 **Watch:** Visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) for the **"Alphabet & Classroom Objects"** review. Use this specific video for the correct phonetic pronunciation of the Spanish alphabet: [El Alfabeto en Español](https://www.youtube.com/watch?v=eRZ9cjugUfw).
