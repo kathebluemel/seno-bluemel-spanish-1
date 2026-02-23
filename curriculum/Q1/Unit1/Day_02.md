@@ -1,6 +1,6 @@
 # Quarter 1 | Unit 1 | Day 2
-## ¿Cómo estás? — Emotional Identity
-### *Expressing Internal States and the Verb Estar*
+## Greetings Around the Spanish-Speaking World: Time-Based Salutations
+### *The Mechanics of Time, Respect, and Regional Variations*
 *Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 2 of 171*
 
 ---
@@ -10,71 +10,94 @@
 
 | Domain | Focus & Standard Alignment |
 |---|---|
-| **Communication** | **Interpersonal:** Exchange information about feelings and emotions. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify emotions in visual and auditory cues. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** Express personal well-being in a simple format. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
-| **Cultures** | **Perspectives:** Explore cultural norms of "How are you?" as a genuine inquiry vs. a passing greeting. *[ACTFL 2.2 / NCSSFL-ACTFL CUL.P]* |
-| **Connections** | **Wellness:** Connecting language learning to emotional intelligence and self-awareness. *[ACTFL 3.1 / JNCL-NCLIS]* |
-| **Communities** | **Classroom Culture:** Building a supportive community through daily "check-ins." *[ACTFL 5.1 / AATSP]* |
-| **Missouri CLEs** | **FL.1.A.1 / FL.1.B.1:** Expressing feelings; responding to simple questions. |
+| **Communication** | **Interpersonal (Novice-Low):** Engage in conversations using greetings appropriate to time of day. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify time-based greetings in spoken narratives. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* |
+| **Cultures** | **Practices & Perspectives:** Examine how greeting practices (Time-based vs. Shortcuts) vary across Spanish-speaking regions. *[ACTFL 2.1 / NCSSFL-ACTFL CUL.P]* |
+| **Comparisons** | **Language:** Compare how time-based greetings function in Spanish vs. English (e.g., the frequency of "Good Afternoon"). *[ACTFL 4.1 / NCSSFL-ACTFL LC.VG]* |
+| **Connections** | **Cross-Curricular:** Connecting language to the mechanics of time and global geography. *[ACTFL 3.1 / NCSSFL-ACTFL CON.G]* |
+| **Missouri CLEs** | **FL.1.A.1 / FL.2.A.1:** Engage in simple conversations and identify cultural greeting practices. |
 
 ---
 
 ### 🎯 Learning Targets & Can-Do Statements
-> *“To speak is to share your heart. Learning to say how you feel is the first step toward connection.”*
+> **Essential Question:** Why don't Spanish speakers always use the same greeting, even when they mean the same thing?
 
-* **Learning Target:** I can express how I am feeling and ask others about their emotional state.
-* **Can-Do (Interpretive):** I can identify at least 5 common emotions when I hear them or see them in a visual format.
-* **Can-Do (Interpersonal):** I can ask a peer "¿Cómo estás?" and respond accurately based on my mood.
-* **Can-Do (Presentational):** I can write a short sentence stating my name and my current emotional state.
+* **Enduring Understanding:** Greetings are culturally embedded; the time of day and the relationship between speakers dictate the appropriate social "key."
+* **Can-Do (Interpretive):** I can recognize which greeting is appropriate for morning, afternoon, and evening.
+* **Can-Do (Interpersonal):** I can ask how someone is doing and respond using *bien, mal,* or *más o menos*.
+* **Can-Do (Cultural):** I can identify *vos* as a standard pronoun used in regions like Argentina and Uruguay.
+
+---
+
+### 📚 Vocabulary Focus
+
+| Spanish | English | Spanish | English |
+|---|---|---|---|
+| **Buenos días** | Good morning | **¿Cómo estás?** | How are you? (Informal) |
+| **Buenas tardes** | Good afternoon | **¿Cómo está usted?** | How are you? (Formal) |
+| **Buenas noches** | Good evening/night | **Muy bien** | Very well |
+| **Buenas** | Hey/Hi (Shortcut) | **Más o menos** | So-so |
+| **¿Qué onda?** | What's up? (Mexico) | **Mal** | Bad / Not well |
+| **¿Y vos?** | And you? (Argentina) | **Gracias** | Thank you |
+
+---
+
+### 🌍 Cultural Spotlight: Greetings Across the Spanish-Speaking World
+
+
+
+* **Colombia 🇨🇴:** In regions like Bogotá and Medellín, adults often ask: *"¿Cómo amaneció?"* (How did you "dawn"?). It reflects a deep cultural value in genuine personal check-ins.
+* **Argentina & Uruguay 🇦🇷🇺🇾:** The shortcut **"Buenas"** is a universal social "save" used at any time. Importantly, they use **"vos"** instead of "tú." This is not slang; it is a standard, respected grammatical form.
+* **Mexico 🇲🇽:** For informal peer-to-peer connection, **"¿Qué onda?"** is the gold standard. While cool among friends, it is rarely used in formal settings like a job interview or with an elder.
+* **Missouri Connection 🇺🇸:** In the Midwest, we often stick to a casual "Hi" or "Hey" regardless of the hour. In Spanish, acknowledging the *time of day* is often seen as a sign of manners and education (*educación*).
 
 ---
 
 ### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
-
-
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
-| **7 min** | **Activador: El Termómetro Emocional** | Teacher mimes an emotion; students must shout the Spanish word. Then, students mime and the teacher guesses. | Over-exaggerate facial expressions. This creates a strong "Form-Meaning" connection without translation. | **T:** (Smiles big) <br>**C:** "¡Feliz!" <br>**T:** (Slumps shoulders) <br>**C:** "¡Triste!" |
-| **13 min** | **Input: Estar + Emotion (Interpretive)** | Introduce the structure *"Yo estoy..."* Use images of famous characters or celebrities to describe their current state. | Focus on the sound of **"estoy"**. Use a gesture (pointing to self) to reinforce that it refers to the speaker's current state. | *"El Gato con Botas está triste. Yo estoy bien."* |
-| **15 min** | **Task: La Pelota de Emociones (Interpersonal)** | Toss a soft ball. Whoever catches it must state their name, their feeling, and toss it to someone else with a question. | **Live-Grade:** Watch for the transition from *Me llamo* to *Estoy*. Many students confuse these early on. | **S1:** "Me llamo Ana. Estoy cansada. ¿Cómo estás tú, Juan?" |
-| **10 min** | **Presentational: El Ticket de Salida Visual** | Students draw an emoji on a sticky note and write: *"Hola, me llamo [Name] y hoy estoy [Emotion]."* | Collect these as they leave. Use them to group students tomorrow or to check in with those who marked "Mal." | *"Hola, me llamo Leo y hoy estoy enojado."* |
-| **5 min** | **Reflexión: Tone & Culture** | Discuss the difference between a "polite" *Bien* and a "real" answer. In some cultures, saying *así así* is an invitation to talk more. | Validating negative emotions in the TL (Target Language) builds trust. It shows Spanish is for "real life." | "Is it okay to say 'Mal' in Spanish class? Yes, because we are a community." |
-
----
-
-### 📊 ACTFL-Aligned Performance Rubric (4-Tier Formative)
-
-| Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
-|---|---|---|---|---|
-| **Comprehensibility** | Pronunciation is clear; differentiates between *estoy* and *está*. | Understood by someone accustomed to language learners. | Meaning is clear but vowels are heavily English-coded. | Incomprehensible; uses English emotion words. |
-| **Language Control** | Correctly uses *Estoy + [Adjective]* with no syntax errors. | Uses *Estoy* correctly but may struggle with adjective endings. | Confuses *Me llamo* with *Estoy* (e.g., "Me llamo feliz"). | Cannot form a simple "I am" sentence. |
-| **Interpersonal Quality** | Uses appropriate intonation for questions vs. statements. | Responds to prompts politely and accurately. | Relies on single words; avoids full sentences. | Refuses to speak or uses only English. |
-| **Vocabulary Range** | Uses 6+ different emotion words accurately. | Uses 4-5 basic emotion words (bien, mal, triste, feliz). | Relies only on *Bien* or *Mal*. | Cannot identify emotions in context. |
+| **8 min** | **Activador: Stand Up/Sit Down** | Call out greetings. Students stand if it’s formal (Usted) and sit if it’s informal (Tú). | Use physical speed to build engagement and "ear" training. | **T:** "¿Qué onda?" (Sit!) <br> **T:** "¿Cómo está usted?" (Stand!) |
+| **15 min** | **Input: Teacher CI Script** | Deliver the **Time & Respect** script (found below). Use a clock prop or drawing. | Use the "Clock Strategy" to show the transition from *días* to *tardes*. | *"Son las dos de la tarde. ¡Buenas tardes!"* |
+| **10 min** | **Practice: The Greeting Clock** | Display images of clocks (8 AM, 3 PM, 11 PM). Students call out the greeting. | Discuss the "Noon" edge case. *Tardes* usually starts after lunch (1 PM). | **Clock:** 9:00 PM <br> **S:** "Buenas noches." |
+| **10 min** | **Interpersonal: Rotations** | Students find 3 partners. Must use a time-appropriate greeting and ask how they are. | Challenge high-flyers to use the Argentine *¿Y vos?* | *"¡Buenas! ¿Cómo estás?"* <br> *"Bien, gracias. ¿Y tú?"* |
+| **5 min** | **Reflexión & Exit Ticket** | Students write the correct greeting for 7 AM, 2 PM, and 10 PM. | This is a quick data check for tomorrow’s warm-up. | **Ticket:** 1. Buenos días... |
 
 ---
 
 ### 📘 Pedagogical Blueprint: How to Implement this Lesson
-> *A guide for establishing emotional literacy in the TL.*
 
-**1. Managing the "Me llamo" vs "Estoy" confusion:**
-This is the first major hurdle. Use physical anchors. Point to your name tag for *Me llamo*. Point to your chest/heart for *Estoy*. If a student says "Me llamo bien," gently tap your heart and model "Estoy bien."
+**1. The "Respect" Metaphor:**
+Explain to students that time-based greetings are like a "social handshake." Using *Buenos días* at 8 AM shows you are aware of your surroundings and the person you are speaking to.
 
-**2. The Power of Emojis:**
-In Week 1, emojis are your best friend. They provide "Universal Input." Use them on every slide to reduce the need for English translations.
+**2. Scaffolding the Formal vs. Informal:**
+Novice learners struggle with the *Tú* vs. *Usted* distinction. Use the **"Boss vs. Bestie" rule**: If you’d say it to your boss, use *Usted*. If you’d say it to your bestie, use *Tú*. 
 
-**3. Live-Grading During the Ball Toss:**
-Carry a roster. Mark a (+) for students using full sentences and a (/) for those using single words. This is your first data point on "Sentence-Level Production."
+**3. Script for the Teacher (CI Model):**
+> *[Look at the clock, mime waking up/stretching]*
+> "¡Buenos días, clase! Miren el reloj. Morning... Mañana. Buenos DÍAS. [Point to a student] Marco, it is 2:00 PM. Afternoon... Tarde. I don't say 'Buenos días.' I say: **Buenas tardes**. Repeat: Buenas tardes.
+> 
+> Now, look at Argentina. [Point to map]. They don't say '¿Cómo estás tú?' No. They say: **¿Cómo estás vos?** V-O-S. Same meaning, different country. And in México? To a friend? **¿Qué onda?** It's cool, it's Mexican. ¿QUÉ ONDA?"
+
+---
+
+### 🚀 Differentiation & Enrichment
+
+* **Support (Struggling):** Provide a "Greeting Clock" anchor chart on their desks with visual sun/moon icons.
+* **Enrichment (Achieving):** Challenge students to act out a scene where they must switch from *¿Qué onda?* (friend) to *¿Cómo está usted?* (principal) instantly.
+* **Heritage Speakers:** Ask them to share if their family uses specific shortcuts like *"¡Buenas!"* or regional variants like *"¿Qué tal?"*
+* **ELL Support:** Use visual cognates for "Morning" (Mañana/Morn) and "Afternoon" (Tarde/Tardy/Late) to help bridge vocabulary via Latin roots.
 
 ---
 
 ### 📺 Supplemental Resource Bank
 
-> 🎥 **Featured Video for Today:** [**Spanish Greetings and Feelings - Practice with Seño Bluemel**](https://www.youtube.com/watch?v=uEYlUHii3aM)
+> 🎥 **Featured Video for Today:** [**Spanish Greetings & Introductions — Seño Bluemel**](https://www.youtube.com/watch?v=uEYlUHii3aM)
 >
-> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+> 🎬 **Watch:** For additional instructional support, refer to the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) to find other videos to support this lesson.
 
 ---
 
 ### 🔐 Intellectual Property & Usage Notice
+
 **© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
 *This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
