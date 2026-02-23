@@ -1,6 +1,6 @@
 # Quarter 1 | Unit 1 | Day 4
-## ¿De dónde eres? — Origin and Identity
-### *Mapping the Spanish-Speaking World and the Verb Ser*
+## ¿De dónde eres? Origins and the 21 Countries
+### *The Mechanics of Origin and Global Geography*
 *Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 4 of 171*
 
 ---
@@ -10,79 +10,94 @@
 
 | Domain | Focus & Standard Alignment |
 |---|---|
-| **Communication** | **Interpersonal:** Exchange information about place of origin. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify Spanish-speaking countries and capitals on a map. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** Present information about where one is from. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
-| **Cultures** | **Perspectives:** Recognize the vast diversity of the 21 Spanish-speaking countries. *[ACTFL 2.2 / NCSSFL-ACTFL CUL.P]* |
-| **Connections** | **Geography:** Integrating world geography and map-reading skills into language acquisition. *[ACTFL 3.1 / JNCL-NCLIS]* |
-| **Communities** | **Global Awareness:** Locating oneself within a global context of Spanish speakers. *[ACTFL 5.1 / AATSP]* |
-| **Missouri CLEs** | **FL.1.A.1 / FL.3.A.1:** Using "Ser" for origin; identifying Hispanic countries. |
+| **Communication** | **Interpersonal (Novice-Low):** Ask and answer questions about place of origin. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify countries and regions when heard in the target language. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* |
+| **Cultures** | **Practices & Perspectives:** Recognize the vast diversity of the 21 Spanish-speaking countries across four continents. *[ACTFL 2.1 / NCSSFL-ACTFL CUL.P]* |
+| **Comparisons** | **Language:** Compare the use of "from" (*de*) in origin phrases between Spanish and English. *[ACTFL 4.1 / NCSSFL-ACTFL LC.VG]* |
+| **Connections** | **Geography:** Mapping the Spanish-speaking world and identifying regional neighbors. *[ACTFL 3.1 / NCSSFL-ACTFL CON.G]* |
+| **Missouri CLEs** | **FL.1.A.1 / FL.3.A.1:** Use target language to exchange personal information and connect to geography. |
 
 ---
 
 ### 🎯 Learning Targets & Can-Do Statements
-> *“Language is a map of a culture. It tells you where its people come from and where they are going.”*
+> **Essential Question:** Why is "Where are you from?" one of the most important questions you can ask in a global community?
 
-* **Learning Target:** I can express where I am from and identify the locations of Spanish-speaking countries.
-* **Can-Do (Interpretive):** I can locate at least 5 Spanish-speaking countries on a map when I hear their names.
-* **Can-Do (Interpersonal):** I can ask a classmate where they are from and respond using the structure *"Yo soy de..."*
-* **Can-Do (Presentational):** I can state my name, age, and origin in a short introductory statement.
+* **Enduring Understanding:** Spanish is a global passport; knowing where someone is from provides immediate context for their culture, dialect, and perspective.
+* **Can-Do (Interpersonal):** I can ask a peer *¿De dónde eres?* and respond with *Yo soy de...*
+* **Can-Do (Interpretive):** I can locate at least five Spanish-speaking countries on a map when I hear their names.
+* **Can-Do (Presentational):** I can state where I am from and where my teacher is from.
+
+---
+
+### 📚 Vocabulary Focus
+
+| Spanish | English | Spanish | English |
+|---|---|---|---|
+| **¿De dónde eres?** | Where are you from? (Inf.) | **Los Estados Unidos** | The United States |
+| **¿De dónde es usted?** | Where are you from? (Form.) | **¿Y tú? / ¿Y usted?** | And you? |
+| **Yo soy de...** | I am from... | **Aquí** | Here |
+| **Él / Ella es de...** | He / She is from... | **Allí** | There |
+| **El mundo** | The world | **País** | Country |
+| **España** | Spain | **México** | Mexico |
+
+---
+
+### 🌍 Cultural Spotlight: The 21 Faces of Spanish
+
+
+
+* **The Big Picture:** Spanish is the official language of **21 countries**. It isn't just "Latin American"—it is European (Spain) and African (Equatorial Guinea).
+* **The "Home" Connection 🇨🇴:** Seño Bluemel is from **Colombia**. When someone asks her *¿De dónde es usted?*, she answers *Yo soy de Colombia*. 
+* **The Missouri Identity 🇺🇸:** Most students in this class will answer *Yo soy de los Estados Unidos* or *Yo soy de Missouri*. 
+* **Regional Pride:** In the Spanish-speaking world, people often identify strongly with their specific city or province before their country (e.g., "I am *Barranquillera*" before "I am Colombian").
 
 ---
 
 ### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
-
-
-[Image of a map of the 21 Spanish-speaking countries with labels]
-
-
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
-| **10 min** | **Activador: ¿Dónde está...?** | Teacher projects a world map. Students use a laser pointer or come to the board to find countries called out in Spanish. | Use this to establish a "Global Perspective." Ensure students realize Spanish isn't just spoken in Spain and Mexico. | **T:** "Busca Colombia." <br>**S:** (Points to Colombia) |
-| **10 min** | **Input: El Verbo Ser (Origen)** | Model the question *"¿De dónde eres?"* and the response *"Yo soy de..."* Use flags of different countries to provide visual cues. | **Grammar Alert:** Differentiate between *Estar* (Day 2 emotions) and *Ser* (Day 4 origin). Use the acronym "DOCTOR" (Origin) vs "PLACE" (Emotions). | *"Yo soy de los Estados Unidos. Shakira es de Colombia."* |
-| **15 min** | **Task: Pasaporte de Clase (Interpersonal)** | Students receive a "blank passport." They must "travel" around the room, asking peers where they are from (can be real or assigned "secret" origins). | **Live-Grade:** Listen for the preposition **"de"**. Students often omit it (e.g., "Yo soy Missouri"). Model the "link" between soy and origin. | **A:** "¿De dónde eres?" <br>**B:** "Soy de México. ¿Y tú?" |
-| **10 min** | **Presentational: Mapa de Identidad** | Students color a map of a country they are interested in and write: *"Me llamo [Nombre], tengo [Edad] años y soy de [País]."* | This is a great artifact for a classroom wall display. It visually reinforces the diversity discussed in class. | *"Me llamo Alex y soy de España."* |
-| **5 min** | **Reflexión: Who is a "Spanish-Speaker"?** | Discussion: If someone is from the US but speaks Spanish, are they "Hispanic"? Introduce the concept of heritage speakers. | This validates the heritage speakers in your room and establishes an inclusive community. | "You don't have to be from a Spanish-speaking country to speak Spanish." |
-
----
-
-### 📊 ACTFL-Aligned Performance Rubric (4-Tier Formative)
-
-| Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
-|---|---|---|---|---|
-| **Comprehensibility** | Clear pronunciation. Proper stress on *Soy* and country names. | Understood by someone accustomed to learners. | Heavy English accent makes country names hard to recognize. | Incomprehensible; uses English country names only. |
-| **Language Control** | Consistently uses *Soy de* correctly with no omission of 'de'. | Uses *Soy de* correctly but might hesitate before the origin. | Uses "Soy [Origin]" without the preposition "de". | Confuses *Soy* with *Estoy* or *Me llamo*. |
-| **Interpersonal Quality** | Interaction is fluid and polite. Uses *Mucho gusto*. | Successfully exchanges origin data with 3+ peers. | Relies on single-word answers (just the country name). | Refuses to interact or uses only English. |
-| **Geographic Literacy** | Can identify 10+ countries on a map without labels. | Can identify 5-7 countries on a map. | Can only identify Mexico and Spain. | Cannot locate any Spanish-speaking countries on a map. |
+| **7 min** | **Warm-Up: Name Tag Blitz** | Review Day 3. Students walk around and find 3 people. They must exchange names and a time-based greeting. | Use music (Cumbia or Reggaetón) to keep the energy high. | *"¡Buenas! ¿Cómo te llamas?"* |
+| **15 min** | **Input: Teacher CI Script** | Deliver the **Origin & Geography** script. Point to the world map constantly. | Emphasize the word "DE" (from). Mime a line coming from a country to your heart. | *"Yo soy DE Colombia."* |
+| **13 min** | **Task: Map Labeling** | Students receive a blank map. As the teacher calls out 10 specific countries, students color them in. | Focus on the "Big 4": Spain, Mexico, Colombia, Argentina. |  *"Busca México. Colorea México verde."* |
+| **10 min** | **Pair Work: Global Interviews** | Pairs practice: *¿De dónde eres?* → *Yo soy de [City/State].* Then they ask about the teacher: *¿De dónde es la Seño?* | Ensure they use "es" for the teacher and "soy" for themselves. | *"Ella es de Colombia."* |
+| **5 min** | **Exit Ticket: Passport Stamp** | Students must tell the teacher one country (besides the US/Mexico) where Spanish is spoken. | Don't let them repeat a country that was just said by a peer. | **S:** "Costa Rica." <br> **T:** "¡Excelente! Adiós." |
 
 ---
 
 ### 📘 Pedagogical Blueprint: How to Implement this Lesson
-> *A guide for managing the transition from "State of Being" to "Fixed Identity."*
 
-**1. Ser vs. Estar (The First Great Divide):**
-Don't get bogged down in deep grammar yet. Simply tell students: "How you feel is *Estar*; who you are/where you're from is *Ser*." Use different hand signals for each to provide a kinesthetic anchor.
+**1. The "De" Anchor:**
+Students often forget the preposition "de." Use a physical anchor: every time you say "de," touch your chest and then point away, as if showing a path from your origin to where you are now.
 
-**2. The "De" Factor:**
-In English, we can say "I am American." In Spanish, the most common way for beginners is "I am *from* [Place]." Stress that "de" is the bridge to their home.
+**2. Geography as Context:**
+Don't just teach the list of 21 countries; teach their *neighbors*. Knowing that Spain is in Europe while Colombia is in South America helps students understand why their accents and "cool" words (*Guay* vs. *Chévere*) are different.
 
-**3. Pronunciation of "Estados Unidos":**
-This is often the hardest origin for US students to say. Practice the "s" sounds and the "u" (oo) sound. Have them chant it: *Es-ta-dos U-ni-dos*.
+**3. Script for the Teacher (CI Model):**
+> *[Stand by the world map. Point to Missouri.]*
+> "Clase, nosotros estamos aquí. Missouri. En los Estados Unidos. Pero... **¿De dónde eres tú?** De—from. Dónde—where. Eres—you are. [Point to a student] Ben, ¿de dónde eres tú? [Help them: Yo soy de Missouri]. ¡Excelente! 
+> 
+> [Point to Colombia] **Yo soy de Colombia.** Yo no soy de Missouri. Yo soy de Colombia. [Point to Spain] Mi amigo es de España. Es un mundo grande. Hay **21 países** que hablan español. ¡Es fantástico!"
 
 ---
 
 ### 🚀 Differentiation & Enrichment
 
-* **Support (Struggling):** Provide a list of country names in Spanish with their English equivalents and flag icons.
-* **Enrichment (Achieving):** Challenge students to learn the capital of the country they chose for their "Identity Map."
+* **Support (Struggling):** Provide a map with the first letter of each country already provided as a scaffold.
+* **Enrichment (Achieving):** Challenge students to name the capital cities of the "Big 4" countries (Madrid, CDMX, Bogotá, Buenos Aires).
+* **Heritage Speakers:** Ask them to share specifically which city or state their family is from (e.g., "Yo soy de Michoacán, México").
+* **ELL Support:** Use the cognate "Continente" and "Mapa" to bridge the geography activity instructions.
 
 ---
 
 ### 📺 Supplemental Resource Bank
 
-> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+> 🎥 **Featured Video for Today:** [**Spanish Greetings & Introductions — Seño Bluemel**](https://www.youtube.com/watch?v=uEYlUHii3aM)
+>
+> 🎬 **Watch:** For additional instructional support, refer to the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) to find other videos to support this lesson.
 
 ---
 
 ### 🔐 Intellectual Property & Usage Notice
+
 **© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
 *This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
