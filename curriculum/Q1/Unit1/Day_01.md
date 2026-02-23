@@ -1,6 +1,6 @@
 # Quarter 1 | Unit 1 | Day 1
-## ¡Bienvenidos! — Welcome & First Impressions
-### *Setting the Stage for a 90% Target Language Environment*
+## ¡Bienvenidos! First Day of Spanish Class
+### *The Mechanics of Welcome and the Global Spanish Map*
 *Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 1 of 171*
 
 ---
@@ -10,66 +10,95 @@
 
 | Domain | Focus & Standard Alignment |
 |---|---|
-| **Communication** | **Interpretive:** Understand high-frequency cognates and non-verbal cues during a first-day immersion experience. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* |
-| **Cultures** | **Perspectives:** Recognizing that the classroom is a microcosm of the global Spanish-speaking community. *[ACTFL 2.1]* |
-| **Connections** | **Language Skills:** Using prior knowledge of English to decode Spanish cognates. *[ACTFL 3.1]* |
-| **Communities** | **Classroom Culture:** Establishing the norms and expectations for a proficiency-based learning environment. *[ACTFL 5.1]* |
-| **Missouri CLEs** | **FL.1.A.1 / FL.1.B.1:** Comprehending basic greetings and following simple classroom procedures. |
+| **Communication** | **Interpersonal (Novice-Low):** Engage in basic spoken exchanges including greetings and name sharing. *[ACTFL 1.1]* <br> **Interpretive:** Demonstrate understanding of high-frequency greetings through physical response. *[ACTFL 1.2]* |
+| **Cultures** | **Practices & Perspectives:** Recognize that greeting customs vary across Spanish-speaking regions and reflect cultural values. *[ACTFL 2.1]* |
+| **Comparisons** | **Language:** Identify that Spanish is one language with many regional expressions and accents. *[ACTFL 4.1]* |
+| **Connections** | **Global Awareness:** Connect Spanish language learning to a global, multicultural world. *[ACTFL 3.1]* |
+| **Missouri CLEs** | **I.1.1.A / C.1.1.A:** Use target language greetings and identify basic cultural practices. |
 
 ---
 
 ### 🎯 Learning Targets & Can-Do Statements
-> *“Today is about comfort, not perfection. We are building a space where we learn by doing, not just by translating.”*
+> **Essential Question:** Why does it matter *how* you say hello—and does it change depending on where you are in the Spanish-speaking world?
 
-* **Learning Target:** I can understand the basic expectations of a 90% Spanish classroom through context and cognates.
-* **Can-Do (Interpretive):** I can identify at least 5 cognates (words that look/sound like English) used in today's lesson.
-* **Can-Do (Interpretive):** I can respond to basic non-verbal cues from the teacher (standing, sitting, listening).
-* **Can-Do (Presentational):** I can state one goal I have for my Spanish journey this year.
+* **Enduring Understanding:** Spanish is a living, global language shaped by millions across dozens of cultures. Greeting is the first step to connecting with that world.
+* **Can-Do (Interpretive):** I can greet my teacher and classmates using basic Spanish greetings.
+* **Can-Do (Interpersonal):** I can tell someone my name when asked *¿Cómo te llamas?*
+* **Can-Do (Global):** I can recognize that Spanish is a global language spoken across 21 countries.
+
+---
+
+### 📚 Vocabulary Focus
+
+| Spanish | English | Spanish | English |
+|---|---|---|---|
+| **Hola** | Hello | **¿Cómo te llamas?** | What's your name? |
+| **Buenos días** | Good morning | **Me llamo…** | My name is… |
+| **Buenas tardes** | Good afternoon | **Bienvenidos** | Welcome |
+| **Adiós** | Goodbye | **Siéntate** | Sit down |
+| **Hasta luego** | See you later | **Por favor** | Please |
+| **¡Chévere!** | Cool! (Colombia) | **¡Qué padre!** | Cool! (Mexico) |
+| **¡Guay!** | Cool! (Spain) | **¡Mucho gusto!** | Nice to meet you |
+
+---
+
+### 🌍 Cultural Spotlight: Greetings Are Never Just Words
+
+Spanish is spoken across **21 countries** on 4 continents. The form a greeting takes is a cultural signature:
+
+* **Colombia 🇨🇴:** In Seño Bluemel’s hometown of **Barranquilla**, greetings are warm (*calidez*). Coastal Colombians add energy with **¡Chévere!** and often use physical touch (kisses/hugs) between friends.
+* **Mexico 🇲🇽:** The largest Spanish-speaking population. "Cool" is **¡Qué padre!** and informal greetings often include *¿Qué onda?*
+* **Argentina & Uruguay 🇦🇷🇺🇾:** These regions use *vos* instead of *tú*. A common greeting is **¡Buenas!** (a universal shortcut).
+* **Spain 🇪🇸:** "Cool" is **¡Guay!**. Friends greet with two kisses (starting on the right side).
+* **Missouri 🇺🇸:** Midwestern greetings are warm but maintain personal space (waves/handshakes).
 
 ---
 
 ### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
 
+
+
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
-| **10 min** | **Input: El Monólogo Cognado** | Teacher speaks 100% Spanish for 5 minutes. Use heavy gestures and cognates (*clase, fantástico, inteligente, música*). | Do not break character. Use your "teacher voice" and physical acting to show that they *can* understand without English. | "¡Bienvenidos a la clase de español! La clase es fantástica." |
-| **12 min** | **Task: La Cacería de Cognados** | Students look at a projected text in Spanish and highlight words they think they recognize based on English. | This builds "Linguistic Confidence." It proves to them that they already know some Spanish. | *Doctor, Animal, Familia, Radio, Chocolate.* |
-| **15 min** | **Interaction: El Mapa Global** | Show a map of the 21 countries. Point and say: *"Aquí se habla español."* Students place a sticker on a country they find interesting. | Connect the language to the world immediately. It’s not just a subject; it’s a global passport. | "En Colombia, se habla español. En España, se habla español." |
-| **8 min** | **Discussion: El Contrato de 90%** | (Switch to English briefly) Explain the 90% target language goal. Discuss why we use context and gestures instead of dictionaries. | Be transparent. Students need to know *why* we don't translate everything—it builds their "acquisition" muscle. | "We learn Spanish like we learned our first language: through context." |
-| **5 min** | **Reflexión: Salida (Exit Ticket)** | Students write one Spanish word they learned today and one thing they are excited about. | Collect these to gauge the initial "vibe" and comfort level of the class. | "I learned 'Hola' and I am excited to travel one day." |
-
----
-
-### 📊 ACTFL-Aligned Performance Rubric (4-Tier Formative)
-
-| Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
-|---|---|---|---|---|
-| **Interpretive Awareness** | Identifies 10+ cognates and follows all physical cues without hesitation. | Identifies 5-7 cognates and follows most cues. | Identifies 2-3 cognates; relies heavily on watching peers for cues. | Cannot identify cognates; appears lost during immersion. |
-| **Engagement** | Actively participates in non-verbal responses and shows high enthusiasm. | Participates when prompted and follows class flow. | Minimal participation; looks for English translations constantly. | Disengaged or disruptive during the target language monologue. |
+| **5 min** | **Warm-Up / Entry** | Stand at the door. Greet students individually as they enter. Use heavy gesturing. | Use 100% target language. Use gestures for *Pasa* and *Siéntate*. | *"¡Hola! ¡Bienvenidos! Pasa. Siéntate, por favor."* |
+| **18 min** | **Input: Teacher CI Script** | Deliver the **Identity & Global Map** script (found below). Use a map and thumbs-up for slang. | Focus on the "Cool" words to hook interest. No translation needed—use your body! | *"Yo soy de Colombia. ¡Chévere!"* |
+| **15 min** | **Task: El Pasaporte Inicial** | Students create a desk name tag. Front: Name. Back: Mini-map circling MO and Colombia. | This is Artifact #1 for the Unit 1 portfolio. Ensures local-to-global connection. | *Front: Me llamo [Name]* |
+| **7 min** | **Comparison Discussion** | Whole-class think-pair-share about greeting styles (Midwest vs. Latin America/Spain). | Use this to normalize regional variations as cultural assets. | *"Is it different to greet a teacher vs. a friend?"* |
+| **5 min** | **Exit Ticket** | High-five exit. Students must state name and a greeting/goodbye to leave. | **Live-Grade:** Check for *Me llamo* and *Adiós/Hasta luego*. | **S:** "Me llamo Maria. ¡Adiós!" |
 
 ---
 
 ### 📘 Pedagogical Blueprint: How to Implement this Lesson
 
-**1. The Power of Gestures:**
-On Day 1, your body is your best dictionary. Over-exaggerate your movements. If you say "escuchen," cup your ear. If you say "clase," sweep your arms across the room.
+**1. The Mechanics of Welcome (TPR):**
+On Day 1, your body is the dictionary. This lowers "Affective Filter" (anxiety). When you say *Mundo grande*, draw a massive circle in the air. This ensures comprehension without English.
 
-**2. Cognates are Your Bridge:**
-Lean heavily on words like *estudiante, profesor, excelente, atención*. This lowers the Affective Filter (anxiety) and makes students feel successful on their very first day.
+**2. The "Insiders" Slang Strategy:**
+Teaching *Chévere, Qué padre,* and *Guay* immediately gives students "Cultural Capital." It shows them that Spanish is not a monolith but a vibrant collection of diverse voices.
 
-**3. Establishing the "Safe Space":**
-Make it clear that mistakes are expected. A proficiency-based classroom is a "low-stakes, high-engagement" environment.
+**3. Script for the Teacher (CI Model):**
+> *[Stand at the front with a map. Wave.]*
+> "¡Hola! ¡Hola, hola! Bienvenidos. Welcome to Spanish! Yo soy la **Seño Bluemel**. Yo soy de **Colombia**. [Point to Barranquilla]. Sol, calor, Caribe. ¡Chévere! But Spanish is not only Colombia. [Sweep hand across map]. Es México, es España, es Argentina. ¡21 países! A big world—un mundo grande. Now, I want to know YOU. ¿Cómo te llamas? [Point to self] Yo me llamo Seño Bluemel. [Point to student] ¿Y tú?"
+
+---
+
+### 🚀 Differentiation & Enrichment
+
+* **Support (Struggling):** Provide a visual anchor chart with phonetic guides (e.g., *Hola* = "Oh-la").
+* **Enrichment (Achieving):** Challenge students to find one more regional word for "cool" (e.g., *¡Bacano!* in Colombia or *¡Copado!* in Argentina).
+* **ELL/Heritage:** Invite heritage speakers to share their family's specific regional greetings.
 
 ---
 
 ### 📺 Supplemental Resource Bank
 
-> 🎥 **Featured Video for Today:** [**Spanish Greetings and Feelings - Practice with Seño Bluemel**](https://www.youtube.com/watch?v=uEYlUHii3aM)
+> 🎬 **Watch:** Visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) and show the **Channel Trailer**. Students will hear authentic Barranquilla Spanish and see the *calidez* of Colombian culture.
 >
-> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+> 🌐 **Explore:** Teachers may utilize the **Seño Bluemel ¡Qué Chévere! YouTube Channel** for additional instructional support and authentic audio-visual resources.
 
 ---
 
 ### 🔐 Intellectual Property & Usage Notice
+
 **© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
 *This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
