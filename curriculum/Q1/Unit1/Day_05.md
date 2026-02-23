@@ -1,6 +1,6 @@
 # Quarter 1 | Unit 1 | Day 5
-## ¿Cómo eres tú? — Physical Descriptions (Part 1)
-### *Adjective Agreement and Personal Attributes*
+## Formative IPA: Greetings in a Global Context
+### *Integrated Performance Assessment — Simulated International Exchange*
 *Unit 1 — Identidad y Comunidad Global | Week 1 | Quarter 1 | Day 5 of 171*
 
 ---
@@ -10,77 +10,107 @@
 
 | Domain | Focus & Standard Alignment |
 |---|---|
-| **Communication** | **Interpersonal:** Exchange physical descriptions with peers. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify people based on physical descriptions. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** Describe oneself using basic adjectives. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
-| **Cultures** | **Perspectives:** Exploring diverse representations of beauty and identity in the Spanish-speaking world. *[ACTFL 2.2 / NCSSFL-ACTFL CUL.P]* |
-| **Connections** | **Art/Media:** Using visual cues and portraits to describe human features. *[ACTFL 3.1 / JNCL-NCLIS]* |
-| **Communities** | **Self-Awareness:** Communicating one's unique physical identity within the classroom. *[ACTFL 5.1 / AATSP]* |
-| **Missouri CLEs** | **FL.1.A.1 / FL.4.A.2:** Using adjectives; recognizing gender/number agreement in Spanish. |
+| **Communication** | **Interpersonal (Novice-Low):** Spoken exchange of greetings and personal information with an unfamiliar person. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Identify key information (name, country, style) from a short text. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* <br> **Presentational:** Present a brief self-introduction to an audience. *[ACTFL 1.3 / NCSSFL-ACTFL PS.N]* |
+| **Cultures** | **Practices & Perspectives:** Demonstrate awareness that greeting customs and language vary by region. *[ACTFL 2.1 / NCSSFL-ACTFL CUL.P]* |
+| **Comparisons** | **Language:** Apply understanding of formal vs. informal register and regional vocabulary variation (*tú* vs. *vos*). *[ACTFL 4.1 / NCSSFL-ACTFL LC.VG]* |
+| **Connections** | **Global Awareness:** Connect language choices to specific cultural identities and global exchange scenarios. *[ACTFL 3.1 / NCSSFL-ACTFL CON.G]* |
+| **Missouri CLEs** | **FL.1.A.1 / FL.1.A.3 / FL.2.A.1:** Engage in conversations, present information, and identify cultural practices. |
 
 ---
 
 ### 🎯 Learning Targets & Can-Do Statements
-> *“Our differences make the community beautiful. Learning to describe them is the first step in seeing them.”*
+> **Essential Question:** When you meet someone from a different part of the Spanish-speaking world, what do you need to know—and *do*—to connect with them respectfully?
 
-* **Learning Target:** I can describe my physical appearance and understand descriptions of others using the verb *Ser*.
-* **Can-Do (Interpretive):** I can identify a person in a photo based on a spoken or written description of their height and hair.
-* **Can-Do (Interpersonal):** I can ask a classmate "¿Cómo eres?" and respond using correct gender agreement.
-* **Can-Do (Presentational):** I can write a 3-sentence description of myself.
+* **Enduring Understanding:** Effective communication requires not just vocabulary, but cultural flexibility to adapt language to the context and the speaker.
+* **Can-Do (Interpretive):** I can recognize a speaker's origin and greeting style from a written or spoken introduction.
+* **Can-Do (Interpersonal):** I can greet a "visitor," exchange names, and match their level of formality (Formal vs. Informal).
+* **Can-Do (Presentational):** I can write or speak a 4–6 sentence self-introduction for a school assembly.
 
 ---
 
-### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
+### 📚 Vocabulary Focus (Assessment Review)
 
+| Spanish | English | Spanish | English |
+|---|---|---|---|
+| **Mucho gusto** | Nice to meet you | **Usted** | You (Formal) |
+| **¿Cómo andás?** | How's it going? (Arg./Inf.) | **Tú / Vos** | You (Informal) |
+| **Bienvenidos** | Welcome | **Me llamo...** | My name is... |
+| **¿Qué onda?** | What's up? (Mexico) | **Encantado/a** | Delighted/Pleased |
+| **El gusto es mío** | The pleasure is mine | **Igualmente** | Likewise |
+| **Chao / Adiós** | Bye / Goodbye | **¿Y tú?** | And you? |
+
+---
+
+### 🌍 Cultural Spotlight: The IPA Scenario
+**Scenario:** *¡Bienvenidos al Intercambio Internacional!*
+Your school is hosting an international student exchange. Three visitors from different countries (**Argentina 🇦🇷, Colombia 🇨🇴, and Mexico 🇲🇽**) are arriving. You must use the "Cultural Clues" learned this week to identify them and greet them in their regional style.
+
+
+
+* **Argentina:** Listen for *vos* and *¿Cómo andás?*
+* **Colombia:** Listen for high formality (*Usted*) and warm phrases like *El gusto es mío*.
+* **Mexico:** Listen for friendly, fast-paced informal greetings like *¿Qué onda?*
+
+---
+
+### 📋 Activity Procedures & Teacher Guidance (IPA Delivery)
 
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
-| **10 min** | **Activador: El Sospechoso** | Teacher describes a "suspect" (a student in the room). Students must point to the person being described. | Use "Input Flood." Repeat the adjectives frequently. Focus on *alto/bajo* and *rubio/moreno*. | **T:** "Es un chico. Es bajo. Es moreno." <br>**C:** (Points to the student) |
-| **12 min** | **Input: Gender Agreement (The 'O' and 'A' Rule)** | Use two characters (one male, one female). Show how the adjective changes: *Él es alto* vs. *Ella es alta*. | **Grammar Alert:** Use color-coding. Use blue for 'O' (masculine) and pink or red for 'A' (feminine) to help visual learners. | *"Paco es bajo. María es baja."* |
-| **15 min** | **Task: ¿Quién es quién? (Interpersonal)** | Pair work. Each student has a set of mystery faces. They must describe their "secret person" until the partner guesses correctly. | **Live-Grade:** Listen for the vowel switch. If a boy says "Yo soy alta," gently point to a male student and say "Alto." | **A:** "¿Cómo es tu persona?" <br>**B:** "Es una chica. Es rubia y alta." |
-| **8 min** | **Presentational: My Avatar** | Students draw a quick self-portrait and label it with three adjectives: *Yo soy...* | Check for consistency. The adjectives must match the student's gender identity. | *"Yo soy bajo, moreno y atlético."* |
-| **5 min** | **Reflexional: The Power of 'Ser'** | Discuss why we use *Ser* for height but *Estar* (from Day 2) for feelings. (Permanent vs. Temporary). | Keep it simple. Height is "who you are" (Identity), feelings are "how you are" (State). | "Soy alto (Fixed) vs Estoy feliz (Temporary)." |
+| **5 min** | **Warm-Up: Register ID** | Teacher greets the class in 3 different styles. Students hold up cards (A, C, or M) for the country. | Mimic the accents and body language from earlier this week. | *"¡Buenas! ¿Cómo andás vos?"* |
+| **10 min** | **IPA Task 1: Interpretive** | Students read a short bio of "Valentina from Argentina" and answer 5 comprehension questions. | Focus on identifying *vos* as an informal clue. | *Identify Valentina's two last names.* |
+| **15 min** | **IPA Task 2: Interpersonal** | Role-play: Students meet a "Visitor" (Teacher or Role Card Partner) and must match the register. | Use a rubric to track if they match *Usted* vs. *Tú* based on the card. | **Card A:** Argentina/Informal. |
+| **10 min** | **IPA Task 3: Presentational** | Students write a formal 4–6 sentence intro for an "Assembly." | Provide sentence frames for students who need scaffolding. | *"Buenos días. Me llamo..."* |
+| **10 min** | **Debrief & Reflection** | Discussion: What was the hardest part? What surprised you about greeting styles? | Use this to prep for Unit 2 (Personal Traits/Feelings). | *"Why does 'vos' matter?"* |
 
 ---
 
-### 📊 ACTFL-Aligned Performance Rubric (4-Tier Formative)
+### 📘 Pedagogical Blueprint: How to Implement this Assessment
 
-| Criteria | **Exceeds (4)** | **Meets (3)** | **Approaching (2)** | **Below (1)** |
-|---|---|---|---|---|
-| **Comprehensibility** | Pronunciation is very clear; correct vowel endings for gender. | Understood by someone used to learners. Consistent vowel use. | Meaning is clear but gender endings are used randomly. | Incomprehensible; uses English adjectives. |
-| **Language Control** | Perfect gender agreement (O/A). Uses *Ser* accurately. | Mostly correct gender. Minimal errors in *Ser* conjugation. | Uses *Soy* but always uses the masculine '-o' ending. | Does not use *Soy* or gendered endings. |
-| **Interpersonal Quality** | Interaction is fluid. Uses follow-up questions naturally. | Actively participates in the guessing game in Spanish. | Relies on pointing and single words. | Refuses to interact; speaks only English. |
-| **Vocabulary Range** | Uses 5+ physical adjectives accurately. | Uses 3-4 basic physical adjectives (alto, bajo, etc.). | Relies on only one or two adjectives. | Cannot identify physical traits in Spanish. |
+**1. The "Integrated" Nature of the IPA:**
+This isn't a vocabulary test; it’s a performance task. The **Interpretive** task (reading about Valentina) feeds into the **Interpersonal** task (speaking). Students are "learning" about their visitor before they meet them.
 
----
+**2. Managing the Register Shift:**
+During the interpersonal task, ensure you (the teacher) or the student "Visitor" are very clear with your cues. If the card says **Formal (Don Ernesto)**, use a deep voice and a serious posture to signal the student needs to use *Usted*.
 
-### 📘 Pedagogical Blueprint: How to Implement this Lesson
-> *A guide for managing the introduction of Adjective Agreement.
-
-**1. The "Default" Masculine:**
-Explain to students that in Spanish, dictionaries usually show the masculine form first. They must be "Language Architects" and change the ending to 'A' if they are describing a female.
-
-**2. Avoid the "Physical Critique":**
-Keep descriptions light and positive. Focus on objective traits like height and hair color to ensure a safe classroom environment.
-
-**3. Modeling the Guessing Game:**
-Before Task 2, do a "Fishbowl" demo. Have one strong student come to the front and play a round with you so everyone sees the interaction pattern.
+**3. Script for the Teacher (CI Warm-Up):**
+> *[Walk in with a scarf and a playful accent]*
+> "¡Hola! **¿Cómo andás vos?** ¿Soy de México? No... ¿Soy de Colombia? No... ¡Soy de **Argentina**! Muy bien.
+> 
+> [Change to a professional, stiff posture]
+> "Buenos días. **¿Cómo se llama usted?** El gusto es mío. This is **Colombia**. This is FORMAL.
+> 
+> Today, you will show me your 'Global Passport.' You will read, you will speak, and you will write. ¡Ustedes son fantásticos!"
 
 ---
 
 ### 🚀 Differentiation & Enrichment
 
-* **Support (Struggling):** Provide an "Agreement Cheat Sheet" (Boy = -o / Girl = -a) taped to their desks.
-* **Enrichment (Achieving):** Challenge students to add "muy" or "un poco" to their descriptions (*Soy un poco bajo*).
+* **Support (Struggling):** Provide a "Cheat Sheet" for Task 2 with three icons: A friend (Tú), A teacher (Usted), and a flag (Regional slang).
+* **Enrichment (Achieving):** Challenge students to include a regional slang word (*Chévere, Qué padre*) correctly during their live role-play.
+* **Heritage Speakers:** Encourage them to play the "Visitor" role, using their family's authentic accent and regional vocabulary to challenge their peers.
+* **ELL Support:** Allow ELL students to bridge concepts using their home language in the "Cultural Reflection" portion of the assessment to show deep understanding.
+
+---
+
+### 📊 Performance Rubric (Formative)
+
+| Criterion | Exceeds (4) | Meets (3) | Approaching (2) | Beginning (1) |
+|---|---|---|---|---|
+| **Interpersonal** | Correct register, natural flow, uses regional cues. | Correct register, full exchange. | Some register errors, partial exchange. | Minimal communication. |
+| **Interpretive** | All details identified with cultural reasoning. | Most details correct. | Identifies main idea but misses nuance. | Struggles to identify names/origin. |
 
 ---
 
 ### 📺 Supplemental Resource Bank
 
-> 🎥 **Featured Video for Today:** [**Physical Descriptions in Spanish - Seño Bluemel**](https://www.youtube.com/watch?v=v7lQ0PqTqhM&t=272s)
+> 🎥 **Featured Video for Today:** [**Spanish Greetings & Introductions — Seño Bluemel**](https://www.youtube.com/watch?v=uEYlUHii3aM)
 >
-> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum.
+> 🎬 **Watch:** For additional instructional support, refer to the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://www.youtube.com/channel/UCvfq1AXJiDzXMV4VlA9ve_w?view_as=subscriber) to find other videos to support this lesson.
 
 ---
 
 ### 🔐 Intellectual Property & Usage Notice
+
 **© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
 *This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
