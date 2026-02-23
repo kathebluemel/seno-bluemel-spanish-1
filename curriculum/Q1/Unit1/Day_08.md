@@ -50,13 +50,19 @@
 
 ---
 
-### 📘 Pedagogical Blueprint
+### 📘 Pedagogical Blueprint: How to Implement this Lesson
 
-**1. The "Tener" Possession:**
-Treat age like an object you carry. This helps visual learners understand why we don't use *Ser*.
+**1. The "Possession of Experience" (Tener vs. Ser):**
+One of the most common errors for English speakers is using *Ser* for age. To fix this, use the **Physical Container Metaphor**. Tell students: *"In English, age is a state of being (I AM young). In Spanish, age is an accumulated collection of experiences (I HAVE 14 years in my pocket)."* * **Teacher Move:** Carry a physical bag or box labeled "Mis Años." When you say *"Tengo 30 años,"* pat the bag. It turns an abstract grammar rule into a concrete visual.
 
-**2. The 1st of the Month:**
-Teach the exception: We say *"el primero de..."* instead of *"el uno de..."* for the 1st. It makes them feel like "insiders."
+**2. Breaking the "English Word Order" Habit:**
+Students will naturally say *"Mayo doce"* because of their L1 (first language) interference. 
+* **The Formula Method:** Write the formula **[ EL + # + DE + MES ]** in large letters on the board. 
+* **Correction Strategy:** If a student says "Octubre cinco," simply point to the word **DE** on the board. This forces them to self-correct and realize that the preposition is the "bridge" that holds the Spanish date together.
+
+**3. The "Insiders" Exception (El Primero):**
+Explicitly teach that Spanish speakers almost never say *"El uno de..."* for the first day of the month. 
+* **Cultural Context:** Tell them that using *"El primero"* is like a secret password that makes them sound like native speakers rather than students reading from a textbook. This builds "Cultural Capital" and makes a dry grammar rule feel like an elite language tip.
 
 ---
 
@@ -72,3 +78,4 @@ Teach the exception: We say *"el primero de..."* instead of *"el uno de..."* for
 
 ### 🔐 Intellectual Property & Usage Notice
 **© 2024-Present Seño Bluemel, M.S. All Rights Reserved.**
+*This lesson plan and its instructional design are the intellectual property of the author. Permitted for individual classroom use only. Redistribution, digital reproduction, or resale is strictly prohibited.*
