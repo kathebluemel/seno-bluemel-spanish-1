@@ -10,10 +10,10 @@
 
 | Domain | Focus & Standard Alignment |
 |---|---|
-| **Communication** | **Interpersonal (Novice-Low):** Engage in basic spoken exchanges including greetings and name sharing. *[ACTFL 1.1]* <br> **Interpretive:** Demonstrate understanding of high-frequency greetings through physical response. *[ACTFL 1.2]* |
-| **Cultures** | **Practices & Perspectives:** Recognize that greeting customs vary across Spanish-speaking regions and reflect cultural values. *[ACTFL 2.1]* |
-| **Comparisons** | **Language:** Identify that Spanish is one language with many regional expressions and accents. *[ACTFL 4.1]* |
-| **Connections** | **Global Awareness:** Connect Spanish language learning to a global, multicultural world. *[ACTFL 3.1]* |
+| **Communication** | **Interpersonal (Novice-Low):** Engage in basic spoken exchanges including greetings and name sharing. *[ACTFL 1.1 / NCSSFL-ACTFL IC.N]* <br> **Interpretive:** Demonstrate understanding of high-frequency greetings through physical response. *[ACTFL 1.2 / NCSSFL-ACTFL IR.N]* |
+| **Cultures** | **Practices & Perspectives:** Recognize that greeting customs vary across Spanish-speaking regions and reflect cultural values. *[ACTFL 2.1 / NCSSFL-ACTFL CUL.P]* |
+| **Comparisons** | **Language:** Identify that Spanish is one language with many regional expressions and accents. *[ACTFL 4.1 / NCSSFL-ACTFL LC.VG]* |
+| **Connections** | **Global Awareness:** Connect Spanish language learning to a global, multicultural world. *[ACTFL 3.1 / NCSSFL-ACTFL CON.G]* |
 | **Missouri CLEs** | **I.1.1.A / C.1.1.A:** Use target language greetings and identify basic cultural practices. |
 
 ---
@@ -44,6 +44,8 @@
 
 ### 🌍 Cultural Spotlight: Greetings Are Never Just Words
 
+
+
 Spanish is spoken across **21 countries** on 4 continents. The form a greeting takes is a cultural signature:
 
 * **Colombia 🇨🇴:** In Seño Bluemel’s hometown of **Barranquilla**, greetings are warm (*calidez*). Coastal Colombians add energy with **¡Chévere!** and often use physical touch (kisses/hugs) between friends.
@@ -55,8 +57,6 @@ Spanish is spoken across **21 countries** on 4 continents. The form a greeting t
 ---
 
 ### 📋 Activity Procedures & Teacher Guidance (Core Delivery)
-
-
 
 | Time | Activity Title | Procedure & Instructional Details | Teacher Tips & Guidance | Examples |
 |:---:|---|---|---|---|
@@ -78,7 +78,7 @@ Teaching *Chévere, Qué padre,* and *Guay* immediately gives students "Cultural
 
 **3. Script for the Teacher (CI Model):**
 > *[Stand at the front with a map. Wave.]*
-> "¡Hola! ¡Hola, hola! Bienvenidos. Welcome to Spanish! Yo soy la **Seño Bluemel**. Yo soy de **Colombia**. [Point to Barranquilla]. Sol, calor, Caribe. ¡Chévere! But Spanish is not only Colombia. [Sweep hand across map]. Es México, es España, es Argentina. ¡21 países! A big world—un mundo grande. Now, I want to know YOU. ¿Cómo te llamas? [Point to self] Yo me llamo Seño Bluemel. [Point to student] ¿Y tú?"
+> "¡Hola! ¡Hola, hola! Bienvenidos. Welcome to Spanish! Yo soy la **Seño Bluemel**. Yo soy de **Colombia**. [Point to Barranquilla on the map]. Sol, calor, Caribe. ¡Chévere! But Spanish is not only Colombia. [Sweep hand across map]. Es México, es España, es Argentina. ¡21 países! A big world—un mundo grande. Now, I want to know YOU. ¿Cómo te llamas? [Point to self] Yo me llamo Seño Bluemel. [Point to student] ¿Y tú?"
 
 ---
 
@@ -92,9 +92,9 @@ Teaching *Chévere, Qué padre,* and *Guay* immediately gives students "Cultural
 
 ### 📺 Supplemental Resource Bank
 
-> 🎬 **Watch:** Visit [youtube.com/@SenoBluemelQueChevere](https://youtube.com/@SenoBluemelQueChevere) and show the **Channel Trailer**. Students will hear authentic Barranquilla Spanish and see the *calidez* of Colombian culture.
+> 🎥 **Featured Video for Today:** [**Spanish Greetings & Introductions — Seño Bluemel**](https://www.youtube.com/watch?v=uEYlUHii3aM)
 >
-> 🌐 **Explore:** Teachers may utilize the **Seño Bluemel ¡Qué Chévere! YouTube Channel** for additional instructional support and authentic audio-visual resources.
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://youtube.com/@SenoBluemelQueChevere). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum. Show the **Channel Trailer** to hear authentic Barranquilla Spanish and see the *calidez* of Colombian culture.
 
 ---
 
