@@ -94,7 +94,7 @@ Teaching *Chévere, Qué padre,* and *Guay* immediately gives students "Cultural
 
 > 🎥 **Featured Video for Today:** [**Spanish Greetings & Introductions — Seño Bluemel**](https://www.youtube.com/watch?v=uEYlUHii3aM)
 >
-> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://youtube.com/@SenoBluemelQueChevere). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum. Show the **Channel Trailer** to hear authentic Barranquilla Spanish and see the *calidez* of Colombian culture.
+> 🎬 **Watch:** For additional instructional support and authentic audio-visual resources, teachers may utilize the [**Seño Bluemel ¡Qué Chévere! YouTube Channel**](https://youtube.com/@SenoBluemelQueChevere). Many videos are specifically designed to align with and reinforce the topics covered in this curriculum. Use the **Channel Trailer** to hear authentic Barranquilla Spanish and experience the *calidez* of Colombian culture.
 
 ---
 
